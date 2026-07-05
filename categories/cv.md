@@ -1,11 +1,13 @@
 # Computer Vision
 
-118 case studies.
+120 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
 | [Say What You See: Building Multimodal Content Signals at Scale](https://medium.com/agoda-engineering/say-what-you-see-building-multimodal-content-signals-at-scale-0fa5ee20a02b) | Agoda | vlm | 2026 | Agoda links 700M+ hotel images and multilingual reviews into a shared topic taxonomy via image classification and NLP pipelines (PySpark/Kubeflow), doubling clicks on multimodal highlights in the app. |
+| [Connecting Stores From Edge to Cloud: Reinventing Retail with Physical AI](https://www.instacart.com/company/enterprise-blog/connecting-stores-from-edge-to-cloud-reinventing-retail-with-physical-ai) | Instacart | object-detection | 2026 | Instacart's Caper smart carts use 5 cameras with NVIDIA Jetson Orin NX edge encoders and cloud VLM encoders for real-time item detection and shelf monitoring via sensor fusion, deployed at 100+ cities with 3x year-over-year growth. |
 | [Enterprise-Scale Document AI: State-of-the-Art Document Understanding at Snowflake](https://www.snowflake.com/en/engineering-blog/enterprise-scale-document-ai/) | Snowflake | ocr | 2026 | Snowflake's AI Parse Document service uses layout-aware OCR to preserve reading order, reconstruct tables, and maintain hierarchy for downstream LLM extraction on messy enterprise documents. |
+| [Real-Time Package Damage Detection at Scale: Integrating YOLO in Warehouse Operations](https://www.aboutwayfair.com/careers/tech-blog/real-time-package-damage-detection-at-scale-integrating-yolo-in-warehouse-operations) | Wayfair | object-detection | 2026 | Wayfair's Tarragon YOLO-based CV model automatically detects damaged packages in real-time on warehouse conveyor belts, integrated into the warehouse sorting flow to prevent damaged deliveries before the last mile. |
 | [Inside Agoda's Content Enrichment Platform: Managing 450M+ Property Images](https://medium.com/agoda-engineering/inside-agodas-content-enrichment-platform-managing-450m-property-images-516bf4bee165) | Agoda | image-classification | 2025 | Agoda rebuilt its image platform (DenseNet169 quality scoring, ViT tagging, RealESRGAN super-resolution, cosine-similarity dedup) on Spark+Couchbase to enrich 450M+ property images and cut metadata replication from days to ~20 minutes. |
 | [Image replacement in Canva designs using reverse image search](https://www.canva.dev/blog/engineering/image-replacement-in-canva-designs-using-reverse-image-search/) | Canva | visual-search | 2025 | Find and replace similar images |
 | [Using LLM to transcribe restaurant menu photos](https://careersatdoordash.com/blog/doordash-llm-transcribe-menu/) | Doordash | image-classification | 2025 | Transcribe content form photos |

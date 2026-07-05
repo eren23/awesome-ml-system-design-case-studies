@@ -1,6 +1,6 @@
 # NLP & Information Extraction
 
-142 case studies.
+145 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Learning from structure: Discord's Entity-Relationship Embeddings](https://discord.com/blog/learning-from-structure-discords-entity-relationship-embeddings) | Discord | entity-resolution | 2024 | Find relationships in data |
 | [Using NLP to Purposefully Articulate Software Changes](https://developer.gs.com/blog/posts/using-nlp-to-purposefully-articulate-software-changes) | Goldman Sachs | classification | 2024 | Improve change request titles |
 | [Detecting Delicate Text: Going Beyond Toxicity](https://www.grammarly.com/blog/engineering/detecting-delicate-text/) | Grammarly | classification | 2024 | Detect delicate text |
+| [How Grammarly Uses NLP & ML to Identify Main Points](https://www.grammarly.com/blog/engineering/nlp-ml-identify-main-points/) | Grammarly | information-extraction | 2024 | Grammarly's production NLP system uses a hybrid extractive approach combining LexRank, TextRank, and BERTSUM to identify main points in documents for 30 million daily active users at low latency. |
 | [How we broke customer support language barriers without breaking production](https://blog.picnic.nl/how-picnic-migrated-ml-architectures-without-sacrificing-operational-continuity-271c0e04014a) | Picnic | classification | 2024 | Route support requests to agents |
 | [Address Correction for Q-Commerce Part 1: Location Inaccuracy Classifier](https://bytes.swiggy.com/address-correction-for-q-commerce-part-1-location-inaccuracy-classifier-e72b88a33d2f) | Swiggy | classification | 2024 | Automatically populate and correct addresses |
 | [Address Correction for Q-Commerce Part 2: Geocoder](https://bytes.swiggy.com/address-correction-for-q-commerce-part-2-geocoder-3bbd6ee828c0) | Swiggy | entity-resolution | 2024 | Automatically populate and correct addresses |
@@ -32,9 +33,11 @@
 | [Uncovering Hidden Insights in Customer Feedback](https://medium.com/kingfisher-technology/uncovering-hidden-insights-in-customer-feedback-824daa16fa37) | Kingfisher Technology | classification | 2023 | Analyze key themes in customer surveys |
 | [Building and Maintaining the Skills Taxonomy That Powers LinkedIn's Skills Graph](https://www.linkedin.com/blog/engineering/data/building-maintaining-the-skills-taxonomy-that-powers-linkedins-skills-graph) | LinkedIn | entity-resolution | 2023 | LinkedIn constructs and maintains its skills taxonomy with KGBert, a fine-tuned BERT model that classifies skill-pair relationships and disambiguates skill entities, paired with an entity-discovery pipeline and human-in-the-loop curation. |
 | [Extracting skills from content to fuel the LinkedIn Skills Graph](https://engineering.linkedin.com/blog/2023/extracting-skills-from-content-to-fuel-the-linkedin-skills-graph) | Linkedin | information-extraction | 2023 | Extract skill information from texts |
+| [LM-Based Query Categorization for Query Understanding at Mercari](https://engineering.mercari.com/en/blog/entry/20231222-language-model-based-query-categorization-for-query-understanding/) | Mercari | classification | 2023 | Mercari's US search team deployed a DistilBERT-based query categorization model that achieves 0.80 micro-F1 and doubled the coverage of classified search keywords versus a traditional ML baseline. |
 | [Bringing the world closer together with a foundational multimodal model for speech translation](https://ai.meta.com/blog/seamless-m4t/) | Meta | translation | 2023 | Translate and transcribe across speech and text |
 | [Using topic modelling to understand customer saving goals](https://medium.com/data-monzo/using-topic-modelling-to-understand-customer-saving-goals-2bb06f00ce2d) | Monzo | classification | 2023 | Detect patterns in text data |
 | [Presenting Precog, Nubank’s Real Time Event AI](https://building.nubank.com.br/presenting-precog-nubanks-real-time-event-ai/) | Nubank | classification | 2023 | Automatically route customer phone calls |
+| [Why Plaid Built the Transaction Enrichment Engine](https://plaid.com/blog/transaction-enrichment-engine/) | Plaid | entity-resolution | 2023 | Plaid's Transaction Enrichment Engine uses a BERT-like masked language model for NER to extract merchant names and locations from unstructured transaction description strings, powering large-scale consumer transaction enrichment for fintech apps. |
 | [Data-Centric Machine Learning: Building Shopify Inbox's Message Classification Model](https://shopify.engineering/shopify-inbox-message-classification-model) | Shopify | classification | 2023 | Shopify takes a data-centric approach to build a message-intent classification model for the millions of buyer-merchant messages in Shopify Inbox. |
 | [Exploring an Entity Resolution Framework Across Various Use Cases](https://medium.com/walmartglobaltech/exploring-an-entity-resolution-framework-across-various-use-cases-cb172632e4ae) | Walmart | entity-resolution | 2023 | Resolve entities and detect relationships |
 | [Yelp Content As Embeddings](https://engineeringblog.yelp.com/2023/04/yelp-content-as-embeddings.html) | Yelp | classification | 2023 | Organize e-commerce content using embeddings |

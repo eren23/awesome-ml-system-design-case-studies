@@ -1,6 +1,6 @@
 # Optimization & Operations
 
-61 case studies.
+62 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [Solving Dispatch in a Ridesharing Problem Space](https://eng.lyft.com/solving-dispatch-in-a-ridesharing-problem-space-821d9606c3ff) | Lyft | dispatch | 2025 | Lyft's Driver Dispatch team explains how it frames real-time rider-driver matching as a bipartite graph optimization problem solved at scale under uncertainty. |
 | [How we aggregate 70 billion prices to show price context to our users](https://tech.trivago.com/post/2025-02-13-how-we-aggregate-70-billion-prices-to-show-price-context-to-our-users) | Trivago | pricing | 2025 | Price comparison at scale |
 | [Inside the AI network orchestrating Walmart's fastest holiday deliveries yet](https://tech.walmart.com/content/walmart-global-tech/en_us/blog/post/inside-the-ai-network-orchestrating-walmarts-fastest-holiday-deliveries-yet.html) | Walmart | routing | 2025 | Walmart Global Tech describes an interconnected AI fulfillment system pairing predictive inventory pre-positioning with multi-agent real-time orchestration of routing, driver assignment, and dynamic delivery windows for holiday peak. |
+| [Using Optimization and LLMs to Enhance Cloud Supply Chain Operations](https://www.microsoft.com/en-us/research/video/using-optimization-and-llms-to-enhance-cloud-supply-chain-operations/) | Microsoft | logistics | 2024 | Microsoft deployed a hybrid system combining a combinatorial optimization solver for server fulfillment logistics with LLMs to explain solver outputs to supply chain planners, improving cloud datacenter provisioning efficiency. |
 | [Practical Marketplace Optimization at Uber Using Causally-Informed Machine Learning](https://arxiv.org/abs/2407.19078) | Uber | allocation | 2024 | Uber describes an end-to-end ML-and-optimization pipeline that uses a causal S-Learner estimator to allocate marketplace budget across driver incentives and rider promotions for maximum business value. |
 | [Walmart's Element: A machine learning platform like no other (Intelligent Driver Dispatch)](https://tech.walmart.com/content/walmart-global-tech/en_us/blog/post/walmarts-element-a-machine-learning-platform-like-no-other.html) | Walmart | dispatch | 2024 | Walmart's last-mile team runs an intelligent driver dispatch system on the Element platform that combines ML, optimization, and heuristics to time driver searches and match drivers to delivery trips. |
 | [Paper Announcement: Joint Order Selection, Allocation, Batching and Picking for Large Scale Warehouses](https://engineering.zalando.com/posts/2024/01/paper-warehouse-order-batching.html) | Zalando | allocation | 2024 | Zalando presents a unified optimization framework that jointly solves order selection, item allocation, batching, and picking for large-scale warehouses, replacing the traditional sequential decomposition to raise fulfillment efficiency. |
