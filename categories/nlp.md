@@ -1,6 +1,6 @@
 # NLP & Information Extraction
 
-152 case studies.
+154 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [Information Extraction at Scribd](https://tech.scribd.com/blog/2021/information-extraction-at-scribd.html) | Scribd | information-extraction | 2021 | Extract metadata from documents |
 | [Using Rich Image and Text Data to Categorize Products at Scale](https://shopify.engineering/using-rich-image-text-data-categorize-products) | Shopify | classification | 2021 | Categorize e-commerce products |
 | [Email Classification](https://slack.engineering/email-classification/) | Slack | classification | 2021 | Predict Slack connect invites |
+| [How Thomson Reuters Accelerated Research and Development of Natural Language Processing Solutions with Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-accelerated-research-and-development-of-natural-language-processing-solutions-with-amazon-sagemaker/) | Thomson Reuters | entity-resolution | 2021 | Thomson Reuters Labs used Amazon SageMaker to accelerate training and iteration of NLP models for legal document understanding, including entity recognition and text classification across their news and legal research corpora. |
 | [Deep Learning: Product Categorization and Shelving](https://medium.com/walmartglobaltech/deep-learning-product-categorization-and-shelving-630571e81e96) | Walmart | classification | 2021 | Categorize e-commerce products |
 | [From RGB to Descriptive Color Names: Wayfair's in-house color algorithms to improve customer shopping experience.](https://www.aboutwayfair.com/careers/tech-blog/from-rgb-to-descriptive-color-names-wayfairs-in-house-color-algorithms-to-improve-customer-shopping-experience) | Wayfair | classification | 2021 | Assign color names to products |
 | [Attribute Recognition in Real Estate Listings](https://www.zillow.com/tech/attribute-recognition-in-real-estate-listings/) | Zillow | information-extraction | 2021 | Zillow describes recognizing and extracting structured attributes from free-text real estate listing descriptions. |
@@ -145,6 +146,7 @@
 | [Toward a Full-Scale Neural Machine Translation in Production: the Booking.com Use Case](https://arxiv.org/abs/1709.05820) | Booking.com | translation | 2017 | Booking.com details building an in-house travel-domain NMT system in production, covering training strategy, real-world content, and evaluation. |
 | [Building Smart Replies for Member Messages](https://engineering.linkedin.com/blog/2017/10/building-smart-replies-for-member-messages) | LinkedIn | classification | 2017 |  |
 | [Making Sense of Messy Data](https://plaid.com/blog/making-sense-of-messy-data/) | Plaid | classification | 2017 | Plaid replaced rule-based and bag-of-words approaches with a word-embedding neural classifier that categorizes bank transactions across thousands of institutions by learning local word-order patterns in descriptions. |
+| [Semantic Question Matching with Deep Learning](https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning) | Quora | entity-resolution | 2017 | Quora deployed a siamese LSTM network to detect semantically equivalent questions at scale, replacing their term-matching baseline with a deep learning approach that captures paraphrase relationships for question deduplication. |
 | [Continual Prediction of Notification Attendance with Classical and Deep Networks](https://arxiv.org/abs/1712.07120) | Telefonica | classification | 2017 |  |
 | [Smart Reply: Automated Response Suggestion for Email](https://research.google/pubs/pub45189/) | Google | classification | 2016 |  |
 | [Large-scale Item Categorization in e-Commerce Using Multiple Recurrent Neural Networks](https://www.kdd.org/kdd2016/subtopic/view/large-scale-item-categorization-in-e-commerce-using-multiple-recurrent-neur/) | NAVER | classification | 2016 |  |

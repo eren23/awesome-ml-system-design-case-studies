@@ -1,6 +1,6 @@
 # MLOps / Platform / Infra
 
-258 case studies.
+264 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Automated detection, diagnosis & remediation of app failure](https://www.capitalone.com/tech/machine-learning/automated-detection-diagnosis-remediation-of-application-failure/) | Capital One | applied-ml | 2021 | Automate incident management |
 | [Improving Virtual Card Numbers with Edge Machine Learning](https://www.capitalone.com/tech/machine-learning/edge-machine-learning-eno-virtual-card-numbers/) | Capital One | serving | 2021 | Improve cardholder experience |
 | [Predicting Hard Drive Failure with Machine Learning](https://datto.engineering/post/predicting-hard-drive-failure-with-machine-learning) | Datto | applied-ml | 2021 | Predict hard drive failures |
+| [DevOps for Machine Learning – What does this mean, and why do you need it?](https://tech.deliveryhero.com/devops-for-machine-learning-what-does-this-mean-and-why-do-you-need-it/) | Delivery Hero | monitoring-infra | 2021 | Delivery Hero explores how DevOps principles—CI/CD, automation, and monitoring—apply to machine learning systems, enabling their team to ship and maintain ML models reliably across 30+ countries and 10M+ daily orders. |
 | [Universal Holdout Groups at Disney Streaming](https://medium.com/disney-streaming/universal-holdout-groups-at-disney-streaming-2043360def4f) | Disney | experimentation | 2021 |  |
 | [Building Flexible Ensemble ML Models with a Computational Graph](https://doordash.engineering/2021/01/26/computational-graph-machine-learning-ensemble-model-support/) | DoorDash | platform | 2021 |  |
 | [Maintaining Machine Learning Model Accuracy Through Monitoring](https://doordash.engineering/2021/05/20/monitor-machine-learning-model-drift/) | DoorDash | monitoring-infra | 2021 |  |
@@ -168,17 +169,20 @@
 | [Redesigning Etsy’s Machine Learning Platform](https://www.etsy.com/codeascraft/redesigning-etsys-machine-learning-platform/) | Etsy | platform | 2021 |  |
 | [Network Experimentation at Scale](https://research.fb.com/publications/network-experimentation-at-scale/) | Facebook | experimentation | 2021 |  |
 | [MLOps at GreenSteam: Shipping Machine Learning](https://neptune.ai/blog/mlops-at-greensteam-shipping-machine-learning-case-study) | GreenSteam | platform | 2021 |  |
+| [Model health assurance at LinkedIn](https://engineering.linkedin.com/blog/2021/model-health-assurance-at-linkedin) | LinkedIn | monitoring-infra | 2021 | LinkedIn describes their automated framework for monitoring ML model health in production, detecting performance degradation and ensuring reliability across all deployed models at scale. |
 | [Our approach to building transparent and explainable AI systems](https://engineering.linkedin.com/blog/2021/transparent-and-explainable-AI-systems) | LinkedIn | explainability | 2021 |  |
 | [LyftLearn: ML Model Training Infrastructure built on Kubernetes](https://eng.lyft.com/lyftlearn-ml-model-training-infrastructure-built-on-kubernetes-aef8218842bb) | Lyft | platform | 2021 |  |
 | [Causal Inference — Estimating Long-term Engagement](https://medium.com/mercadolibre-tech/causal-inference-estimating-long-term-engagement-fac517929073) | Mercado Libre | experimentation | 2021 | Predict customer engagement and LTV |
 | [How we design our push notifications strategy so that customers interact with our product](https://medium.com/mercadolibre-tech/how-we-design-our-push-notifications-strategy-so-that-customers-interact-with-our-product-fda8a3c4be01) | Mercado Libre | applied-ml | 2021 | Generate attractive push notifications |
 | [Interpreting A/B Test Results: False Negatives and Power](https://netflixtechblog.com/interpreting-a-b-test-results-false-negatives-and-power-6943995cf3a8) | Netflix | experimentation | 2021 |  |
 | [Interpreting A/B Test Results: False Positives and Statistical Significance](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a) | Netflix | experimentation | 2021 |  |
+| [Meson: Workflow Orchestration for Netflix Recommendations](https://netflixtechblog.com/meson-workflow-orchestration-for-netflix-recommendations-fc932625c1d9) | Netflix | efficiency | 2021 | Netflix describes Meson (Managed Execution System for Online Needs), their internal workflow orchestration system managing ML pipelines across multiple time horizons for recommendation generation at scale. |
 | [ML Model Monitoring - 9 Tips From the Trenches](https://building.nubank.com.br/ml-model-monitoring-9-tips-from-the-trenches/) | Nubank | monitoring-infra | 2021 |  |
 | [Using Machine Learning to Improve Payment Authorization Rate](https://medium.com/paypal-tech/using-machine-learning-to-improve-payment-authorization-rates-bc3b2cbf4999) | PayPal | payments | 2021 | Predict declined transactions |
 | [A Behind-the-Scenes Look at How Postman’s Data Team Works](https://entrepreneurshandbook.co/a-behind-the-scenes-look-at-how-postmans-data-team-works-fded0b8bfc64) | Postman | team | 2021 |  |
 | [Evolving Reddit’s ML Model Deployment and Serving Architecture](https://www.reddit.com/r/RedditEng/comments/q14tsw/evolving_reddits_ml_model_deployment_and_serving/) | Reddit | serving | 2021 |  |
 | [5 Steps for Building Machine Learning Models for Business](https://shopify.engineering/building-business-machine-learning-models) | Shopify | practices | 2021 |  |
+| [Railyard: how we rapidly train machine learning models with Kubernetes](https://stripe.com/blog/railyard-training-models) | Stripe | platform | 2021 | Stripe describes Railyard, their Kubernetes-based ML training platform that intelligently pairs training jobs with optimal instance types and manages job provenance in a Postgres-backed Scala service for thousands of models. |
 | [Examining algorithmic amplification of political content on Twitter](https://blog.twitter.com/en_us/topics/company/2021/rml-politicalcontent) | Twitter | ethics | 2021 |  |
 | [Introducing Twitter’s first algorithmic bias bounty challenge](https://blog.twitter.com/engineering/en_us/topics/insights/2021/algorithmic-bias-bounty-challenge) | Twitter | ethics | 2021 |  |
 | [Applying Machine Learning in Internal Audit with Sparsely Labeled Data](https://www.uber.com/en-GB/blog/ml-internal-audit/) | Uber | applied-ml | 2021 | Identify cash intermediaries |
@@ -225,6 +229,7 @@
 | [150 Successful Machine Learning Models: 6 Lessons Learned at Booking.com](https://blog.acolyer.org/2019/10/07/150-successful-machine-learning-models/) | Booking.com | practices | 2019 | 150 Successful Machine Learning Models |
 | [Teaching machines to triage Firefox bugs](https://hacks.mozilla.org/2019/04/teaching-machines-to-triage-firefox-bugs/) | Firefox | applied-ml | 2019 | Automatically assign new untriaged bugs |
 | [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48) | Instagram | platform | 2019 |  |
+| [How we built a CI/CD Pipeline for machine learning with online training in Kubeflow](https://cloud.google.com/blog/products/ai-machine-learning/itau-unibanco-how-we-built-a-cicd-pipeline-for-machine-learning-with-online-training-in-kubeflow) | Itaú Unibanco | training-infra | 2019 | Brazil's largest private bank built a Kubeflow-based CI/CD pipeline automating ML model training, deployment, and serving for their AVI virtual assistant handling 1M monthly interactions, cutting iteration cycles from days to hours. |
 | [Human-Like Playtesting with Deep Learning](https://medium.com/techking/human-like-playtesting-with-deep-learning-92adafffe921) | King | applied-ml | 2019 | Automate playtesting pipeline |
 | [Detecting Interference: An A/B Test of A/B Tests](https://engineering.linkedin.com/blog/2019/06/detecting-interference--an-a-b-test-of-a-b-tests) | LinkedIn | experimentation | 2019 |  |
 | [Open-Sourcing Metaflow - a Human-Centric Framework for Data Science](https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9) | Netflix | platform | 2019 |  |
@@ -251,6 +256,7 @@
 | [Building an Intelligent Experimentation Platform with Uber Engineering](https://eng.uber.com/experimentation-platform/) | Uber | experimentation | 2017 |  |
 | [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) | Uber | platform | 2017 |  |
 | [What is the most effective way to structure a data science team?](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) | Udemy | team | 2017 |  |
+| [Introducing FBLearner Flow: Facebook's AI backbone](https://engineering.fb.com/ml-applications/introducing-fblearner-flow-facebook-s-ai-backbone/) | Meta | platform | 2016 | Facebook introduces FBLearner Flow, their internal ML platform enabling any engineer to train and deploy ML models at scale, processing over 1 million model training tasks per month across all product teams. |
 | [It’s All A/Bout Testing: The Netflix Experimentation Platform](https://netflixtechblog.com/its-all-a-bout-testing-the-netflix-experimentation-platform-4e1ca458c15) | Netflix | experimentation | 2016 |  |
 | [Building Pinterest’s A/B Testing Platform](https://medium.com/pinterest-engineering/building-pinterests-a-b-testing-platform-ab4934ace9f4) | Pinterest | experimentation | 2016 |  |
 | [Engineers Shouldn’t Write ETL: A Guide to Building a High Functioning Data Science Department](https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/) | Stitch Fix | team | 2016 |  |

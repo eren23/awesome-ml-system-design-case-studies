@@ -1,6 +1,6 @@
 # Ads & Bidding
 
-107 case studies.
+108 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Optimizing CTR Prediction through Clustering-Based Feature Engineering](https://www.taboola.com/engineering/optimizing-ctr-prediction-through-clustering-based-feature-engineering/) | Taboola | ctr-prediction | 2024 | Taboola used clustering-based feature engineering to characterize publishers by user and article properties, feeding richer features into its DeepFM CTR-prediction model. |
 | [Ads Recommendation in a Collapsed and Entangled World](https://arxiv.org/abs/2403.00793) | Tencent | ctr-prediction | 2024 | Tencent shares a decade of production solutions and analysis tools for feature encoding, embedding dimensional collapse, and interest entanglement in its WeChat-scale ads recommendation system. |
 | [Jupiter: Config Driven Adtech Batch Ingestion Platform](https://www.uber.com/us/en/blog/jupiter-batch-ingestion-platform/) | Uber | attribution | 2024 | Uber built Jupiter, a config-driven self-service platform for ingesting heterogeneous advertising signals from partners, cutting onboarding time over 90% and latency over 70%. |
+| [Mystique: A Budget Pacing System for Performance Optimization in Online Advertising](https://www.yahooinc.com/research/publications/mystique-a-budget-pacing-system-for-performance-optimization-in-online-advertising) | Yahoo | budget-pacing | 2024 | Yahoo's Mystique uses a two-level soft-throttling approach—setting daily target spending curves per campaign and continuously updating pacing signals—deployed in production to pace over $1 billion in annual ad spend for their native advertising marketplace. |
 | [Ensuring Even Ad Spend on the Zalando Homepage: How Our New Bidding Algorithm Maximizes Value](https://engineering.zalando.com/posts/2024/09/even-ad-spend-on-zalando-homepage.html) | Zalando | bidding | 2024 | Zalando designed a new bidding algorithm to evenly pace advertiser spend across the homepage while maximizing value for both advertisers and shoppers. |
 | [Ranking and Calibrating Click-Attributed Purchases in Performance Display Advertising](https://www.amazon.science/publications/ranking-and-calibrating-click-attributed-purchases-in-performance-display-advertising) | Amazon | ctr-prediction | 2023 | Amazon describes ranking and calibration methods for predicting click-attributed purchases in performance display advertising to set bids and report conversions accurately. |
 | [Demonstrating the Value of our Packages](https://engineering.autotrader.co.uk/2023/03/24/demonstrating-the-value-of-our-advertising-packages.html) | Autotrader | ctr-prediction | 2023 | Predicting advertising performance |
