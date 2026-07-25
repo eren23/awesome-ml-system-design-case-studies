@@ -1,11 +1,12 @@
 # Data & Feature Engineering
 
-144 case studies.
+145 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
 | [Data Mesh at Grab (Part II): The foundational tools behind certification](https://engineering.grab.com/data-mesh-part-2-the-foundational-tools-behind-certification) | Grab | data-discovery | 2026 | Grab describes Hubble, Genchi, and a Data Contract Registry, three platforms that operationalize data-mesh certification across hundreds of thousands of data assets. |
 | [Lyft's Feature Store: Architecture, Optimization, and Evolution](https://eng.lyft.com/lyfts-feature-store-architecture-optimization-and-evolution-7835f8962b99) | Lyft | feature-store | 2026 | Lyft details the architecture and evolution of its feature store, including git-config-driven feature definitions integrated with Amundsen for feature discovery and reuse. |
+| [How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines](https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/) | Meta | data-pipeline | 2026 | Meta deployed an AI system to automatically surface and map undocumented tribal knowledge embedded in large-scale production data pipelines, improving pipeline observability and reducing reliance on individual engineer expertise. |
 | [Netflix — The Data Canary: How Netflix Validates Catalog Metadata](https://netflixtechblog.com/the-data-canary-how-netflix-validates-catalog-metadata-18b699d58e36) | Netflix | data-discovery | 2026 | Netflix's Data Canary orchestrator validates catalog-metadata data transformations against production traffic using baseline/canary clusters and chaos experiments, detecting bad data in under 10 minutes before it reaches members. |
 | [Feature stores for real-time ML: Part 2 - Lessons learned from production](https://building.nubank.com/feature-stores-for-real-time-ml-part-2-lessons-learned-from-production/) | Nubank | feature-store | 2026 | Nubank shares production lessons from its real-time feature store (hybrid build-vs-buy on Kubernetes/Kafka/Pinot/Flink), treating it as an internal product with naming conventions, streaming-first retrieval and train-serve skew monitoring. |
 | [Nubank — Feature Stores for Real-Time ML: Why and When to Centralize Feature Logic](https://building.nubank.com/feature-stores-for-real-time-ml-why-and-when-to-centralize-feature-logic/) | Nubank | feature-store | 2026 | Nubank explains its real-time feature-store approach centralizing feature logic with HTTP and streaming (Kafka) retrieval strategies and a feature registry to reduce training-serving skew, weighing latency and adoption trade-offs. |

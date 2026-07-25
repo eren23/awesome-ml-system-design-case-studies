@@ -1,6 +1,6 @@
 # Computer Vision
 
-140 case studies.
+141 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Machine Learning Powered Content Moderation: Computer Vision Applications at Expedia](https://medium.com/expedia-group-tech/image-moderation-d5e228b3c2d7) | Expedia | image-classification | 2021 | Expedia builds per-category image-classification components to moderate the millions of lodging photos it receives each quarter for quality and compliance. |
 | [New AI Research to Help Predict COVID-19 Resource Needs From X-rays](https://ai.facebook.com/blog/new-ai-research-to-help-predict-covid-19-resource-needs-from-a-series-of-x-rays/) | Facebook | image-classification | 2021 |  |
 | [A snapshot of AI-powered reminiscing in Google Photos](https://medium.com/people-ai-research/a-snapshot-of-ai-powered-reminiscing-in-google-photos-5a05d2f2aa46) | Google | image-classification | 2021 | Suggest past photos to look at |
+| [Updating Google Maps with Deep Learning and Street View](https://research.google/blog/updating-google-maps-with-deep-learning-and-street-view/) | Google | object-detection | 2021 | Google uses deep learning on Street View imagery to automatically detect and extract addresses, business names, and road features, enabling Google Maps data to be kept accurate at global scale. |
 | [4 times faster image segmentation with TRTorch](https://www.photoroom.com/inside-photoroom/faster-image-segmentation-trtorch-tensorrt) | Photoroom | segmentation | 2021 | Photoroom compiles its segmentation model with TRTorch/TensorRT to make background-removal inference roughly 4x faster in production. |
 | [Building a scalable data management system for computer vision tasks](https://medium.com/pinterest-engineering/building-a-scalable-data-management-system-for-computer-vision-tasks-a6dee8f1c580) | Pinterest | image-classification | 2021 | Pinterest engineers a scalable data-management system to curate, version, and serve labeled image datasets that feed its many production computer-vision models. |
 | [Engineering Visual Search Inside Pinterest Browser Extensions](https://medium.com/pinterest-engineering/engineering-visual-search-inside-pinterest-browser-extensions-90e7ed9d2b14) | Pinterest | object-detection | 2021 | Pinterest describes building production visual search capability into browser extensions, allowing users to visually search any image on the web and find related pins using on-device object detection and server-side retrieval. |

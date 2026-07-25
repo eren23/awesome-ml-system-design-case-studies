@@ -1,6 +1,6 @@
 # MLOps / Platform / Infra
 
-264 case studies.
+267 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
@@ -10,6 +10,9 @@
 | [How Low-Bit Inference Enables Efficient AI](https://dropbox.tech/machine-learning/how-low-bit-inference-enables-efficient-ai) | Dropbox | efficiency | 2026 | Dropbox shares how HQQ (Half-Quadratic Quantization) and their custom Gemlite GPU kernel library enable efficient 4-bit and 2-bit LLM inference in production for Dropbox Dash, dramatically cutting compute and memory costs while maintaining quality for conversational AI and multimodal search. |
 | [Building Real-time Machine Learning Foundations at Lyft](https://eng.lyft.com/building-real-time-machine-learning-foundations-at-lyft-6dd99b385a4e) | Lyft | serving | 2026 | Real-time ML streaming foundations to enrich models with streaming data. |
 | [LyftLearn Evolution: Rethinking ML Platform Architecture](https://eng.lyft.com/lyftlearn-evolution-rethinking-ml-platform-architecture-547de6c950e1) | Lyft | platform | 2026 | Hybrid platform combining Kubernetes and SageMaker for thousands of production models. |
+| [Meta's AI Storage Blueprint at Scale](https://engineering.fb.com/2026/07/01/data-infrastructure/metas-ai-storage-blueprint-at-scale/) | Meta | efficiency | 2026 | Meta rebuilt its AI training storage stack using a FUSE-based filesystem backed by the Tectonic distributed storage system optimized for Flash, cutting cross-region AI training data transfer time by up to 97% and reducing GPU idle time. |
+| [Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler](https://engineering.fb.com/2026/07/13/ml-applications/modernizing-the-meta-ads-service-with-an-open-source-kernel-scheduler/) | Meta | efficiency | 2026 | Meta modernized the kernel-level scheduling layer of its ads ML serving service by adopting an open-source kernel scheduler, improving GPU compute efficiency for large-scale ranking and inference workloads. |
+| [In-House LLM Serving at Netflix](https://netflixtechblog.com/in-house-llm-serving-at-netflix-a5a8e799ea2c) | Netflix | platform | 2026 | Netflix's AI Platform migrated its LLM serving stack from TensorRT-LLM to vLLM as the paved-path engine, unifying all model types—from XGBoost ensembles to large LLMs—under a single gRPC-based serving pipeline. |
 | [Scaling LLM Post-Training at Netflix](https://netflixtechblog.com/scaling-llm-post-training-at-netflix-0046f8790194) | Netflix | platform | 2026 | Netflix built an internal LLM post-training framework (Data/Model/Compute/Workflow abstractions on PyTorch+Ray+vLLM+Verl) that evolved from SFT to on-policy RL with a single-controller+SPMD execution model. |
 | [State of Routing in Model Serving](https://netflixtechblog.com/state-of-routing-in-model-serving-16e22fe18741) | Netflix | efficiency | 2026 | Netflix describes the Switchboard and Lightbulb architecture that routes 1M RPS across hundreds of model types with context-aware, canary-capable traffic splitting via Envoy, solving latency and single-point-of-failure challenges in large-scale ML serving. |
 | [A Decade of AI Platform at Pinterest](https://medium.com/pinterest-engineering/a-decade-of-ai-platform-at-pinterest-4e3b37c0f758) | Pinterest | platform | 2026 | Retrospective on building Pinterest's AI/ML platform over a decade. |

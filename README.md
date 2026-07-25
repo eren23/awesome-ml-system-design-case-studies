@@ -6,7 +6,7 @@ engineering write-ups of how production ML systems are actually built.
 ## Stats
 
 <!-- STATS:START -->
-- **2408** case studies · **388** companies · **16** categories · spanning **2003–2026**
+- **2430** case studies · **399** companies · **16** categories · spanning **2003–2026**
 <!-- STATS:END -->
 
 ## Browse

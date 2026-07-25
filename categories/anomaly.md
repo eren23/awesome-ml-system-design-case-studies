@@ -1,6 +1,6 @@
 # Anomaly Detection & Monitoring
 
-77 case studies.
+78 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Building Unique, Per-Customer Defenses Against Advanced Bot Threats in the AI Era](https://blog.cloudflare.com/per-customer-bot-defenses/) | Cloudflare | outlier-detection | 2025 | Trains individualized ML models per customer that build traffic baselines and learn seasonality to flag behavioral anomalies in bot traffic with higher precision than global models. |
 | [Get Notified About the Most Relevant Events with Advanced HTTP Alerts](https://blog.cloudflare.com/custom-alert-features-anomaly-detection/) | Cloudflare | alerting | 2025 | Advanced HTTP anomaly alerting compares 5-minute traffic windows against 4-hour baselines and fires when deviations exceed 3.5 standard deviations, with configurable sensitivity filters by response code and SLO. |
 | [Lessons Learned from Scaling Up Cloudflare's Anomaly Detection Platform](https://blog.cloudflare.com/lessons-learned-from-scaling-up-cloudflare-anomaly-detection-platform/) | Cloudflare | alerting | 2025 | Scaled HBOS-based bot anomaly detection to 500K+ requests/sec using Kafka and ClickHouse, documenting operational lessons on alert tuning, false-positive management, and system reliability. |
+| [Detect anomalies beyond spikes and new values with Content Anomaly Detection in Cloud SIEM](https://www.datadoghq.com/blog/content-anomaly-detection-cloud-siem/) | Datadog | outlier-detection | 2025 | Datadog's Cloud SIEM uses MinHash and Locality Sensitive Hashing with Jaccard similarity to detect anomalous log content patterns—surfacing subtle behavioral threats that volume-spike methods miss. |
 | [LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience](https://arxiv.org/abs/2501.16744) | IBM | outlier-detection | 2025 | IBM deployed an LLM-assisted anomaly detection API for SREs with 500+ internal users and 200K API calls per year, surfacing cloud infrastructure issues through Grafana dashboard integration. |
 | [DrP: Meta's Root Cause Analysis Platform at Scale](https://engineering.fb.com/2025/12/19/data-infrastructure/drp-metas-root-cause-analysis-platform-at-scale/) | Meta | root-cause | 2025 | Meta's DrP automates incident investigation with an SDK of analyzers (anomaly detection, event isolation, time-series correlation, dimension analysis) running 50k analyses/day for 300+ teams and cutting MTTR 20-80%. |
 | [ML Observability: Bringing Transparency to Payments and Beyond](https://netflixtechblog.com/ml-observability-bring-transparency-to-payments-and-beyond-33073e260a38) | Netflix | root-cause | 2025 | Netflix built an ML observability framework with detection, explanation, and root-cause tooling to monitor the models routing billions of dollars in payments. |

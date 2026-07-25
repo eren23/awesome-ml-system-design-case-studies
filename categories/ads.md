@@ -1,6 +1,6 @@
 # Ads & Bidding
 
-108 case studies.
+109 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
@@ -8,6 +8,7 @@
 | [TokenMixer-Large: Scaling Up Large Ranking Models in Industrial Recommenders](https://arxiv.org/abs/2602.06563) | ByteDance | ctr-prediction | 2026 | ByteDance evolves RankMixer with mixing-and-reverting operators and Sparse Per-token MoE to scale ranking models to 7-15B parameters, deployed across advertising, e-commerce, and live streaming. |
 | [Making Ads Count: Using MMoE and Auxiliary Tasks to Better Connect Buyers & Sellers](https://www.etsy.com/codeascraft/making-ads-count-using-mmoe-and-auxiliary-tasks-to-better-connect-buyers--sellers) | Etsy | ctr-prediction | 2026 | Etsy upgraded its ads search ranking model with a Multigate Mixture-of-Experts architecture and add-to-cart auxiliary task to learn more generalizable engagement representations. |
 | [From Scoring to Spelling: Rebuilding Ads Retrieval at Instacart](https://tech.instacart.com/from-scoring-to-spelling-rebuilding-ads-retrieval-at-instacart-cf36b4e8d1bb) | Instacart | targeting | 2026 | Instacart rebuilt its ads retrieval serving stack as a Go-native service integrated with the Griffin 2.0 ML platform for higher throughput and lower latency. |
+| [AGPO: Asymmetric Group Policy Optimization for Verifiable Reasoning and Search Ads Relevance at JD](https://arxiv.org/abs/2605.05826) | JD.com | targeting | 2026 | JD.com trains Rele-Ads-8B, a decoder-only transformer, with asymmetric group policy optimization to serve as a semantic relevance gatekeeper that filters mismatched ads before the ranking stage in JD Ads Search. |
 | [JD-BP: A Joint-Decision Generative Framework for Auto-Bidding and Pricing](https://arxiv.org/abs/2604.05845) | JD.com | bidding | 2026 | JD.com jointly generates bid values and pricing-correction terms with a memory-less return-to-go generative framework, lifting ad revenue 4.70% in online A/B tests. |
 | [GR4AD: Generative Recommendation for Large-Scale Advertising](https://arxiv.org/abs/2602.22732) | Kuaishou | targeting | 2026 | Kuaishou co-designs a production generative ad recommender with lazy autoregressive decoding, value-aware learning, and dynamic beam serving, lifting ad revenue 4.2% over its DLRM stack for 400M+ users. |
 | [LBM: Hierarchical Large Auto-Bidding Model via Reasoning and Acting](https://arxiv.org/abs/2603.05134) | Kuaishou | bidding | 2026 | Kuaishou introduces LBM, a hierarchical large auto-bidding model leveraging LLM reasoning and tool-augmented acting to generate interpretable and adaptive bidding strategies for online advertising, published at WWW 2026. |

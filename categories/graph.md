@@ -1,6 +1,6 @@
 # Graph & Network ML
 
-87 case studies.
+88 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Personalizing Audiobooks and Podcasts with graph-based models](https://research.atspotify.com/2024/05/personalizing-audiobooks-and-podcasts-with-graph-based-models) | Spotify | gnn | 2024 | Spotify builds a co-listening heterogeneous GNN plus two-tower model to personalize audiobook and podcast recommendations, lifting cold-start coverage. |
 | [Generalizing Graph Transformers Across Diverse Graphs and Tasks via Pre-training (PGT at Tencent)](https://arxiv.org/abs/2407.03953) | Tencent | gnn | 2024 | Tencent's pre-trained graph transformer (PGT) framework is implemented and deployed across multiple games for detection tasks, generalizing across diverse graphs and labels. |
 | [Exploring the Potential of Graph Neural Networks to Transform Recommendations at Zalando](https://engineering.zalando.com/posts/2024/12/gnn-recommendations-zalando.html) | Zalando | gnn | 2024 | Zalando trains a GraphSage GNN on a user-content bipartite graph and feeds its embeddings into the production ranking model for homepage recommendations. |
+| [Mitigating risk: AWS backbone network traffic prediction using GraphStorm](https://aws.amazon.com/blogs/machine-learning/mitigating-risk-aws-backbone-network-traffic-prediction-using-graphstorm/) | Amazon | gnn | 2023 | AWS applies GraphStorm GNNs to predict backbone network traffic across Amazon's core infrastructure, enabling proactive capacity and risk management. |
 | [GeaFlow: A Graph Extended and Accelerated Dataflow System](https://dl.acm.org/doi/10.1145/3589771) | Ant Group | knowledge-graph | 2023 | Ant Group's GeaFlow streaming graph dataflow system powers financial risk control, social network and knowledge-graph analytics in production. |
 | [GoSage: Heterogeneous Graph Neural Network Using Hierarchical Attention for Collusion Fraud Detection](https://dl.acm.org/doi/10.1145/3604237.3626856) | Gojek | gnn | 2023 | Gojek deployed GoSage, a heterogeneous GNN with hierarchical multi-level attention, to detect collusion fraud syndicates by modelling multi-relational connections between customers and merchants across its ride-hailing and payment platforms. |
 | [Graph Service Platform](https://engineering.grab.com/graph-service-platform) | Grab | gnn | 2023 | Grab's production graph service platform built on Amazon Neptune, Kafka, and DynamoDB to serve GNN-based fraud detection and anti-money laundering models at scale. |

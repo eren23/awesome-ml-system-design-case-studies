@@ -1,9 +1,10 @@
 # Speech & Audio
 
-88 case studies.
+89 case studies.
 
 | Title | Company | Sub | Year | One-liner |
 |---|---|---|---|---|
+| [Azure Speech at Build 2026: Powering Voice Agents with Real-Time and Life-like Experiences](https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/azure-speech-at-build-2026-powering-voice-agents-with-real-time-and-life-like-ex/4524638) | Microsoft | tts | 2026 | Microsoft introduces Voice Live and next-generation LLM-powered speech-to-text and text-to-speech models in Azure Speech to enable production-grade real-time voice agents. |
 | [Listening, Learning, and Helping at Scale: How Machine Learning Transforms Airbnb’s Voice Support Experience](https://medium.com/airbnb-engineering/listening-learning-and-helping-at-scale-how-machine-learning-transforms-airbnbs-voice-support-b71f912d4760) | Airbnb | asr | 2025 | Speech recognition for customer support |
 | [Introducing Amazon Nova Sonic: Human-like Voice Conversations for Generative AI Applications](https://aws.amazon.com/blogs/aws/introducing-amazon-nova-sonic-human-like-voice-conversations-for-generative-ai-applications/) | Amazon (AWS) | asr | 2025 | Amazon launches Nova Sonic, a unified speech-to-speech foundation model on Amazon Bedrock that fuses speech recognition and generation into a single streaming architecture with 32K speech token context windows. |
 | [Introducing New Products and Model Updates for Voice AI Applications](https://www.assemblyai.com/blog/introducing-new-products-and-model-updates) | AssemblyAI | asr | 2025 | AssemblyAI launches Universal-3.5 Pro Real-Time and new Voice AI platform features, targeting production voice agents and contact-center transcription at scale. |
