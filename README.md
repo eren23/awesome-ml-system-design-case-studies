@@ -5,12 +5,16 @@ engineering write-ups of how production ML systems are actually built.
 
 ## Stats
 
-- **2079** case studies · **340** companies · **16** categories · spanning **2003–2026**
+<!-- STATS:START -->
+- **2408** case studies · **388** companies · **16** categories · spanning **2003–2026**
+<!-- STATS:END -->
 
 ## Browse
 
 - **[INDEX.md](INDEX.md)** — everything, grouped by category (newest first)
 - **[RECENT.md](RECENT.md)** — most recently added + counts by year
+- **[COMPANIES.md](COMPANIES.md)** — browse by company (400 companies)
+- **[TAGS.md](TAGS.md)** — browse by tag/technique (llm, rag, feature-store, embeddings, …)
 - **[categories/](categories/)** — one page per category
 - **[notes/](notes/)** — structured deep-dive notes on selected studies (problem · system design · key decisions · stack · results · takeaways), growing over time
 - **[data/case_studies.csv](data/case_studies.csv)** — the raw data (filter/query however you like)
