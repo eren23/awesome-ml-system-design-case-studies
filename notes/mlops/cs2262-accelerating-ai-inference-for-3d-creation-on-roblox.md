@@ -5,12 +5,12 @@ company: Roblox
 primary_category: mlops
 sub_category: serving
 year: 2025
-source_url: https://about.roblox.com/newsroom/2025/06/accelerating-ai-inference-roblox-3d-creation
+source_url: https://web.archive.org/web/20260420000033/https://about.roblox.com/newsroom/2025/06/accelerating-ai-inference-roblox-3d-creation
 tags: [inference-optimization, cuda-graphs, kv-cache, transformer, 3d-generation, latency, gpu-optimization]
 ---
 
 # Accelerating AI Inference for 3D Creation on Roblox
-**Roblox** · 2025 · [source](https://about.roblox.com/newsroom/2025/06/accelerating-ai-inference-roblox-3d-creation)
+**Roblox** · 2025 · [source](https://web.archive.org/web/20260420000033/https://about.roblox.com/newsroom/2025/06/accelerating-ai-inference-roblox-3d-creation)
 
 ## Problem
 Roblox's Cube 3D autoregressive transformer generates 3D objects from text prompts, but naive inference took 60.5ms per token and about 31 seconds per object — far too slow for an interactive creation tool. Profiling showed the bottleneck was CPU–GPU scheduling inefficiency: the GPU sat idle while the CPU prepared the next batch of work.

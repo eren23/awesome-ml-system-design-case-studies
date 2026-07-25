@@ -5,12 +5,12 @@ company: Niantic
 primary_category: cv
 sub_category: embeddings
 year: 2024
-source_url: https://nianticlabs.com/news/largegeospatialmodel
+source_url: https://www.nianticspatial.com/blog/largegeospatialmodel
 tags: [geospatial, neural-implicit-representation, visual-positioning, visual-localization, large-scale, neural-radiance-fields, ar, vps]
 ---
 
 # Building a Large Geospatial Model to Achieve Spatial Intelligence
-**Niantic** · 2024 · [source](https://nianticlabs.com/news/largegeospatialmodel)
+**Niantic** · 2024 · [source](https://www.nianticspatial.com/blog/largegeospatialmodel)
 
 ## Problem
 Machines lack the spatial understanding humans take for granted — imagining a familiar structure from an unseen angle or inferring the parts of a scene they haven't observed. Existing AI models can't extrapolate places from novel viewpoints, which limits AR, robotics, and autonomous systems. Niantic's location-specific neural maps each work in isolation, so knowledge learned at one place can't help understand another.

@@ -5,12 +5,12 @@ company: Swiggy
 primary_category: cv
 sub_category: object-detection
 year: 2025
-source_url: https://bytes.swiggy.com/enhancing-brand-visibility-and-trust-with-on-device-ml-models-a-journey-at-swiggy-e3e626f96c52
+source_url: https://medium.com/swiggy-bytes/enhancing-brand-visibility-and-trust-with-on-device-ml-models-a-journey-at-swiggy-e3e626f96c52
 tags: [CV]
 ---
 
 # Enhancing Brand Visibility and Trust with On device ML models: A Journey at Swiggy
-**Swiggy** · 2025 · [source](https://bytes.swiggy.com/enhancing-brand-visibility-and-trust-with-on-device-ml-models-a-journey-at-swiggy-e3e626f96c52)
+**Swiggy** · 2025 · [source](https://medium.com/swiggy-bytes/enhancing-brand-visibility-and-trust-with-on-device-ml-models-a-journey-at-swiggy-e3e626f96c52)
 
 ## Problem
 Swiggy wanted delivery executives (DEs) to wear Swiggy-branded gear (t-shirts, jackets, bags) for brand visibility and trust, and needed to automatically verify compliance from photos in real time. The key constraint: minimize false negatives (missing gear that is actually present). DEs often work in areas with poor connectivity, so detection must be fast and not depend on the network.

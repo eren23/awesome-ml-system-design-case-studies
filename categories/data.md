@@ -93,7 +93,7 @@
 | [Open sourcing Querybook, Pinterest's collaborative big data hub](https://medium.com/pinterest-engineering/open-sourcing-querybook-pinterests-collaborative-big-data-hub-ba2605558883) | Pinterest | data-discovery | 2021 | Pinterest open-sourced Querybook, a collaborative big-data UI that collocates query authoring with table metadata and lineage extracted from every executed query to power data discovery. |
 | [Capturing Every Change From Shopify's Sharded Monolith](https://shopify.engineering/capturing-every-change-shopify-sharded-monolith) | Shopify | data-pipeline | 2021 | Shopify built a change-data-capture platform that reliably streams every database change from its sharded monolith to underpin reporting, analytics, and downstream data products. |
 | [Functions & DAGs: introducing Hamilton, a microframework for dataframe generation](https://multithreaded.stitchfix.com/blog/2021/10/14/functions-dags-hamilton/) | Stitch Fix | data-pipeline | 2021 |  |
-| [Optimal Feature Discovery: Better, Leaner Machine Learning Models Through Information Theory](https://eng.uber.com/optimal-feature-discovery-ml/) | Uber | data-discovery | 2021 |  |
+| [Optimal Feature Discovery: Better, Leaner Machine Learning Models Through Information Theory](https://www.uber.com/blog/optimal-feature-discovery-ml/) | Uber | data-discovery | 2021 |  |
 | [Real-time Data Infrastructure at Uber](https://arxiv.org/pdf/2104.00087.pdf) | Uber | data-pipeline | 2021 |  |
 | [Uber — How Uber Achieves Operational Excellence in the Data Quality Experience](https://www.uber.com/us/en/blog/operational-excellence-data-quality/) | Uber | data-quality | 2021 | Uber built UDQ, a consolidated data-quality platform (test generator, execution engine, alert/incident managers) running ~100k daily tests over 2,000+ critical datasets and catching ~90% of data-quality incidents. |
 | [Zalando — Space Efficient Machine Learning Feature Stores Using Probabilistic Data Structures](https://engineering.zalando.com/posts/2021/10/space-efficient-machine-learning-feature-stores-using-probabilistic-data-structures.html) | Zalando | feature-store | 2021 | Zalando benchmarks using bloom filters to hold compressed feature data in process memory instead of an external store like Redis, matching key-value accuracy (AUC ~0.80) at ~3% of the memory with documented trade-offs. |
@@ -117,8 +117,8 @@
 | [How We’re Solving Data Discovery Challenges at Shopify](https://engineering.shopify.com/blogs/engineering/solving-data-discovery-challenges-shopify) | Shopify | data-discovery | 2020 |  |
 | [How We Improved Data Discovery for Data Scientists at Spotify](https://engineering.atspotify.com/2020/02/27/how-we-improved-data-discovery-for-data-scientists-at-spotify/) | Spotify | data-discovery | 2020 |  |
 | [Using Amundsen to Support User Privacy via Metadata Collection at Square](https://developer.squareup.com/blog/using-amundsen-to-support-user-privacy-via-metadata-collection-at-square/) | Square | data-discovery | 2020 |  |
-| [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://eng.uber.com/money-scale-strong-data/) | Uber | data-pipeline | 2020 |  |
-| [Turning Metadata Into Insights with Databook](https://eng.uber.com/metadata-insights-databook/) | Uber | data-discovery | 2020 |  |
+| [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://www.uber.com/blog/money-scale-strong-data/) | Uber | data-pipeline | 2020 |  |
+| [Turning Metadata Into Insights with Databook](https://www.uber.com/blog/metadata-insights-databook/) | Uber | data-discovery | 2020 |  |
 | [Introducing Yelp's Machine Learning Platform](https://engineeringblog.yelp.com/2020/07/ML-platform-overview.html) | Yelp | data-pipeline | 2020 | Yelp describes its ML platform where developers build training datasets and feature/encoding pipelines on Spark, serialized with MLeap for consistent training-to-serving feature transformation. |
 | [Accelerating Machine Learning with the Feature Store Service](https://technology.condenast.com/story/accelerating-machine-learning-with-the-feature-store-service) | Condé Nast | feature-store | 2019 |  |
 | [Introducing Feast: An Open Source Feature Store for Machine Learning](https://cloud.google.com/blog/products/ai-machine-learning/introducing-feast-an-open-source-feature-store-for-machine-learning) | Gojek | feature-store | 2019 |  |
@@ -138,11 +138,11 @@
 | [Feature Store: The missing data layer for Machine Learning pipelines?](https://www.hopsworks.ai/post/feature-store-the-missing-data-layer-in-ml-pipelines) | Hopsworks | feature-store | 2018 |  |
 | [Fact Store at Scale for Netflix Recommendations](https://www.youtube.com/watch?v=DiwKg8KynVU) | Netflix | feature-store | 2018 |  |
 | [Metacat: Making Big Data Discoverable and Meaningful at Netflix](https://netflixtechblog.com/metacat-making-big-data-discoverable-and-meaningful-at-netflix-56fb36a53520) | Netflix | data-discovery | 2018 |  |
-| [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://eng.uber.com/databook/) | Uber | data-discovery | 2018 |  |
+| [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://www.uber.com/blog/databook/) | Uber | data-discovery | 2018 |  |
 | [Democratizing Data at Airbnb](https://medium.com/airbnb-engineering/democratizing-data-at-airbnb-852d76c51770) | Airbnb | data-discovery | 2017 |  |
 | [Data Management Challenges in Production Machine Learning](https://research.google/pubs/pub46178/) | Google | data-quality | 2017 |  |
 | [Building the Activity Graph, Part 2 (Feature Storage Section)](https://engineering.linkedin.com/blog/2017/07/building-the-activity-graph--part-2) | LinkedIn | feature-store | 2017 |  |
-| [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/) | Uber | data-quality | 2017 |  |
+| [Monitoring Data Quality at Scale with Statistical Modeling](https://www.uber.com/blog/monitoring-data-quality-at-scale/) | Uber | data-quality | 2017 |  |
 | [Reliable and Scalable Data Ingestion at Airbnb](https://www.slideshare.net/HadoopSummit/reliable-and-scalable-data-ingestion-at-airbnb-63920989) | Airbnb | data-pipeline | 2016 |  |
 | [Distributed Time Travel for Feature Generation](https://netflixtechblog.com/distributed-time-travel-for-feature-generation-389cccdd3907) | Netflix | feature-store | 2016 |  |
 | [Discovery and Consumption of Analytics Data at Twitter](https://blog.twitter.com/engineering/en_us/topics/insights/2016/discovery-and-consumption-of-analytics-data-at-twitter.html) | Twitter | data-discovery | 2016 |  |

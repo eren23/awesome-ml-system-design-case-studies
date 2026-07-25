@@ -183,48 +183,48 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 - [Uber’s Real-Time Document Check](https://www.uber.com/en-GB/blog/ubers-real-time-document-check/) — Fraud, Risk & Trust/Safety, 2022
 - [Applying Machine Learning in Internal Audit with Sparsely Labeled Data](https://www.uber.com/en-GB/blog/ml-internal-audit/) — MLOps / Platform / Infra, 2021
 - [Building a Backtesting Service to Measure Model Performance at Uber-scale](https://www.uber.com/blog/backtesting-at-scale/) — Forecasting & ETA / Demand, 2021
-- [Continuous Integration and Deployment for Machine Learning Online Serving and Models](https://eng.uber.com/continuous-integration-deployment-ml/) — MLOps / Platform / Infra, 2021
-- [Elastic Distributed Training with XGBoost on Ray](https://eng.uber.com/elastic-xgboost-ray/) — MLOps / Platform / Infra, 2021
+- [Continuous Integration and Deployment for Machine Learning Online Serving and Models](https://www.uber.com/blog/continuous-integration-deployment-ml/) — MLOps / Platform / Infra, 2021
+- [Elastic Distributed Training with XGBoost on Ray](https://www.uber.com/blog/elastic-xgboost-ray/) — MLOps / Platform / Infra, 2021
 - [Fraud Detection: Using Relational Graph Learning to Detect Collusion](https://www.uber.com/blog/fraud-detection/) — Fraud, Risk & Trust/Safety, 2021
-- [Introducing Orbit, An Open Source Package for Time Series Inference and Forecasting](https://eng.uber.com/orbit/) — Forecasting & ETA / Demand, 2021
-- [Optimal Feature Discovery: Better, Leaner Machine Learning Models Through Information Theory](https://eng.uber.com/optimal-feature-discovery-ml/) — Data & Feature Engineering, 2021
+- [Introducing Orbit, An Open Source Package for Time Series Inference and Forecasting](https://www.uber.com/blog/orbit/) — Forecasting & ETA / Demand, 2021
+- [Optimal Feature Discovery: Better, Leaner Machine Learning Models Through Information Theory](https://www.uber.com/blog/optimal-feature-discovery-ml/) — Data & Feature Engineering, 2021
 - [Permute, Quantize, and Fine-tune: Efficient Compression of Neural Networks](https://arxiv.org/abs/2010.15703) — MLOps / Platform / Infra, 2021
 - [Real-time Data Infrastructure at Uber](https://arxiv.org/pdf/2104.00087.pdf) — Data & Feature Engineering, 2021
 - [Real-Time Exactly-Once Ad Event Processing with Apache Flink, Kafka, and Pinot](https://www.uber.com/us/en/blog/real-time-exactly-once-ad-event-processing/) — Ads & Bidding, 2021
-- [Tuning Model Performance](https://eng.uber.com/tuning-model-performance/) — MLOps / Platform / Infra, 2021
+- [Tuning Model Performance](https://www.uber.com/blog/tuning-model-performance/) — MLOps / Platform / Infra, 2021
 - [Uber — How Uber Achieves Operational Excellence in the Data Quality Experience](https://www.uber.com/us/en/blog/operational-excellence-data-quality/) — Data & Feature Engineering, 2021
-- [Announcing a New Framework for Designing Optimal Experiments with Pyro](https://eng.uber.com/oed-pyro-release/) — MLOps / Platform / Infra, 2020
-- [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://eng.uber.com/money-scale-strong-data/) — Data & Feature Engineering, 2020
-- [Turning Metadata Into Insights with Databook](https://eng.uber.com/metadata-insights-databook/) — Data & Feature Engineering, 2020
+- [Announcing a New Framework for Designing Optimal Experiments with Pyro](https://www.uber.com/blog/oed-pyro-release/) — MLOps / Platform / Infra, 2020
+- [Revolutionizing Money Movements at Scale with Strong Data Consistency](https://www.uber.com/blog/money-scale-strong-data/) — Data & Feature Engineering, 2020
+- [Turning Metadata Into Insights with Databook](https://www.uber.com/blog/metadata-insights-databook/) — Data & Feature Engineering, 2020
 - [Analyzing Customer Support Tickets with Deep Learning to Improve Uber's Maps](https://www.uber.com/en-IN/blog/nlp-deep-learning-uber-maps/) — NLP & Information Extraction, 2019
 - [Deep Multi-Sensor Lane Detection](https://www.uber.com/blog/research/deep-multi-sensor-lane-detection/) — Computer Vision, 2019
-- [Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations](https://eng.uber.com/uber-eats-graph-learning/) — Graph & Network ML, 2019
-- [Gaining Insights in a Simulated Marketplace with Machine Learning at Uber](https://eng.uber.com/simulated-marketplace/) — Forecasting & ETA / Demand, 2019
+- [Food Discovery with Uber Eats: Using Graph Learning to Power Recommendations](https://www.uber.com/blog/uber-eats-graph-learning/) — Graph & Network ML, 2019
+- [Gaining Insights in a Simulated Marketplace with Machine Learning at Uber](https://www.uber.com/blog/simulated-marketplace/) — Forecasting & ETA / Demand, 2019
 - [Michelangelo Palette: A Feature Engineering Platform at Uber](https://www.infoq.com/presentations/michelangelo-palette-uber/) — Data & Feature Engineering, 2019
-- [Scaling Machine Learning at Uber with Michelangelo](https://eng.uber.com/scaling-michelangelo/) — MLOps / Platform / Infra, 2019
+- [Scaling Machine Learning at Uber with Michelangelo](https://www.uber.com/blog/scaling-michelangelo/) — MLOps / Platform / Infra, 2019
 - [Surge Pricing Moves Uber's Driver-Partners](https://www.uber.com/blog/research/surge-pricing-moves-ubers-driver-partners/) — Optimization & Operations, 2019
 - [Uplift Modeling for Multiple Treatments with Cost Optimization](https://arxiv.org/abs/1908.05372) — Reinforcement Learning, 2019
 - [Using Machine Learning to Ensure the Capacity Safety of Individual Microservices](https://www.uber.com/blog/machine-learning-capacity-safety/) — Forecasting & ETA / Demand, 2019
-- [Analyzing Experiment Outcomes: Beyond Average Treatment Effects](https://eng.uber.com/analyzing-experiment-outcomes/) — MLOps / Platform / Infra, 2018
+- [Analyzing Experiment Outcomes: Beyond Average Treatment Effects](https://www.uber.com/blog/analyzing-experiment-outcomes/) — MLOps / Platform / Infra, 2018
 - [COTA: Improving Uber Customer Care with NLP & Machine Learning](https://www.uber.com/blog/cota/) — NLP & Information Extraction, 2018
-- [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://eng.uber.com/databook/) — Data & Feature Engineering, 2018
+- [Databook: Turning Big Data into Knowledge with Metadata at Uber](https://www.uber.com/blog/databook/) — Data & Feature Engineering, 2018
 - [Engineering Uber Systems to Combat Fraud](https://www.uber.com/blog/fraud-prevention-team-profile/) — Fraud, Risk & Trust/Safety, 2018
-- [Food Discovery with Uber Eats: Building a Query Understanding Engine](https://eng.uber.com/uber-eats-query-understanding/) — Search, Ranking & Retrieval, 2018
-- [Food Discovery with Uber Eats: Recommending for the Marketplace](https://eng.uber.com/uber-eats-recommending-marketplace/) — Recommendation & Personalization, 2018
-- [Forecasting at Uber: An Introduction](https://eng.uber.com/forecasting-introduction/) — Forecasting & ETA / Demand, 2018
-- [How Trip Inferences and Machine Learning Optimize Delivery Times on Uber Eats](https://eng.uber.com/uber-eats-trip-optimization/) — Optimization & Operations, 2018
+- [Food Discovery with Uber Eats: Building a Query Understanding Engine](https://www.uber.com/blog/uber-eats-query-understanding/) — Search, Ranking & Retrieval, 2018
+- [Food Discovery with Uber Eats: Recommending for the Marketplace](https://www.uber.com/blog/uber-eats-recommending-marketplace/) — Recommendation & Personalization, 2018
+- [Forecasting at Uber: An Introduction](https://www.uber.com/blog/forecasting-introduction/) — Forecasting & ETA / Demand, 2018
+- [How Trip Inferences and Machine Learning Optimize Delivery Times on Uber Eats](https://www.uber.com/blog/uber-eats-trip-optimization/) — Optimization & Operations, 2018
 - [Observability at Scale: Building Uber's Alerting Ecosystem](https://www.uber.com/blog/observability-at-scale/) — Anomaly Detection & Monitoring, 2018
 - [Omphalos, Uber's Parallel and Language-Extensible Time Series Backtesting Tool](https://www.uber.com/blog/omphalos/) — Forecasting & ETA / Demand, 2018
-- [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://eng.uber.com/transforming-financial-forecasting-machine-learning/) — Forecasting & ETA / Demand, 2018
-- [Uber's Big Data Platform: 100+ Petabytes with Minute Latency](https://eng.uber.com/uber-big-data-platform/) — Forecasting & ETA / Demand, 2018
-- [Under the Hood of Uber’s Experimentation Platform](https://eng.uber.com/xp/) — MLOps / Platform / Infra, 2018
-- [Building an Intelligent Experimentation Platform with Uber Engineering](https://eng.uber.com/experimentation-platform/) — MLOps / Platform / Infra, 2017
+- [Transforming Financial Forecasting with Data Science and Machine Learning at Uber](https://www.uber.com/blog/transforming-financial-forecasting-machine-learning/) — Forecasting & ETA / Demand, 2018
+- [Uber's Big Data Platform: 100+ Petabytes with Minute Latency](https://www.uber.com/blog/uber-big-data-platform/) — Forecasting & ETA / Demand, 2018
+- [Under the Hood of Uber’s Experimentation Platform](https://www.uber.com/blog/xp/) — MLOps / Platform / Infra, 2018
+- [Building an Intelligent Experimentation Platform with Uber Engineering](https://www.uber.com/blog/experimentation-platform/) — MLOps / Platform / Infra, 2017
 - [Detecting Abuse at Scale: Locality Sensitive Hashing at Uber Engineering](https://www.uber.com/blog/lsh/) — Content Moderation & Spam, 2017
-- [Engineering Extreme Event Forecasting at Uber with RNN](https://eng.uber.com/neural-networks/) — Forecasting & ETA / Demand, 2017
+- [Engineering Extreme Event Forecasting at Uber with RNN](https://www.uber.com/blog/neural-networks/) — Forecasting & ETA / Demand, 2017
 - [Exploring New Machine Learning Models for Account Security](https://medium.com/uber-security-privacy/uber-machine-learning-account-security-3aaadef11e45) — Fraud, Risk & Trust/Safety, 2017
 - [Mastermind: Using Uber Engineering to Combat Fraud in Real Time](https://www.uber.com/blog/mastermind/) — Fraud, Risk & Trust/Safety, 2017
-- [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo-machine-learning-platform/) — MLOps / Platform / Infra, 2017
-- [Monitoring Data Quality at Scale with Statistical Modeling](https://eng.uber.com/monitoring-data-quality-at-scale/) — Data & Feature Engineering, 2017
+- [Meet Michelangelo: Uber’s Machine Learning Platform](https://www.uber.com/blog/michelangelo-machine-learning-platform/) — MLOps / Platform / Infra, 2017
+- [Monitoring Data Quality at Scale with Statistical Modeling](https://www.uber.com/blog/monitoring-data-quality-at-scale/) — Data & Feature Engineering, 2017
 - [Identifying Outages with Argos, Uber's Real-Time Monitoring and Root-Cause Exploration Tool](https://www.uber.com/blog/argos-real-time-alerts/) — Anomaly Detection & Monitoring, 2015
 - [Supercharging A/B Testing at Uber](https://www.uber.com/blog/supercharging-a-b-testing-at-uber/) — MLOps / Platform / Infra, n/a
 
@@ -311,7 +311,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 - [Building The LinkedIn Knowledge Graph](https://engineering.linkedin.com/blog/2016/10/building-the-linkedin-knowledge-graph) — Graph & Network ML, 2016
 - [Learning to Rank Personalized Search Results in Professional Networks](https://arxiv.org/abs/1605.04624) — Search, Ranking & Retrieval, 2016
 - [Personalized Recommendations in LinkedIn Learning](https://engineering.linkedin.com/blog/2016/12/personalized-recommendations-in-linkedin-learning) — Recommendation & Personalization, 2016
-- [High-Precision Phrase-Based Document Classification on a Modern Scale](https://engineering.linkedin.com/research/2011/high-precision-phrase-based-document-classification-on-a-modern-scale) — NLP & Information Extraction, 2011
+- [High-Precision Phrase-Based Document Classification on a Modern Scale](https://web.archive.org/web/20220707163849/https://engineering.linkedin.com/research/2011/high-precision-phrase-based-document-classification-on-a-modern-scale) — NLP & Information Extraction, 2011
 
 ## Netflix (78)
 
@@ -666,7 +666,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 - [Music recommendation at Spotify](http://sigir.org/afirm2019/slides/16.%20Friday%20-%20Music%20Recommendation%20at%20Spotify%20-%20Ben%20Carterette.pdf) — Recommendation & Personalization, 2019
 - [Explore, Exploit, and Explain: Personalizing Explainable Recommendations with Bandits](https://dl.acm.org/doi/10.1145/3240323.3240354) — Recommendation & Personalization, 2018
 - [Recommending Music on Spotify with Deep Learning](https://benanne.github.io/2014/08/05/spotify-cnns.html) — Recommendation & Personalization, 2014
-- [How Music Recommendation Works — And Doesn’t Work](https://notes.variogram.com/2012/12/11/how-music-recommendation-works-and-doesnt-work/) — Recommendation & Personalization, 2012
+- [How Music Recommendation Works — And Doesn’t Work](https://web.archive.org/web/20251111053205/https://notes.variogram.com/2012/12/11/how-music-recommendation-works-and-doesnt-work/) — Recommendation & Personalization, 2012
 
 ## Amazon (56)
 
@@ -1040,7 +1040,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 - [Amundsen — Lyft’s Data Discovery & Metadata Engine](https://eng.lyft.com/amundsen-lyfts-data-discovery-metadata-engine-62d27254fbb9) — Data & Feature Engineering, 2019
 - [Building Lyft’s Marketing Automation Platform](https://eng.lyft.com/lyft-marketing-automation-b43b7b7537cc) — Ads & Bidding, 2019
 - [Detecting Stop Signs and Traffic Signals: Deep Learning at Lyft Mapping](https://eng.lyft.com/detecting-stop-signs-and-traffic-signals-deep-learning-at-lyft-mapping-75bac609c231) — Forecasting & ETA / Demand, 2019
-- [How Lyft Creates Hyper-Accurate Maps from Open-Source Maps and Real-Time Data](https://eng.lyft.com/how-lyft-creates-hyper-accurate-maps-from-open-source-maps-and-real-time-data-8dcf9abdd46a) — Forecasting & ETA / Demand, 2019
+- [How Lyft Creates Hyper-Accurate Maps from Open-Source Maps and Real-Time Data](https://web.archive.org/web/20230221124205/https://eng.lyft.com/how-lyft-creates-hyper-accurate-maps-from-open-source-maps-and-real-time-data-8dcf9abdd46a) — Forecasting & ETA / Demand, 2019
 - [Making cohort-based long-term forecasts at Lyft](https://eng.lyft.com/making-long-term-forecasts-at-lyft-fac475b3ba52) — Forecasting & ETA / Demand, 2019
 - [Open Sourcing Amundsen: A Data Discovery And Metadata Platform](https://eng.lyft.com/open-sourcing-amundsen-a-data-discovery-and-metadata-platform-2282bb436234) — Data & Feature Engineering, 2019
 - [Empowering personalized marketing with machine learning](https://eng.lyft.com/empowering-personalized-marketing-with-machine-learning-fd36e6bdeca6) — Reinforcement Learning, 2018
@@ -1142,33 +1142,33 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 
 ## Swiggy (27)
 
-- [Real-time ML Ranking for Autocomplete: Deploying Learning-to-Rank inside OpenSearch (Part 1)](https://bytes.swiggy.com/real-time-ml-ranking-in-autocomplete-part-1-3cdbbd44f85a) — Search, Ranking & Retrieval, 2026
-- [Enhancing Brand Visibility and Trust with On device ML models: A Journey at Swiggy](https://bytes.swiggy.com/enhancing-brand-visibility-and-trust-with-on-device-ml-models-a-journey-at-swiggy-e3e626f96c52) — Computer Vision, 2025
-- [Hermes V3: Building Swiggy’s Conversational AI Analyst](https://bytes.swiggy.com/hermes-v3-building-swiggys-conversational-ai-analyst-a41057a2279d) — Generative AI / LLM Apps, 2025
+- [Real-time ML Ranking for Autocomplete: Deploying Learning-to-Rank inside OpenSearch (Part 1)](https://medium.com/swiggybytes/real-time-ml-ranking-in-autocomplete-part-1-3cdbbd44f85a) — Search, Ranking & Retrieval, 2026
+- [Enhancing Brand Visibility and Trust with On device ML models: A Journey at Swiggy](https://medium.com/swiggy-bytes/enhancing-brand-visibility-and-trust-with-on-device-ml-models-a-journey-at-swiggy-e3e626f96c52) — Computer Vision, 2025
+- [Hermes V3: Building Swiggy’s Conversational AI Analyst](https://medium.com/swiggy-bytes/hermes-v3-building-swiggys-conversational-ai-analyst-a41057a2279d) — Generative AI / LLM Apps, 2025
 - [Redefining Customer Support: Swiggy's Enterprise-Scale AI Agent Built on Databricks](https://www.databricks.com/blog/redefining-customer-support-swiggys-enterprise-scale-ai-agent-built-databricks) — Generative AI / LLM Apps, 2025
-- [Address Correction for Q-Commerce Part 1: Location Inaccuracy Classifier](https://bytes.swiggy.com/address-correction-for-q-commerce-part-1-location-inaccuracy-classifier-e72b88a33d2f) — NLP & Information Extraction, 2024
-- [Address Correction for Q-Commerce Part 2: Geocoder](https://bytes.swiggy.com/address-correction-for-q-commerce-part-2-geocoder-3bbd6ee828c0) — NLP & Information Extraction, 2024
-- [Hermes: A Text-to-SQL solution at Swiggy](https://bytes.swiggy.com/hermes-a-text-to-sql-solution-at-swiggy-81573fb4fb6e) — Generative AI / LLM Apps, 2024
-- [Improving search relevance in hyperlocal food delivery using (small) language models](https://bytes.swiggy.com/improving-search-relevance-in-hyperlocal-food-delivery-using-small-language-models-ecda2acc24e6) — Generative AI / LLM Apps, 2024
-- [New-User Product Recommendations for Q-Commerce via Hierarchical Cross-Domain Learning](https://bytes.swiggy.com/new-user-product-recommendations-for-q-commerce-via-hierarchical-cross-domain-learning-0a7f97b25405) — Recommendation & Personalization, 2024
-- [Reflecting on a year of generative AI at Swiggy: A brief review of achievements, learnings, and insights](https://bytes.swiggy.com/reflecting-on-a-year-of-generative-ai-at-swiggy-a-brief-review-of-achievements-learnings-and-13a9671dc624) — Generative AI / LLM Apps, 2024
-- [Utilizing DevNet with Variational Loss for Fraud Detection in Hyperlocal Food Delivery](https://bytes.swiggy.com/utilizing-devnet-with-variational-loss-for-fraud-detection-in-hyperlocal-food-delivery-19e72999acfb) — Fraud, Risk & Trust/Safety, 2024
-- [Building a mind reader at Swiggy using Data Science](https://bytes.swiggy.com/building-a-mind-reader-at-swiggy-using-data-science-5a5c38aa6c17) — Recommendation & Personalization, 2023
-- [Contextual Bandits for Ads Recommendations (Multi-Armed Bandits at Swiggy: Part 3)](https://bytes.swiggy.com/contextual-bandits-for-ads-recommendations-ec210775fcf) — Reinforcement Learning, 2023
-- [Evolution of and experiments with feed ranking at Swiggy](https://bytes.swiggy.com/evolution-of-and-experiments-with-feed-ranking-at-swiggy-17204769e79f) — Recommendation & Personalization, 2023
-- [How GenAI Codegen tools are helping us deliver convenience quicker](https://bytes.swiggy.com/how-genai-codegen-tools-are-helping-us-deliver-convenience-quicker-133248a0c714) — MLOps / Platform / Infra, 2023
-- [How ML Powers — When is my order coming? — Part II](https://bytes.swiggy.com/how-ml-powers-when-is-my-order-coming-part-ii-eae83575e3a9) — Forecasting & ETA / Demand, 2023
-- [Multi-Armed Bandits at Swiggy: Part 1](https://bytes.swiggy.com/multi-armed-bandits-at-swiggy-5b1a4b1c2724) — Reinforcement Learning, 2023
-- [Predicting Food Delivery Time at Cart](https://bytes.swiggy.com/predicting-food-delivery-time-at-cart-cda23a84ba63) — Forecasting & ETA / Demand, 2023
-- [Smart Push Notifications (Multi-Armed Bandits at Swiggy: Part 4)](https://bytes.swiggy.com/smart-push-notifications-multi-armed-bandits-at-swiggy-part-4-f5698f2af0a6) — Reinforcement Learning, 2023
-- [Swiggy’s Generative AI Journey: A Peek Into the Future](https://bytes.swiggy.com/swiggys-generative-ai-journey-a-peek-into-the-future-2193c7166d9a) — Search, Ranking & Retrieval, 2023
-- [Where is my order? — Part I](https://bytes.swiggy.com/how-ml-powers-when-is-my-order-coming-part-i-4ef24eae70da) — Forecasting & ETA / Demand, 2023
-- [Logistic Zones for Assignment](https://bytes.swiggy.com/logistic-zones-for-assignment-48d9ce06c4a8) — Optimization & Operations, 2022
-- [Using deep learning to detect dissonance between address text and location](https://bytes.swiggy.com/using-deep-learning-to-detect-dissonance-between-address-text-and-location-4b228bc2c3fb) — MLOps / Platform / Infra, 2022
-- [DeFraudNet: An End-to-End Weak Supervision Framework to Detect Fraud in Online Food Delivery](https://bytes.swiggy.com/defraudnet-an-end-to-end-weak-supervision-framework-to-detect-fraud-in-online-food-delivery-22366ddce461) — Fraud, Risk & Trust/Safety, 2021
-- [Learning to Predict Two-Wheeler Travel Distance](https://bytes.swiggy.com/learning-to-predict-two-wheeler-travel-distance-752d836d741d) — Forecasting & ETA / Demand, 2021
-- [Learning To Rank Restaurants](https://bytes.swiggy.com/learning-to-rank-restaurants-c6a69ba4b330) — Search, Ranking & Retrieval, 2021
-- [Using Deep Learning for Ranking in Dish Search](https://bytes.swiggy.com/using-deep-learning-for-ranking-in-dish-search-4df2772dddce) — Recommendation & Personalization, 2021
+- [Address Correction for Q-Commerce Part 1: Location Inaccuracy Classifier](https://medium.com/swiggybytes/address-correction-for-q-commerce-part-1-location-inaccuracy-classifier-e72b88a33d2f) — NLP & Information Extraction, 2024
+- [Address Correction for Q-Commerce Part 2: Geocoder](https://medium.com/swiggybytes/address-correction-for-q-commerce-part-2-geocoder-3bbd6ee828c0) — NLP & Information Extraction, 2024
+- [Hermes: A Text-to-SQL solution at Swiggy](https://medium.com/swiggy-bytes/hermes-a-text-to-sql-solution-at-swiggy-81573fb4fb6e) — Generative AI / LLM Apps, 2024
+- [Improving search relevance in hyperlocal food delivery using (small) language models](https://medium.com/swiggy-bytes/improving-search-relevance-in-hyperlocal-food-delivery-using-small-language-models-ecda2acc24e6) — Generative AI / LLM Apps, 2024
+- [New-User Product Recommendations for Q-Commerce via Hierarchical Cross-Domain Learning](https://medium.com/swiggybytes/new-user-product-recommendations-for-q-commerce-via-hierarchical-cross-domain-learning-0a7f97b25405) — Recommendation & Personalization, 2024
+- [Reflecting on a year of generative AI at Swiggy: A brief review of achievements, learnings, and insights](https://medium.com/swiggy-bytes/reflecting-on-a-year-of-generative-ai-at-swiggy-a-brief-review-of-achievements-learnings-and-13a9671dc624) — Generative AI / LLM Apps, 2024
+- [Utilizing DevNet with Variational Loss for Fraud Detection in Hyperlocal Food Delivery](https://medium.com/swiggy-bytes/utilizing-devnet-with-variational-loss-for-fraud-detection-in-hyperlocal-food-delivery-19e72999acfb) — Fraud, Risk & Trust/Safety, 2024
+- [Building a mind reader at Swiggy using Data Science](https://medium.com/swiggybytes/building-a-mind-reader-at-swiggy-using-data-science-5a5c38aa6c17) — Recommendation & Personalization, 2023
+- [Contextual Bandits for Ads Recommendations (Multi-Armed Bandits at Swiggy: Part 3)](https://medium.com/swiggybytes/contextual-bandits-for-ads-recommendations-ec210775fcf) — Reinforcement Learning, 2023
+- [Evolution of and experiments with feed ranking at Swiggy](https://medium.com/swiggybytes/evolution-of-and-experiments-with-feed-ranking-at-swiggy-17204769e79f) — Recommendation & Personalization, 2023
+- [How GenAI Codegen tools are helping us deliver convenience quicker](https://medium.com/swiggybytes/how-genai-codegen-tools-are-helping-us-deliver-convenience-quicker-133248a0c714) — MLOps / Platform / Infra, 2023
+- [How ML Powers — When is my order coming? — Part II](https://medium.com/swiggy-bytes/how-ml-powers-when-is-my-order-coming-part-ii-eae83575e3a9) — Forecasting & ETA / Demand, 2023
+- [Multi-Armed Bandits at Swiggy: Part 1](https://medium.com/swiggybytes/multi-armed-bandits-at-swiggy-5b1a4b1c2724) — Reinforcement Learning, 2023
+- [Predicting Food Delivery Time at Cart](https://medium.com/swiggy-bytes/predicting-food-delivery-time-at-cart-cda23a84ba63) — Forecasting & ETA / Demand, 2023
+- [Smart Push Notifications (Multi-Armed Bandits at Swiggy: Part 4)](https://medium.com/swiggybytes/smart-push-notifications-multi-armed-bandits-at-swiggy-part-4-f5698f2af0a6) — Reinforcement Learning, 2023
+- [Swiggy’s Generative AI Journey: A Peek Into the Future](https://medium.com/swiggybytes/swiggys-generative-ai-journey-a-peek-into-the-future-2193c7166d9a) — Search, Ranking & Retrieval, 2023
+- [Where is my order? — Part I](https://medium.com/swiggy-bytes/how-ml-powers-when-is-my-order-coming-part-i-4ef24eae70da) — Forecasting & ETA / Demand, 2023
+- [Logistic Zones for Assignment](https://medium.com/swiggybytes/logistic-zones-for-assignment-48d9ce06c4a8) — Optimization & Operations, 2022
+- [Using deep learning to detect dissonance between address text and location](https://medium.com/swiggybytes/using-deep-learning-to-detect-dissonance-between-address-text-and-location-4b228bc2c3fb) — MLOps / Platform / Infra, 2022
+- [DeFraudNet: An End-to-End Weak Supervision Framework to Detect Fraud in Online Food Delivery](https://medium.com/swiggy-bytes/defraudnet-an-end-to-end-weak-supervision-framework-to-detect-fraud-in-online-food-delivery-22366ddce461) — Fraud, Risk & Trust/Safety, 2021
+- [Learning to Predict Two-Wheeler Travel Distance](https://medium.com/swiggy-bytes/learning-to-predict-two-wheeler-travel-distance-752d836d741d) — Forecasting & ETA / Demand, 2021
+- [Learning To Rank Restaurants](https://medium.com/swiggybytes/learning-to-rank-restaurants-c6a69ba4b330) — Search, Ranking & Retrieval, 2021
+- [Using Deep Learning for Ranking in Dish Search](https://medium.com/swiggybytes/using-deep-learning-for-ranking-in-dish-search-4df2772dddce) — Recommendation & Personalization, 2021
 
 ## Shopify (26)
 
@@ -1242,7 +1242,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 - [Enhancing Content Review: Proactively addressing threats with AutoML](https://engineering.linkedin.com/blog/2023/enhancing-content-review--proactively-addressing-threats-with-au) — Content Moderation & Spam, 2023
 - [Enhancing homepage feed relevance by harnessing the power of large corpus sparse ID embeddings](https://engineering.linkedin.com/blog/2023/enhancing-homepage-feed-relevance-by-harnessing-the-power-of-lar) — Recommendation & Personalization, 2023
 - [Extracting skills from content to fuel the LinkedIn Skills Graph](https://engineering.linkedin.com/blog/2023/extracting-skills-from-content-to-fuel-the-linkedin-skills-graph) — NLP & Information Extraction, 2023
-- [How LinkedIn Is Using Embeddings to Up Its Match Game for Job Seekers](https://engineering.linkedin.com/blog/2023/how-linkedin-is-using-embeddings-to-up-its-match-game-for-job-se) — Search, Ranking & Retrieval, 2023
+- [How LinkedIn Is Using Embeddings to Up Its Match Game for Job Seekers](https://www.linkedin.com/blog/engineering/platform-platformization/using-embeddings-to-up-its-match-game-for-job-seekers) — Search, Ranking & Retrieval, 2023
 - [Improving the customer’s experience via ML-driven payment routing](https://engineering.linkedin.com/blog/2023/improving-the-customer-s-experience-via-ml-driven-payment-routin) — MLOps / Platform / Infra, 2023
 - [Viral spam content detection at LinkedIn](https://engineering.linkedin.com/blog/2023/viral-spam-content-detection-at-linkedin) — Content Moderation & Spam, 2023
 - [Applying multitask learning to AI models at LinkedIn](https://engineering.linkedin.com/blog/2022/applying-multitask-learning-to-ai-models-at-linkedin) — Search, Ranking & Retrieval, 2022
@@ -1451,13 +1451,13 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 - [How We Built a Text-To-SQL AI Agent to Get Instant Answers From Our Data](https://www.salesforce.com/blog/text-to-sql-agent/) — Generative AI / LLM Apps, 2025
 - [How We Built the First Dreamforce Event Agent in 5 Days with Agentforce](https://www.salesforce.com/blog/build-an-ai-agent/) — Generative AI / LLM Apps, 2024
 - [Inside Salesforce's Scalable Time Series Forecasting AI Platform](https://engineering.salesforce.com/inside-salesforces-scalable-time-series-forecasting-ai-platform/) — Forecasting & ETA / Demand, 2024
-- [AI Summarist: Get Your Time Back on Slack, Boost Productivity & Focus, Personalize Information Consumption](https://blog.salesforceairesearch.com/ai-summarist-slack-productivity) — Generative AI / LLM Apps, 2023
-- [On the Diversity and Explainability of Enterprise App Recommendation Systems](https://blog.salesforceairesearch.com/diversity-explainability-enterprise-app-recommendation-systems/) — Recommendation & Personalization, 2023
+- [AI Summarist: Get Your Time Back on Slack, Boost Productivity & Focus, Personalize Information Consumption](https://www.salesforce.com/blog/ai-summarist-slack-productivity/) — Generative AI / LLM Apps, 2023
+- [On the Diversity and Explainability of Enterprise App Recommendation Systems](https://www.salesforce.com/blog/diversity-explainability-enterprise-app-recommendation-systems/) — Recommendation & Personalization, 2023
 - [PyRCA: Making Root Cause Analysis Easy in AIOps](https://www.salesforce.com/blog/pyrca/) — Anomaly Detection & Monitoring, 2023
-- [Resolve Cases Quickly with Interactive Einstein Search Answers](https://blog.salesforceairesearch.com/einstein-search-answers/) — Search, Ranking & Retrieval, 2023
+- [Resolve Cases Quickly with Interactive Einstein Search Answers](https://www.salesforce.com/blog/einstein-search-answers/) — Search, Ranking & Retrieval, 2023
 - [How We Built an Automated Anomaly Detection System onto a Streaming Pipeline](https://engineering.salesforce.com/how-we-built-an-automated-anomaly-detection-system-onto-a-streaming-pipeline-84ecfd6420e0/) — Anomaly Detection & Monitoring, 2022
-- [GeDi: A Powerful New Method for Controlling Language Models](https://blog.einstein.ai/gedi/) — NLP & Information Extraction, 2020
-- [Photon: A Robust Cross-Domain Text-to-SQL System](https://www.aclweb.org/anthology/2020.acl-demos.24/) — NLP & Information Extraction, 2020
+- [GeDi: A Powerful New Method for Controlling Language Models](https://www.salesforce.com/blog/gedi/) — NLP & Information Extraction, 2020
+- [Photon: A Robust Cross-Domain Text-to-SQL System](https://aclanthology.org/2020.acl-demos.24/) — NLP & Information Extraction, 2020
 - [Query Understanding for Natural Language Enterprise Search](https://arxiv.org/abs/2012.06238) — Search, Ranking & Retrieval, 2020
 - [Journey to a Million Models](https://engineering.salesforce.com/journey-to-a-million-models-8233bc5d9eb7/) — Anomaly Detection & Monitoring, 2019
 - [Building a Successful Enterprise AI Platform](https://engineering.salesforce.com/building-a-successful-enterprise-ai-platform-197a3c4d8b60/) — MLOps / Platform / Infra, 2017
@@ -1530,7 +1530,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 - [Universal User Modeling (UUM): Foundation Model for Cross-Surface User Understanding at Snap](https://eng.snap.com/universal_user_modeling) — Recommendation & Personalization, 2025
 - [Building a Spark-Powered Platform for ML Data Needs at Snap](https://eng.snap.com/prism) — Data & Feature Engineering, 2024
 - [Speed Up Feature Engineering for Recommendation Systems](https://eng.snap.com/speed-up-feature-engineering) — Recommendation & Personalization, 2024
-- [Embedding Based Retrieval in Friend Recommendation](https://nshah.net/publications/FriendingEBR.SIGIR.23.pdf) — Graph & Network ML, 2023
+- [Embedding Based Retrieval in Friend Recommendation](https://web.archive.org/web/20251109164336/https://nshah.net/publications/FriendingEBR.SIGIR.23.pdf) — Graph & Network ML, 2023
 - [Embedding-based Retrieval with Two-Tower Models in Spotlight](https://eng.snap.com/embedding-based-retrieval) — Recommendation & Personalization, 2023
 - [AR-Enabled Catalogs: Bringing Augmented Reality to Advertiser Product Catalogs](https://eng.snap.com/ar-enabled-catalogs) — Computer Vision, 2022
 - [Machine Learning for Snapchat Ad Ranking](https://eng.snap.com/machine-learning-snap-ad-ranking) — Ads & Bidding, 2022
@@ -1660,17 +1660,17 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 
 ## Roblox (13)
 
-- [Accelerating AI Inference for 3D Creation on Roblox](https://about.roblox.com/newsroom/2025/06/accelerating-ai-inference-roblox-3d-creation) — MLOps / Platform / Infra, 2025
-- [How Roblox Uses AI to Moderate Content on a Massive Scale](https://corp.roblox.com/newsroom/2025/07/roblox-ai-moderation-massive-scale) — Generative AI / LLM Apps, 2025
-- [Launching More Languages for Our Open-Source Voice Safety Model](https://about.roblox.com/newsroom/2025/04/updating-ml-voice-safety-more-languages) — Fraud, Risk & Trust/Safety, 2025
-- [Open Sourcing Roblox PII Classifier: Our Approach to AI PII Detection in Chat](https://about.roblox.com/newsroom/2025/11/open-sourcing-roblox-pii-classifier-ai-pii-detection-chat) — Content Moderation & Spam, 2025
-- [Open-Sourcing Roblox Sentinel: Our Approach to Preemptive Risk Detection](https://about.roblox.com/newsroom/2025/08/open-sourcing-roblox-sentinel-preemptive-risk-detection) — Fraud, Risk & Trust/Safety, 2025
+- [Accelerating AI Inference for 3D Creation on Roblox](https://web.archive.org/web/20260420000033/https://about.roblox.com/newsroom/2025/06/accelerating-ai-inference-roblox-3d-creation) — MLOps / Platform / Infra, 2025
+- [How Roblox Uses AI to Moderate Content on a Massive Scale](https://web.archive.org/web/20260121234421/https://corp.roblox.com/newsroom/2025/07/roblox-ai-moderation-massive-scale) — Generative AI / LLM Apps, 2025
+- [Launching More Languages for Our Open-Source Voice Safety Model](https://web.archive.org/web/20260115155002/https://corp.roblox.com/newsroom/2025/04/updating-ml-voice-safety-more-languages) — Fraud, Risk & Trust/Safety, 2025
+- [Open Sourcing Roblox PII Classifier: Our Approach to AI PII Detection in Chat](https://web.archive.org/web/20260510111727/https://about.roblox.com/newsroom/2025/11/open-sourcing-roblox-pii-classifier-ai-pii-detection-chat) — Content Moderation & Spam, 2025
+- [Open-Sourcing Roblox Sentinel: Our Approach to Preemptive Risk Detection](https://web.archive.org/web/20260114194538/https://corp.roblox.com/newsroom/2025/08/open-sourcing-roblox-sentinel-preemptive-risk-detection) — Fraud, Risk & Trust/Safety, 2025
 - [Sentinel: Roblox's Open-Source Contrastive Learning Library for Detecting Rare Harmful Text in Real-Time](https://github.com/Roblox/sentinel) — Content Moderation & Spam, 2025
 - [Breaking Down Language Barriers with a Multilingual Translation Model](https://corp.roblox.com/newsroom/2024/02/breaking-down-language-barriers-with-a-multilingual-translation-model) — Generative AI / LLM Apps, 2024
-- [Deploying ML for Voice Safety](https://corp.roblox.com/newsroom/2024/07/deploying-ml-for-voice-safety) — Content Moderation & Spam, 2024
+- [Deploying ML for Voice Safety](https://web.archive.org/web/20260721122922/https://about.roblox.com/newsroom/2024/07/deploying-ml-for-voice-safety) — Content Moderation & Spam, 2024
 - [Inside the Tech: Solving for Safety in Immersive Voice Communication](https://about.roblox.com/newsroom/2024/01/inside-the-tech-solving-for-safety-in-immersive-voice-communication) — Content Moderation & Spam, 2024
-- [Running AI Inference at Scale in the Hybrid Cloud](https://corp.roblox.com/newsroom/2024/09/running-ai-inference-at-scale-in-the-hybrid-cloud) — MLOps / Platform / Infra, 2024
-- [Scaling Safety and Civility on Roblox](https://about.roblox.com/newsroom/2024/04/scaling-safety-civility-roblox) — Content Moderation & Spam, 2024
+- [Running AI Inference at Scale in the Hybrid Cloud](https://web.archive.org/web/20260721122957/https://about.roblox.com/newsroom/2024/09/running-ai-inference-at-scale-in-the-hybrid-cloud) — MLOps / Platform / Infra, 2024
+- [Scaling Safety and Civility on Roblox](https://web.archive.org/web/20260721122956/https://about.roblox.com/newsroom/2024/04/scaling-safety-civility-roblox) — Content Moderation & Spam, 2024
 - [How Roblox Reduces Spark Join Query Costs With Machine Learning Optimized Bloom Filters](https://corp.roblox.com/newsroom/2023/11/roblox-reduces-spark-join-query-costs-machine-learning-optimized-bloom-filters) — MLOps / Platform / Infra, 2023
 - [How We Scaled Bert To Serve 1+ Billion Daily Requests on CPUs](https://blog.roblox.com/2020/05/scaled-bert-serve-1-billion-daily-requests-cpus/) — MLOps / Platform / Infra, 2020
 
@@ -2008,11 +2008,11 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 ## Speechmatics (7)
 
 - [Distributed Self-Distillation for Large-Scale ASR Training](https://blog.speechmatics.com/distirbuted-self-distillation) — Speech & Audio, 2025
-- [Exploring the trade-off between speed and accuracy in real-time transcription](https://www.speechmatics.com/latency_accuracy) — Speech & Audio, 2024
+- [Exploring the trade-off between speed and accuracy in real-time transcription](https://blog.speechmatics.com/latency_accuracy) — Speech & Audio, 2024
 - [How to Build Smarter Turn Detection for Voice AI](https://blog.speechmatics.com/semantic-turn-detection) — Speech & Audio, 2024
 - [Ursa 2: Elevating Speech Recognition Across 52 Languages](https://www.speechmatics.com/company/articles-and-news/ursa-2-elevating-speech-recognition-across-52-languages) — Speech & Audio, 2024
-- [Improving Speaker Diarization with Self-supervised Learning](https://www.speechmatics.com/ssl-diarization) — Speech & Audio, 2023
-- [Reduce Model Tuning Costs with MuP](https://www.speechmatics.com/mup) — Speech & Audio, 2023
+- [Improving Speaker Diarization with Self-supervised Learning](https://blog.speechmatics.com/ssl-diarization) — Speech & Audio, 2023
+- [Reduce Model Tuning Costs with MuP](https://blog.speechmatics.com/mup) — Speech & Audio, 2023
 - [Speechmatics — Introducing Ursa: The World's Most Accurate Speech-to-Text](https://www.speechmatics.com/company/articles-and-news/introducing-ursa-the-worlds-most-accurate-speech-to-text) — Speech & Audio, 2023
 
 ## Bumble (6)
@@ -2058,7 +2058,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 - [Managing ML Models @ Scale - Intuit’s ML Platform](https://www.usenix.org/conference/opml20/presentation/wenzel) — MLOps / Platform / Infra, 2020
 - [Building a Financial Document Understanding Platform](https://medium.com/intuit-engineering/building-a-financial-document-understanding-platform-9e42f7d497c) — Computer Vision, 2019
 - [Learning Information Extraction from Images of Structured Documents Using Synthetic Data and Conditional Random Fields](https://www.intuit.com/blog/innovative-thinking/learning-information-extraction-from-images-of-structured-documents-using-synthetic-data-and-conditional-random-field/) — Computer Vision, 2019
-- [Meet Wasabi, an Open Source A/B Testing Platform](https://www.intuit.com/blog/technology/engineering/meet-wasabi-an-open-source-ab-testing-platform/) — MLOps / Platform / Infra, 2017
+- [Meet Wasabi, an Open Source A/B Testing Platform](https://web.archive.org/web/20210803213208/https://www.intuit.com/blog/technology/engineering/meet-wasabi-an-open-source-ab-testing-platform/) — MLOps / Platform / Infra, 2017
 
 ## New York Times (6)
 
@@ -2108,7 +2108,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 - [The Role of Anomaly Detection in IAM](https://www.capitalone.com/tech/software-engineering/anomaly-detection-iam/) — Anomaly Detection & Monitoring, 2023
 - [Automated detection, diagnosis & remediation of app failure](https://www.capitalone.com/tech/machine-learning/automated-detection-diagnosis-remediation-of-application-failure/) — MLOps / Platform / Infra, 2021
 - [How Machine Learning Can Help Fight Money Laundering](https://www.capitalone.com/tech/machine-learning/how-machine-learning-can-help-fight-money-laundering/) — Fraud, Risk & Trust/Safety, 2021
-- [Improving Virtual Card Numbers with Edge Machine Learning](https://www.capitalone.com/tech/machine-learning/edge-machine-learning-eno-virtual-card-numbers/) — MLOps / Platform / Infra, 2021
+- [Improving Virtual Card Numbers with Edge Machine Learning](https://medium.com/capital-one-tech/improving-virtual-card-numbers-with-edge-machine-learning-49b9f01b6c66) — MLOps / Platform / Infra, 2021
 - [How and Why Capital One Built Eno's NLP In-House](https://www.capitalone.com/tech/machine-learning/capital-ones-intelligent-assistant-why-we-built-enos-nlp-tech-in-house/) — NLP & Information Extraction, 2018
 
 ## Cursor (5)
@@ -2121,10 +2121,10 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 
 ## Discord (5)
 
-- [Osprey: Open Sourcing our Rule Engine](https://discord.com/blog/osprey-open-sourcing-our-rule-engine) — Content Moderation & Spam, 2026
-- [Developing rapidly with Generative AI](https://discord.com/blog/developing-rapidly-with-generative-ai) — Generative AI / LLM Apps, 2024
+- [Osprey: Open Sourcing our Rule Engine](https://web.archive.org/web/20260721122609/https://discord.com/blog/osprey-open-sourcing-our-rule-engine) — Content Moderation & Spam, 2026
+- [Developing rapidly with Generative AI](https://web.archive.org/web/20260706010228/https://discord.com/blog/developing-rapidly-with-generative-ai) — Generative AI / LLM Apps, 2024
 - [Learning from structure: Discord's Entity-Relationship Embeddings](https://discord.com/blog/learning-from-structure-discords-entity-relationship-embeddings) — NLP & Information Extraction, 2024
-- [How We Leverage Machine Learning to Fight Child Sexual Abuse Material](https://discord.com/safety/how-discord-leverages-machine-learning-to-fight-csam) — Fraud, Risk & Trust/Safety, 2023
+- [How We Leverage Machine Learning to Fight Child Sexual Abuse Material](https://web.archive.org/web/20260712171913/https://discord.com/safety/how-discord-leverages-machine-learning-to-fight-csam) — Fraud, Risk & Trust/Safety, 2023
 - [Tune into Discord with Krisp noise suppression on iOS and Android](https://medium.com/discord-engineering/tune-into-discord-with-krisp-noise-suppression-on-ios-and-android-fcf5806967a0) — Speech & Audio, 2021
 
 ## Elastic (5)
@@ -2336,10 +2336,10 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 
 ## Niantic (4)
 
-- [Building a Large Geospatial Model to Achieve Spatial Intelligence](https://nianticlabs.com/news/largegeospatialmodel) — Computer Vision, 2024
-- [State of the ARt in Relocalization with Machine Learning (ACE)](https://nianticlabs.com/news/research-ace) — Computer Vision, 2023
-- [Lightship VPS: Building Our 3D Map From Crowdsourced Scans](https://nianticlabs.com/news/vps-part-2) — Computer Vision, 2022
-- [Lightship VPS: Engineering the World's Most Dynamic 3D AR Map](https://nianticlabs.com/news/engineering-the-worlds-most-dynamic-3d-ar-map) — Computer Vision, 2022
+- [Building a Large Geospatial Model to Achieve Spatial Intelligence](https://www.nianticspatial.com/blog/largegeospatialmodel) — Computer Vision, 2024
+- [State of the ARt in Relocalization with Machine Learning (ACE)](https://web.archive.org/web/20251018174054/https://nianticlabs.com/news/research-ace) — Computer Vision, 2023
+- [Lightship VPS: Building Our 3D Map From Crowdsourced Scans](https://web.archive.org/web/20250823130924/https://nianticlabs.com/news/vps-part-2) — Computer Vision, 2022
+- [Lightship VPS: Engineering the World's Most Dynamic 3D AR Map](https://web.archive.org/web/20260612070256/https://nianticlabs.com/news/engineering-the-worlds-most-dynamic-3d-ar-map) — Computer Vision, 2022
 
 ## Scribd (4)
 
@@ -2401,7 +2401,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 
 - [The AI behind Uplift](https://www.adyen.com/knowledge-hub/the-ai-behind-uplift) — MLOps / Platform / Infra, 2025
 - [Elevating Code Quality Through LLM Integration: Adyen's Venture into Augmented Unit Test Generation](https://www.adyen.com/knowledge-hub/elevating-code-quality-through-llm-integration) — Generative AI / LLM Apps, 2024
-- [Optimizing payment conversion rates with contextual multi-armed bandits](https://www.adyen.com/blog/optimizing-payment-conversion-rates-with-contextual-multi-armed-bandits) — Reinforcement Learning, 2020
+- [Optimizing payment conversion rates with contextual multi-armed bandits](https://www.adyen.com/knowledge-hub/optimizing-payment-conversion-rates-with-contextual-multi-armed-bandits) — Reinforcement Learning, 2020
 
 ## Airtable (3)
 
@@ -2459,9 +2459,9 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 
 ## Grubhub (3)
 
-- [Forecasting Grubhub Order Volume At Scale](https://bytes.grubhub.com/forecasting-grubhub-order-volume-at-scale-a966c2f901d2) — Forecasting & ETA / Demand, 2022
+- [Forecasting Grubhub Order Volume At Scale](https://medium.com/grubhub-bytes/forecasting-grubhub-order-volume-at-scale-a966c2f901d2) — Forecasting & ETA / Demand, 2022
 - [Online Learning for Recommendations at Grubhub](https://arxiv.org/abs/2107.07106) — Recommendation & Personalization, 2021
-- [“I See Tacos In Your Future”: Order Volume Forecasting at Grubhub](https://bytes.grubhub.com/i-see-tacos-in-your-future-order-volume-forecasting-at-grubhub-44d47ad08d5b) — Forecasting & ETA / Demand, 2021
+- [“I See Tacos In Your Future”: Order Volume Forecasting at Grubhub](https://medium.com/grubhub-bytes/i-see-tacos-in-your-future-order-volume-forecasting-at-grubhub-44d47ad08d5b) — Forecasting & ETA / Demand, 2021
 
 ## Intercom (3)
 
@@ -2584,13 +2584,13 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 | Bell | [[VIDEO] Modular Solutions for Knowledge Management at scale in RAG Systems](https://www.youtube.com/watch?v=w5FZh0R4JaQ) | genai | 2024 |
 | Best Buy | [Weaving Together Review Insights by Leveraging LLMs](https://aclanthology.org/2025.naacl-industry.36/) | nlp | 2025 |
 | Best Buy | [Embedding Based Retrieval for Long Tail Search Queries in Ecommerce](https://arxiv.org/abs/2505.01946) | search | 2024 |
-| Better | [Modeling Conversion Rates and Saving Millions Using Kaplan-Meier and Gamma Distributions](https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/) | mlops | 2019 |
+| Better | [Modeling Conversion Rates and Saving Millions Using Kaplan-Meier and Gamma Distributions](https://web.archive.org/web/20240914135511/https://better.engineering/modeling-conversion-rates-and-saving-millions-of-dollars-using-kaplan-meier-and-gamma-distributions/) | mlops | 2019 |
 | Block (Square) | [Arming Customer Service with Technology to Detect Fraud Over the Phone](https://block.xyz/inside/arming-square-customer-service-with-technology-to-detect-fraud-over-the-phone) | fraud | 2022 |
 | Blue River | [AI for AG: Production machine learning for agriculture](https://medium.com/pytorch/ai-for-ag-production-machine-learning-for-agriculture-e8cfdb9849a1) | cv | 2020 |
 | Bolt | [Developing Machine Intelligence for Urban Mobility](https://medium.com/bolt-labs/developing-machine-intelligence-for-urban-mobility-8b9de0b47bb4) | optim | 2021 |
 | Bolt | [Simulating cities for a better ride-hailing experience at Bolt](https://medium.com/bolt-labs/simulating-cities-for-a-better-ride-hailing-experience-at-bolt-f97af9190ada) | optim | 2021 |
 | Bukalapak | [Developing Automated KYC Verification](https://medium.com/bukalapak-data/developing-automated-kyc-verification-33456d83568b) | cv | 2020 |
-| Calm | [Search at Calm](https://eng.calm.com/posts/search-at-calm) | search | 2022 |
+| Calm | [Search at Calm](https://web.archive.org/web/20221208161728/https://eng.calm.com/posts/search-at-calm) | search | 2022 |
 | Cambridge | [Challenges in Deploying Machine Learning: a Survey of Case Studies](https://arxiv.org/abs/2011.09926) | mlops | 2020 |
 | Careem | [Facial recognition to detect duplicate Captain accounts](https://engineering.careem.com/tech/posts/using-facial-recognition-technology-fraud-detection) | fraud | 2024 |
 | Careem | [Temporary holds: Leveraging machine learning models to reduce fraud](https://engineering.careem.com/tech/posts/temporary-holds-leveraging-machine-learning-models-to-reduce-fraud-while-improving-customer-experience) | fraud | 2024 |
@@ -2618,7 +2618,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 | Deepomatic | [How we Improved Computer Vision Metrics by More Than 5% Only by Cleaning Labelling Errors](https://deepomatic.com/en/how-we-improved-computer-vision-metrics-by-more-than-5-percent-only-by-cleaning-labelling-errors/) | cv |  |
 | DeepSeek | [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) | rl | 2025 |
 | Deezer | [Let's Get It Started: Fostering the Discoverability of New Releases on Deezer](https://arxiv.org/abs/2401.02827) | rec | 2024 |
-| Deezer | [Releasing Spleeter: Deezer Research source separation engine](https://deezer.io/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e) | audio | 2019 |
+| Deezer | [Releasing Spleeter: Deezer Research source separation engine](https://medium.com/deezer-engineering/releasing-spleeter-deezer-r-d-source-separation-engine-2b88985e797e) | audio | 2019 |
 | Denny Britz | [Building AI Trading Systems](https://dennybritz.com/blog/ai-trading/) | rl | 2020 |
 | DHL | [Innovative Integer Programming Software and Methods for Large-Scale Routing at DHL Supply Chain](https://pubsonline.informs.org/doi/10.1287/inte.2023.0087) | optim | 2024 |
 | DianPing | [Large-scale Item Categorization for e-Commerce](https://dl.acm.org/doi/10.1145/2396761.2396838) | nlp | 2012 |
@@ -2653,7 +2653,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 | Gradient Labs | [Anatomy of an AI agent incident](https://blog.gradient-labs.ai/p/anatomy-of-an-ai-agent-incident) | genai | 2025 |
 | Gradient Labs | [Building resilient agentic systems](https://blog.gradient-labs.ai/p/building-resilient-agentic-systems) | genai | 2025 |
 | GreenSteam | [MLOps at GreenSteam: Shipping Machine Learning](https://neptune.ai/blog/mlops-at-greensteam-shipping-machine-learning-case-study) | mlops | 2021 |
-| GrubHub | [Query2vec: Search query expansion with query embeddings](https://bytes.grubhub.com/search-query-embeddings-using-query2vec-f5931df27d79) | search | 2019 |
+| GrubHub | [Query2vec: Search query expansion with query embeddings](https://medium.com/grubhub-bytes/search-query-embeddings-using-query2vec-f5931df27d79) | search | 2019 |
 | Guardian | [Who said what: using machine learning to correctly attribute quotes](https://www.theguardian.com/info/2023/nov/21/who-said-what-using-machine-learning-to-correctly-attribute-quotes) | nlp | 2023 |
 | Guardian | [Recognising ‘bad actors’ in data leaks with AI](https://www.theguardian.com/info/2022/dec/09/recognising-bad-actors-in-data-leaks-with-ai) | nlp | 2022 |
 | Hapag-Lloyd | [How Hapag-Lloyd Improved Schedule Reliability with ML-Powered Vessel Schedule Predictions Using Amazon SageMaker](https://aws.amazon.com/blogs/machine-learning/how-hapag-lloyd-improved-schedule-reliability-with-ml-powered-vessel-schedule-predictions-using-amazon-sagemaker/) | forecast | 2025 |
@@ -2674,7 +2674,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 | Incident.io | [Lessons learned from building our first AI product](https://incident.io/blog/lessons-learned-from-building-our-first-ai-product) | genai | 2024 |
 | Indeed | [Finding Anomalies in User Behavior with Python](https://engineering.indeedblog.com/blog/2016/10/finding-anomalies-with-python/) | anomaly | 2016 |
 | Inscribe | [How Inscribe Uses Amazon Bedrock to Stop Document Fraud in Seconds](https://aws.amazon.com/blogs/machine-learning/how-inscribe-uses-amazon-bedrock-to-stop-document-fraud-in-seconds/) | fraud | 2024 |
-| Instagram | [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48) | mlops | 2019 |
+| Instagram | [Core Modeling at Instagram](https://medium.com/instagram-engineering/core-modeling-at-instagram-a51e0158aa48) | mlops | 2019 |
 | Intel | [Osprey: Weak Supervision of Imbalanced Extraction Problems without Code](https://dl.acm.org/doi/abs/10.1145/3329486.3329492) | data | 2019 |
 | International Baccalaureate | [160k+ High School Students Will Graduate Only If a Model Allows Them to](http://positivelysemidefinite.com/2020/06/160k-students.html) | rec | 2020 |
 | Itaú Unibanco | [How we built a CI/CD Pipeline for machine learning with online training in Kubeflow](https://cloud.google.com/blog/products/ai-machine-learning/itau-unibanco-how-we-built-a-cicd-pipeline-for-machine-learning-with-online-training-in-kubeflow) | mlops | 2019 |
@@ -2730,7 +2730,7 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 | OpenPipe | [ART·E: How We Built an Email Research Agent That Beats o3](https://openpipe.ai/blog/art-e-mail-agent) | search | 2025 |
 | Orbital | [We built an AI Assistant, Orbital Copilot, that thinks like a real estate lawyer](https://tech.orbitalwitness.com/posts/2024-01-10-we-built-an-ai-agent-that-thinks-like-a-real-estate-lawyer/) | genai | 2025 |
 | Outropy | [Key Lessons from Shipping AI Products beyond the Hype](https://www.infoq.com/presentations/microservices-ai-systems/) | genai | 2025 |
-| Pandora | [Deep end-to-end learning for music audio tagging at Pandora](https://www.jordipons.me/end-to-end-audio-tagging/) | audio | 2018 |
+| Pandora | [Deep end-to-end learning for music audio tagging at Pandora](https://web.archive.org/web/20240606135144/https://www.jordipons.me/end-to-end-audio-tagging/) | audio | 2018 |
 | Partnership on AI | [AI Incident Database](https://incidentdatabase.ai/) | moderation | 2022 |
 | Peloton | [How We Built: An Early-Stage Machine Learning Model for Recommendations](https://www.onepeloton.com/press/articles/how-we-built-machine-learning) | rec | 2022 |
 | Peloton | [Lessons Learned from Building out Context-Aware Recommender Systems](https://www.onepeloton.com/press/articles/lessons-learned-from-building-context-aware-recommender-systems) | rec | 2022 |
@@ -2755,8 +2755,8 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 | Quora | [Semantic Question Matching with Deep Learning](https://engineering.quora.com/Semantic-Question-Matching-with-Deep-Learning) | nlp | 2017 |
 | Rabobank | [Using Anomaly Detection to Monitor Low-Risk Bank Customers](https://www.youtube.com/watch?v=MExokMM_Bp4&t=3s) | anomaly | 2020 |
 | Rabobank | [Successes and Challenges in Adopting Machine Learning at Scale at a Global Bank](https://www.youtube.com/watch?v=QYQKG5OcwEI) | mlops | 2019 |
-| Rakuten | [Unsupervised Extraction of Attributes and Their Values from Product Description](https://www.aclweb.org/anthology/I13-1190/) | nlp | 2013 |
-| Razorpay | [Project Viveka: Razorpay Oncall Agent - From 30-Minute Investigations to 90-Second AI Analysis](https://engineering.razorpay.com/project-viveka-from-30-minute-investigations-to-90-second-ai-analysis-e49ec9db2638) | genai | 2026 |
+| Rakuten | [Unsupervised Extraction of Attributes and Their Values from Product Description](https://aclanthology.org/I13-1190/) | nlp | 2013 |
+| Razorpay | [Project Viveka: Razorpay Oncall Agent - From 30-Minute Investigations to 90-Second AI Analysis](https://dev.to/razorpaytech/project-viveka-a-multi-agent-ai-that-does-root-cause-analysis-in-under-90-seconds-4g44) | genai | 2026 |
 | Reddit | [Evolving Reddit’s ML Model Deployment and Serving Architecture](https://www.reddit.com/r/RedditEng/comments/q14tsw/evolving_reddits_ml_model_deployment_and_serving/) | mlops | 2021 |
 | Reforge | [How We Built The Reforge Extension: A Deep Dive into Reforge’s AI Tech Stack](https://www.reforge.com/blog/howwebuiltit) | genai | 2024 |
 | Remitly | [Fighting Fraud with Machine Learning at Remitly](https://medium.com/remitly/fighting-fraud-with-machine-learning-at-remitly-698cdd4e2030) | fraud | 2022 |
@@ -2820,8 +2820,8 @@ Every case study grouped by company (400 companies). Companies with 3+ studies g
 | Trustpilot | [How Trustpilot built a real-time architecture for data enrichment using Gemma](https://cloud.google.com/blog/topics/customers/how-trustpilot-built-a-real-time-architecture-for-data-enrichment-using-gemma) | genai | 2026 |
 | Ubisoft | [Large Language Models for Toxicity Detection: ToxBuster](https://www.ubisoft.com/en-us/studio/laforge/news/54QiUaTH5oCX7MUhSSgrGy/large-language-models-for-toxicity-detection-toxbuster) | moderation | 2025 |
 | Udemy | [Building a Multi-Armed Bandit System from the Ground Up: A Recommendations and Ranking Case Study](https://medium.com/udemy-engineering/building-a-multi-armed-bandit-system-from-the-ground-up-a-recommendations-and-ranking-case-study-b598f1f880e1) | rl | 2023 |
-| Udemy | [What is the most effective way to structure a data science team?](https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) | mlops | 2017 |
-| United Kingdom | [A British AI Tool to Predict Violent Crime Is Too Flawed to Use](https://www.wired.co.uk/article/police-violence-prediction-ndas) | fraud | 2020 |
+| Udemy | [What is the most effective way to structure a data science team?](https://web.archive.org/web/20240423223631/https://towardsdatascience.com/what-is-the-most-effective-way-to-structure-a-data-science-team-498041b88dae) | mlops | 2017 |
+| United Kingdom | [A British AI Tool to Predict Violent Crime Is Too Flawed to Use](https://web.archive.org/web/20240120152806/https://www.wired.co.uk/article/police-violence-prediction-ndas) | fraud | 2020 |
 | Vectorize | [Creating a context-sensitive AI assistant: Lessons from building a RAG application](https://vectorize.io/creating-a-context-sensitive-ai-assistant-lessons-from-building-a-rag-application/) | genai | 2024 |
 | Vimeo | [Unlocking knowledge sharing for videos with RAG](https://medium.com/vimeo-engineering-blog/unlocking-knowledge-sharing-for-videos-with-rag-810ab496ae59) | genai | 2024 |
 | Vimeo | [From idea to reality: Elevating our customer support through generative AI](https://medium.com/vimeo-engineering-blog/from-idea-to-reality-elevating-our-customer-support-through-generative-ai-101a2c5ea680) | genai | 2023 |
