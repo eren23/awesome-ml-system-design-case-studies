@@ -1,8 +1,71 @@
 # Case-Study Notes
 
-**384** notes across **16** categories.
+**489** notes across **16** categories.
 
-## LLMs & Generative AI (49)
+## Speech & Audio (60)
+
+- [Listening, Learning, and Helping at Scale: How Machine Learning Transforms Airbnb's Voice Support Experience](audio/cs0816-listening-learning-and-helping-at-scale-how-machine-learning.md) — Airbnb · 2025
+- [Amazon — Alexa Unveils New Speech Recognition and Text-to-Speech Technologies](audio/cs1821-amazon-alexa-unveils-new-speech-recognition-and-text-to.md) — Amazon · 2023
+- [The Engineering Behind Alexa's Contextual Speech Recognition](audio/cs2189-the-engineering-behind-alexas-contextual-speech-recognition.md) — Amazon · 2022
+- [BASE TTS: Lessons from Building a Billion-Parameter Text-to-Speech Model on 100K Hours of Data](audio/cs2190-base-tts-lessons-from-building-a-billion-parameter-text.md) — Amazon · 2024
+- [Neural TTS Makes Speech Synthesizers More Versatile](audio/cs1377-neural-tts-makes-speech-synthesizers-more-versatile.md) — Amazon (Alexa / Polly) · 2019
+- [Using wake word acoustics to filter out background speech improves speech recognition by 15%](audio/cs1375-using-wake-word-acoustics-to-filter-out-background-speech.md) — Amazon (Alexa) · 2019
+- [Amazon Alexa's new wake word research at Interspeech](audio/cs1376-amazon-alexas-new-wake-word-research-at-interspeech.md) — Amazon (Alexa) · 2018
+- [Introducing Amazon Nova Sonic: Human-like Voice Conversations for Generative AI Applications](audio/cs2095-introducing-amazon-nova-sonic-human-like-voice-conversations-for.md) — Amazon (AWS) · 2025
+- [A New Generative Engine and Three Voices Are Now Generally Available on Amazon Polly](audio/cs2096-a-new-generative-engine-and-three-voices-are-now.md) — Amazon (AWS) · 2024
+- [Advancing Speech Accessibility with Personal Voice](audio/cs1025-advancing-speech-accessibility-with-personal-voice.md) — Apple · 2023
+- [Deep Learning for Siri's Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](audio/cs1358-deep-learning-for-siris-voice-on-device-deep-mixture.md) — Apple · 2017
+- [On-device Neural Speech Synthesis](audio/cs1359-on-device-neural-speech-synthesis.md) — Apple · 2021
+- [Hey Siri: An On-device DNN-powered Voice Trigger for Apple's Personal Assistant](audio/cs1360-hey-siri-an-on-device-dnn-powered-voice-trigger.md) — Apple · 2017
+- [Voice Trigger System for Siri](audio/cs1361-voice-trigger-system-for-siri.md) — Apple · 2023
+- [Optimizing Siri on HomePod in Far-Field Settings](audio/cs1362-optimizing-siri-on-homepod-in-far-field-settings.md) — Apple · 2018
+- [Introducing New Products and Model Updates for Voice AI Applications](audio/cs2318-introducing-new-products-and-model-updates-for-voice-ai.md) — AssemblyAI · 2025
+- [Cartesia — Sonic: A Low-Latency State Space Voice Model for Lifelike Speech](audio/cs1807-cartesia-sonic-a-low-latency-state-space-voice-model.md) — Cartesia · 2024
+- [BabbleLabs - AI audio wizardry for Cisco Webex Meetings](audio/cs1357-babblelabs-ai-audio-wizardry-for-cisco-webex-meetings.md) — Cisco (Webex) · 2021
+- [How we built a real-time, client-side noise suppression library without server dependencies](audio/cs2371-how-we-built-a-real-time-client-side-noise.md) — Datadog · 2025
+- [Deepgram — Nova-2: Building the Fastest, Most Accurate Speech-to-Text API](audio/cs1804-deepgram-nova-2-building-the-fastest-most-accurate-speech.md) — Deepgram · 2023
+- [Deepgram — Flux: Fusing Transcription and Conversational State into One Real-Time Model](audio/cs1805-deepgram-flux-fusing-transcription-and-conversational-state-into-one.md) — Deepgram · 2025
+- [Deepgram — Introducing Nova-3: A Unified Multilingual Speech-to-Text Model with Keyterm Prompting](audio/cs1806-deepgram-introducing-nova-3-a-unified-multilingual-speech-to.md) — Deepgram · 2025
+- [Introducing Aura-2: Enterprise-Grade Text-to-Speech](audio/cs2101-introducing-aura-2-enterprise-grade-text-to-speech.md) — Deepgram · 2025
+- [Duolingo & AWS — Powering Language Learning on Duolingo with Amazon Polly](audio/cs1820-duolingo-aws-powering-language-learning-on-duolingo-with-amazon.md) — Duolingo · 2017
+- [Eleven v3: Most Expressive AI TTS Model](audio/cs2376-eleven-v3-most-expressive-ai-tts-model.md) — ElevenLabs · 2024
+- [Introducing Solaria, the first truly universal speech-to-text model](audio/cs2375-introducing-solaria-the-first-truly-universal-speech-to-text.md) — Gladia · 2024
+- [Gong — Introducing Gecko: An Open-Source Tool for Annotating Conversations](audio/cs1818-gong-introducing-gecko-an-open-source-tool-for-annotating.md) — Gong · 2021
+- [Google — SoundStorm: Efficient Parallel Audio Generation](audio/cs1816-google-soundstorm-efficient-parallel-audio-generation.md) — Google · 2023
+- [Real-Time Speech-to-Speech Translation in Google Meet](audio/cs2184-real-time-speech-to-speech-translation-in-google-meet.md) — Google · 2025
+- [Google DeepMind — Pushing the Frontiers of Audio Generation (NotebookLM, Illuminate)](audio/cs1817-google-deepmind-pushing-the-frontiers-of-audio-generation-notebooklm.md) — Google DeepMind · 2024
+- [Krisp AI Accent Conversion v3](audio/cs2097-krisp-ai-accent-conversion-v3.md) — Krisp · 2025
+- [Audio-Only Turn-Taking Model v2 for Voice AI — VIVA SDK](audio/cs2098-audio-only-turn-taking-model-v2-for-voice-ai.md) — Krisp · 2025
+- [Introducing 3.5x Smaller Voice Isolation Model with Exceptional Accuracy](audio/cs2099-introducing-35x-smaller-voice-isolation-model-with-exceptional-accuracy.md) — Krisp · 2025
+- [LiveKit — Solving End-of-Turn Detection: Turn Detector v1 for Voice Agents](audio/cs1808-livekit-solving-end-of-turn-detection-turn-detector-v1.md) — LiveKit · 2025
+- [Improved End-of-Turn Model Cuts Voice AI Interruptions 39%](audio/cs2103-improved-end-of-turn-model-cuts-voice-ai-interruptions.md) — LiveKit · 2025
+- [Using a Transformer to Improve End-of-Turn Detection](audio/cs2187-using-a-transformer-to-improve-end-of-turn-detection.md) — LiveKit · 2024
+- [Adaptive Interruption Handling for Voice AI Agents](audio/cs2188-adaptive-interruption-handling-for-voice-ai-agents.md) — LiveKit · 2024
+- [Meta — Introducing Voicebox: A Generative Speech Model that Generalizes Across Tasks](audio/cs1813-meta-introducing-voicebox-a-generative-speech-model-that-generalizes.md) — Meta · 2023
+- [Meta — Audiobox: Generating Audio from Voice and Natural Language Prompts](audio/cs1814-meta-audiobox-generating-audio-from-voice-and-natural-language.md) — Meta · 2023
+- [Meta — AudioCraft: Generative AI for Music and Audio with MusicGen, AudioGen, and EnCodec](audio/cs1815-meta-audiocraft-generative-ai-for-music-and-audio-with.md) — Meta · 2023
+- [SAM Audio: A Unified Multimodal Model for Audio Separation](audio/cs2183-sam-audio-a-unified-multimodal-model-for-audio-separation.md) — Meta · 2025
+- [Latest Updates to the Azure AI Speech Service](audio/cs2319-latest-updates-to-the-azure-ai-speech-service.md) — Microsoft · 2024
+- [Advancing Speech Innovation with Azure Speech in Microsoft Foundry](audio/cs2320-advancing-speech-innovation-with-azure-speech-in-microsoft-foundry.md) — Microsoft · 2025
+- [Introducing MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 in Microsoft Foundry](audio/cs2374-introducing-mai-transcribe-1-mai-voice-1-and-mai.md) — Microsoft · 2025
+- [Azure Speech at Build 2026: Powering Voice Agents with Real-Time and Life-like Experiences](audio/cs2411-azure-speech-at-build-2026-powering-voice-agents-with.md) — Microsoft · 2026
+- [Music AI (Moises) — Moises Research Innovations 2025: Lightweight and Diffusion-Based Source Separation](audio/cs1819-music-ai-moises-moises-research-innovations-2025-lightweight-and.md) — Music AI · 2025
+- [NVIDIA — Pushing the Boundaries of Speech Recognition with NeMo Parakeet ASR Models](audio/cs1809-nvidia-pushing-the-boundaries-of-speech-recognition-with-nemo.md) — NVIDIA · 2024
+- [NVIDIA — A New Standard for Speech Recognition and Translation with the NeMo Canary Model](audio/cs1810-nvidia-a-new-standard-for-speech-recognition-and-translation.md) — NVIDIA · 2024
+- [NVIDIA — Deploying Riva Multilingual ASR with Whisper and Canary Architectures](audio/cs1811-nvidia-deploying-riva-multilingual-asr-with-whisper-and-canary.md) — NVIDIA · 2025
+- [NVIDIA — Accelerating Leaderboard-Topping ASR Models 10x with NeMo](audio/cs1812-nvidia-accelerating-leaderboard-topping-asr-models-10x-with-nemo.md) — NVIDIA · 2024
+- [Identify Speakers in Meetings, Calls, and Voice Apps in Real-Time with NVIDIA Streaming Sortformer](audio/cs2100-identify-speakers-in-meetings-calls-and-voice-apps-in.md) — NVIDIA · 2025
+- [Introducing ChatGPT and Whisper APIs](audio/cs2321-introducing-chatgpt-and-whisper-apis.md) — OpenAI · 2023
+- [Speechmatics — Introducing Ursa: The World's Most Accurate Speech-to-Text](audio/cs1822-speechmatics-introducing-ursa-the-worlds-most-accurate-speech-to.md) — Speechmatics · 2023
+- [How to Build Smarter Turn Detection for Voice AI](audio/cs2102-how-to-build-smarter-turn-detection-for-voice-ai.md) — Speechmatics · 2024
+- [Distributed Self-Distillation for Large-Scale ASR Training](audio/cs2185-distributed-self-distillation-for-large-scale-asr-training.md) — Speechmatics · 2025
+- [Ursa 2: Elevating Speech Recognition Across 52 Languages](audio/cs2186-ursa-2-elevating-speech-recognition-across-52-languages.md) — Speechmatics · 2024
+- [Engineering an Invisible AI Medical Scribe](audio/cs2372-engineering-an-invisible-ai-medical-scribe.md) — Suki · 2024
+- [Scaling Suki's Intent Classification for Voice AI](audio/cs2373-scaling-sukis-intent-classification-for-voice-ai.md) — Suki · 2024
+- [Wispr Flow — Effortless Voice Dictation with Llama on Baseten](audio/cs1823-wispr-flow-effortless-voice-dictation-with-llama-on-baseten.md) — Wispr · 2024
+- [Wispr — Technical Challenges and Breakthroughs Behind Flow](audio/cs1824-wispr-technical-challenges-and-breakthroughs-behind-flow.md) — Wispr · 2025
+
+## LLMs & Generative AI (60)
 
 - [Task-Oriented Conversational AI in Airbnb Customer Support](genai/cs2248-task-oriented-conversational-ai-in-airbnb-customer-support.md) — Airbnb · 2025
 - [The Technology Behind Amazon's GenAI-Powered Shopping Assistant Rufus](genai/cs2240-the-technology-behind-amazons-genai-powered-shopping-assistant-rufus.md) — Amazon · 2024
@@ -13,11 +76,13 @@
 - [Atlassian's Hybrid LLM Architecture](genai/cs2229-atlassians-hybrid-llm-architecture.md) — Atlassian · 2025
 - [How Rovo Embraces Multi-Agent Orchestration](genai/cs2230-how-rovo-embraces-multi-agent-orchestration.md) — Atlassian · 2025
 - [Improving Rovo Quality with ML Classifiers](genai/cs2231-improving-rovo-quality-with-ml-classifiers.md) — Atlassian · 2025
+- [How Baseten Achieves Better Cost Performance for AI Inference](genai/cs2422-how-baseten-achieves-better-cost-performance-for-ai-inference.md) — Baseten · 2025
 - [AI-Assisted Development at Block](genai/cs2223-ai-assisted-development-at-block.md) — Block · 2026
 - [Testing Pyramid for AI Agents](genai/cs2224-testing-pyramid-for-ai-agents.md) — Block · 2026
 - [How We Red-Teamed Our Own AI Agent](genai/cs2225-how-we-red-teamed-our-own-ai-agent.md) — Block · 2026
 - [Agent Guardrails and Controls](genai/cs2226-agent-guardrails-and-controls.md) — Block · 2026
 - [3 Principles for Designing Agent Skills](genai/cs2227-3-principles-for-designing-agent-skills.md) — Block · 2026
+- [Box AI Agents with Google's Agent2Agent Protocol](genai/cs2419-box-ai-agents-with-googles-agent2agent-protocol.md) — Box · 2025
 - [Real-Time Reinforcement Learning for Cursor Composer](genai/cs2232-real-time-reinforcement-learning-for-cursor-composer.md) — Cursor · 2026
 - [How Cursor Composer Was Built](genai/cs2233-how-cursor-composer-was-built.md) — Cursor · 2025
 - [Semantic Search at Cursor](genai/cs2234-semantic-search-at-cursor.md) — Cursor · 2025
@@ -26,6 +91,7 @@
 - [Why AI code optimization needs production-grounded benchmarks (DODO)](genai/cs2334-why-ai-code-optimization-needs-production-grounded-benchmarks-dodo.md) — Datadog · 2026
 - [How we cut our NLQ agent debugging time from hours to minutes with Agent Observability](genai/cs2335-how-we-cut-our-nlq-agent-debugging-time-from.md) — Datadog · 2026
 - [Evaluating our AI Guard application to improve quality and control cost](genai/cs2336-evaluating-our-ai-guard-application-to-improve-quality-and.md) — Datadog · 2026
+- [Deutsche Bank Delivers AI-Powered Financial Research with DB Lumina](genai/cs2415-deutsche-bank-delivers-ai-powered-financial-research-with-db.md) — Deutsche Bank · 2025
 - [The Blueprint: Translating stream-of-conscious speech into responsive, actionable task lists](genai/cs2389-the-blueprint-translating-stream-of-conscious-speech-into-responsive.md) — Doist · 2026
 - [Building Ask DoorDash Part Two: Intelligence and Agent Memory](genai/cs2128-building-ask-doordash-part-two-intelligence-and-agent-memory.md) — DoorDash · 2025
 - [Building DoorDash Assistant: An Engineering Overview](genai/cs2219-building-doordash-assistant-an-engineering-overview.md) — DoorDash · 2025
@@ -33,17 +99,24 @@
 - ['DoorDash LLM-as-a-Judge: Evaluating Natural Language Search'](genai/cs2221-doordash-llm-as-a-judge-evaluating-natural-language-search.md) — DoorDash · 2025
 - [DoorDash's One-Click Simulation and Evaluation Platform for Support Chatbots](genai/cs2222-doordashs-one-click-simulation-and-evaluation-platform-for-support.md) — DoorDash · 2025
 - [What 10 autonomous film crews taught us about agent teamwork](genai/cs2392-what-10-autonomous-film-crews-taught-us-about-agent.md) — Google · 2026
+- [HCA Healthcare Nurse Handoff AI App Improves Patient Outcomes](genai/cs2421-hca-healthcare-nurse-handoff-ai-app-improves-patient-outcomes.md) — HCA Healthcare · 2025
+- [Kakao's Journey with JAX and Cloud TPUs for Kanana LLM Pre-Training](genai/cs2423-kakaos-journey-with-jax-and-cloud-tpus-for-kanana.md) — Kakao · 2025
 - [Klarna AI Assistant: Handling 2.3M Customer Conversations](genai/cs2127-klarna-ai-assistant-handling-23m-customer-conversations.md) — Klarna · 2025
 - [Completing a Member Knowledge Graph with Graph Neural Networks](genai/cs2397-completing-a-member-knowledge-graph-with-graph-neural-networks.md) — LinkedIn · 2021
+- [LVMH Data and AI Platform: GenAI for Luxury Client Advisors](genai/cs2424-lvmh-data-and-ai-platform-genai-for-luxury-client.md) — LVMH · 2025
 - [Lyft Built a Self-Serve AI Agent Platform for Customer Support with LangGraph and LangSmith](genai/cs2125-lyft-built-a-self-serve-ai-agent-platform-for.md) — Lyft · 2025
+- [Max Planck Institute for Biochemistry Builds Proteomics Research Expert GenAI Agent](genai/cs2417-max-planck-institute-for-biochemistry-builds-proteomics-research-expert.md) — Max Planck Institute for Biochemistry · 2025
 - [Agentic Solution for Warehouse Data Access at Meta](genai/cs2238-agentic-solution-for-warehouse-data-access-at-meta.md) — Meta · 2025
 - [The Death of Traditional Testing: Agentic Development and JIT Testing Revival at Meta](genai/cs2239-the-death-of-traditional-testing-agentic-development-and-jit.md) — Meta · 2026
+- [Assembling a Team of AI Agents to Handle Complex Mortgage Questions at Mr. Cooper](genai/cs2416-assembling-a-team-of-ai-agents-to-handle-complex.md) — Mr. Cooper · 2025
 - [GenPage: Towards End-to-End Generative Homepage Construction at Netflix](genai/cs2124-genpage-towards-end-to-end-generative-homepage-construction-at.md) — Netflix · 2026
 - [A Human-Augmenting Agentic Workflow for Causal Inference](genai/cs2236-a-human-augmenting-agentic-workflow-for-causal-inference.md) — Netflix · 2026
 - [Evaluating Netflix Show Synopses with LLM-as-a-Judge](genai/cs2237-evaluating-netflix-show-synopses-with-llm-as-a-judge.md) — Netflix · 2026
 - [Agentforce Runtime Rearchitecture: Reducing Latency](genai/cs2246-agentforce-runtime-rearchitecture-reducing-latency.md) — Salesforce · 2026
+- [How Schroders Built Its Multi-Agent Financial Analysis Research Assistant](genai/cs2420-how-schroders-built-its-multi-agent-financial-analysis-research.md) — Schroders · 2025
 - [How ServiceNow Delivers Production Grade AI Agents](genai/cs2396-how-servicenow-delivers-production-grade-ai-agents.md) — ServiceNow · 2025
 - [How Siemens 'Slices the Elephant,' Advancing Agentic Workflows for Industrial Software Development](genai/cs2390-how-siemens-slices-the-elephant-advancing-agentic-workflows-for.md) — Siemens · 2026
+- [SmarterX Uses Google AI and Data Tools to Build Custom LLMs for Regulatory Compliance](genai/cs2418-smarterx-uses-google-ai-and-data-tools-to-build.md) — SmarterX · 2025
 - [LLM Model Serving with vLLM at Snowflake](genai/cs2242-llm-model-serving-with-vllm-at-snowflake.md) — Snowflake · 2025
 - [Fast Speculative Decoding with vLLM and Arctic at Snowflake](genai/cs2243-fast-speculative-decoding-with-vllm-and-arctic-at-snowflake.md) — Snowflake · 2025
 - [Embedding Inference: Making Arctic 16x Faster](genai/cs2244-embedding-inference-making-arctic-16x-faster.md) — Snowflake · 2025
@@ -51,10 +124,11 @@
 - [Encoding Your Domain Expert: The Context Layer Behind Spotify's Data Assistant](genai/cs2235-encoding-your-domain-expert-the-context-layer-behind-spotifys.md) — Spotify · 2026
 - [Redefining Customer Support: Swiggy's Enterprise-Scale AI Agent Built on Databricks](genai/cs2247-redefining-customer-support-swiggys-enterprise-scale-ai-agent-built.md) — Swiggy · 2025
 - [How Trustpilot built a real-time architecture for data enrichment using Gemma](genai/cs2391-how-trustpilot-built-a-real-time-architecture-for-data.md) — Trustpilot · 2026
+- [Bringing Delight to Customer Phone Calls with AI (Voicify)](genai/cs2414-bringing-delight-to-customer-phone-calls-with-ai-voicify.md) — Voicify · 2026
 - [Architecting a trusted agentic platform with graph technologies: A Yahoo case study](genai/cs2393-architecting-a-trusted-agentic-platform-with-graph-technologies-a.md) — Yahoo · 2026
 - [How Zendesk ensures you always get the best LLM for the job](genai/cs2395-how-zendesk-ensures-you-always-get-the-best-llm.md) — Zendesk · 2025
 
-## Advertising & Bidding (48)
+## Advertising & Bidding (49)
 
 - [Trajectory-wise Iterative Reinforcement Learning Framework for Auto-bidding](ads/cs1777-trajectory-wise-iterative-reinforcement-learning-framework-for-auto-bidding.md) — Alibaba · 2024
 - [Neural Auction: End-to-End Learning of Auction Mechanisms for E-Commerce Advertising](ads/cs1780-neural-auction-end-to-end-learning-of-auction-mechanisms.md) — Alibaba · 2021
@@ -73,6 +147,7 @@
 - [Scalable Machine Learning Training Infrastructure for Online Ads Recommendation and Auction Scoring Modeling at Google](ads/cs2173-scalable-machine-learning-training-infrastructure-for-online-ads-recommendation.md) — Google · 2025
 - [JD-BP: A Joint-Decision Generative Framework for Auto-Bidding and Pricing](ads/cs1773-jd-bp-a-joint-decision-generative-framework-for-auto.md) — JD.com · 2026
 - [Category-Specific CNN for Visual-aware CTR Prediction at JD.com](ads/cs1782-category-specific-cnn-for-visual-aware-ctr-prediction-at.md) — JD.com · 2020
+- [AGPO: Asymmetric Group Policy Optimization for Verifiable Reasoning and Search Ads Relevance at JD](ads/cs2409-agpo-asymmetric-group-policy-optimization-for-verifiable-reasoning-and.md) — JD.com · 2026
 - [TWIN V2: Scaling Ultra-Long User Behavior Sequence Modeling for Enhanced CTR Prediction at Kuaishou](ads/cs1775-twin-v2-scaling-ultra-long-user-behavior-sequence-modeling.md) — Kuaishou · 2024
 - [GR4AD: Generative Recommendation for Large-Scale Advertising](ads/cs1787-gr4ad-generative-recommendation-for-large-scale-advertising.md) — Kuaishou · 2026
 - [LBM: Hierarchical Large Auto-Bidding Model via Reasoning and Acting](ads/cs2083-lbm-hierarchical-large-auto-bidding-model-via-reasoning-and.md) — Kuaishou · 2026
@@ -105,108 +180,174 @@
 - [Conversion-Based Dynamic Creative Optimization in Native Advertising](ads/cs1784-conversion-based-dynamic-creative-optimization-in-native-advertising.md) — Yahoo · 2022
 - [Mystique: A Budget Pacing System for Performance Optimization in Online Advertising](ads/cs2366-mystique-a-budget-pacing-system-for-performance-optimization-in.md) — Yahoo · 2024
 
-## Speech & Audio (40)
+## Computer Vision (47)
 
-- [Listening, Learning, and Helping at Scale: How Machine Learning Transforms Airbnb's Voice Support Experience](audio/cs0816-listening-learning-and-helping-at-scale-how-machine-learning.md) — Airbnb · 2025
-- [Amazon — Alexa Unveils New Speech Recognition and Text-to-Speech Technologies](audio/cs1821-amazon-alexa-unveils-new-speech-recognition-and-text-to.md) — Amazon · 2023
-- [The Engineering Behind Alexa's Contextual Speech Recognition](audio/cs2189-the-engineering-behind-alexas-contextual-speech-recognition.md) — Amazon · 2022
-- [BASE TTS: Lessons from Building a Billion-Parameter Text-to-Speech Model on 100K Hours of Data](audio/cs2190-base-tts-lessons-from-building-a-billion-parameter-text.md) — Amazon · 2024
-- [Neural TTS Makes Speech Synthesizers More Versatile](audio/cs1377-neural-tts-makes-speech-synthesizers-more-versatile.md) — Amazon (Alexa / Polly) · 2019
-- [Using wake word acoustics to filter out background speech improves speech recognition by 15%](audio/cs1375-using-wake-word-acoustics-to-filter-out-background-speech.md) — Amazon (Alexa) · 2019
-- [Amazon Alexa's new wake word research at Interspeech](audio/cs1376-amazon-alexas-new-wake-word-research-at-interspeech.md) — Amazon (Alexa) · 2018
-- [Introducing Amazon Nova Sonic: Human-like Voice Conversations for Generative AI Applications](audio/cs2095-introducing-amazon-nova-sonic-human-like-voice-conversations-for.md) — Amazon (AWS) · 2025
-- [A New Generative Engine and Three Voices Are Now Generally Available on Amazon Polly](audio/cs2096-a-new-generative-engine-and-three-voices-are-now.md) — Amazon (AWS) · 2024
-- [Advancing Speech Accessibility with Personal Voice](audio/cs1025-advancing-speech-accessibility-with-personal-voice.md) — Apple · 2023
-- [Deep Learning for Siri's Voice: On-device Deep Mixture Density Networks for Hybrid Unit Selection Synthesis](audio/cs1358-deep-learning-for-siris-voice-on-device-deep-mixture.md) — Apple · 2017
-- [On-device Neural Speech Synthesis](audio/cs1359-on-device-neural-speech-synthesis.md) — Apple · 2021
-- [Hey Siri: An On-device DNN-powered Voice Trigger for Apple's Personal Assistant](audio/cs1360-hey-siri-an-on-device-dnn-powered-voice-trigger.md) — Apple · 2017
-- [Voice Trigger System for Siri](audio/cs1361-voice-trigger-system-for-siri.md) — Apple · 2023
-- [Optimizing Siri on HomePod in Far-Field Settings](audio/cs1362-optimizing-siri-on-homepod-in-far-field-settings.md) — Apple · 2018
-- [Introducing New Products and Model Updates for Voice AI Applications](audio/cs2318-introducing-new-products-and-model-updates-for-voice-ai.md) — AssemblyAI · 2025
-- [Cartesia — Sonic: A Low-Latency State Space Voice Model for Lifelike Speech](audio/cs1807-cartesia-sonic-a-low-latency-state-space-voice-model.md) — Cartesia · 2024
-- [BabbleLabs - AI audio wizardry for Cisco Webex Meetings](audio/cs1357-babblelabs-ai-audio-wizardry-for-cisco-webex-meetings.md) — Cisco (Webex) · 2021
-- [How we built a real-time, client-side noise suppression library without server dependencies](audio/cs2371-how-we-built-a-real-time-client-side-noise.md) — Datadog · 2025
-- [Introducing Aura-2: Enterprise-Grade Text-to-Speech](audio/cs2101-introducing-aura-2-enterprise-grade-text-to-speech.md) — Deepgram · 2025
-- [Eleven v3: Most Expressive AI TTS Model](audio/cs2376-eleven-v3-most-expressive-ai-tts-model.md) — ElevenLabs · 2024
-- [Introducing Solaria, the first truly universal speech-to-text model](audio/cs2375-introducing-solaria-the-first-truly-universal-speech-to-text.md) — Gladia · 2024
-- [Real-Time Speech-to-Speech Translation in Google Meet](audio/cs2184-real-time-speech-to-speech-translation-in-google-meet.md) — Google · 2025
-- [Krisp AI Accent Conversion v3](audio/cs2097-krisp-ai-accent-conversion-v3.md) — Krisp · 2025
-- [Audio-Only Turn-Taking Model v2 for Voice AI — VIVA SDK](audio/cs2098-audio-only-turn-taking-model-v2-for-voice-ai.md) — Krisp · 2025
-- [Introducing 3.5x Smaller Voice Isolation Model with Exceptional Accuracy](audio/cs2099-introducing-35x-smaller-voice-isolation-model-with-exceptional-accuracy.md) — Krisp · 2025
-- [Improved End-of-Turn Model Cuts Voice AI Interruptions 39%](audio/cs2103-improved-end-of-turn-model-cuts-voice-ai-interruptions.md) — LiveKit · 2025
-- [Using a Transformer to Improve End-of-Turn Detection](audio/cs2187-using-a-transformer-to-improve-end-of-turn-detection.md) — LiveKit · 2024
-- [Adaptive Interruption Handling for Voice AI Agents](audio/cs2188-adaptive-interruption-handling-for-voice-ai-agents.md) — LiveKit · 2024
-- [SAM Audio: A Unified Multimodal Model for Audio Separation](audio/cs2183-sam-audio-a-unified-multimodal-model-for-audio-separation.md) — Meta · 2025
-- [Latest Updates to the Azure AI Speech Service](audio/cs2319-latest-updates-to-the-azure-ai-speech-service.md) — Microsoft · 2024
-- [Advancing Speech Innovation with Azure Speech in Microsoft Foundry](audio/cs2320-advancing-speech-innovation-with-azure-speech-in-microsoft-foundry.md) — Microsoft · 2025
-- [Introducing MAI-Transcribe-1, MAI-Voice-1, and MAI-Image-2 in Microsoft Foundry](audio/cs2374-introducing-mai-transcribe-1-mai-voice-1-and-mai.md) — Microsoft · 2025
-- [Identify Speakers in Meetings, Calls, and Voice Apps in Real-Time with NVIDIA Streaming Sortformer](audio/cs2100-identify-speakers-in-meetings-calls-and-voice-apps-in.md) — NVIDIA · 2025
-- [Introducing ChatGPT and Whisper APIs](audio/cs2321-introducing-chatgpt-and-whisper-apis.md) — OpenAI · 2023
-- [How to Build Smarter Turn Detection for Voice AI](audio/cs2102-how-to-build-smarter-turn-detection-for-voice-ai.md) — Speechmatics · 2024
-- [Distributed Self-Distillation for Large-Scale ASR Training](audio/cs2185-distributed-self-distillation-for-large-scale-asr-training.md) — Speechmatics · 2025
-- [Ursa 2: Elevating Speech Recognition Across 52 Languages](audio/cs2186-ursa-2-elevating-speech-recognition-across-52-languages.md) — Speechmatics · 2024
-- [Engineering an Invisible AI Medical Scribe](audio/cs2372-engineering-an-invisible-ai-medical-scribe.md) — Suki · 2024
-- [Scaling Suki's Intent Classification for Voice AI](audio/cs2373-scaling-sukis-intent-classification-for-voice-ai.md) — Suki · 2024
-
-## Computer Vision (26)
-
+- [Deep Dive in PaddleOCR Inference](cv/cs1834-deep-dive-in-paddleocr-inference.md) — Adevinta · 2023
+- [Inside Agoda's Content Enrichment Platform: Managing 450M+ Property Images](cv/cs1827-inside-agodas-content-enrichment-platform-managing-450m-property-images.md) — Agoda · 2025
+- [Say What You See: Building Multimodal Content Signals at Scale](cv/cs1828-say-what-you-see-building-multimodal-content-signals-at.md) — Agoda · 2026
 - [Amazon Shop the Look: A Visual Search System for Fashion and Home](cv/cs2323-amazon-shop-the-look-a-visual-search-system-for.md) — Amazon · 2022
 - [Bringing Multimodality to Amazon Visual Search System](cv/cs2324-bringing-multimodality-to-amazon-visual-search-system.md) — Amazon · 2023
 - [Combining Machine Learning and Homomorphic Encryption in the Apple Ecosystem](cv/cs2191-combining-machine-learning-and-homomorphic-encryption-in-the-apple.md) — Apple · 2024
+- [Automated Image Tagging at Booking.com](cv/cs1844-automated-image-tagging-at-bookingcom.md) — Booking.com · 2017
+- [Dataset in a Day: A Clustering-Based Approach to Create Image Moderation Datasets](cv/cs1841-dataset-in-a-day-a-clustering-based-approach-to.md) — Bumble · 2023
 - [Image replacement in Canva designs using reverse image search](cv/cs0821-image-replacement-in-canva-designs-using-reverse-image-search.md) — Canva · 2025
+- [Introducing Image Search & Price Suggestions](cv/cs1830-introducing-image-search-price-suggestions.md) — Carousell · 2019
 - [Evaluating image segmentation models for background removal for Images](cv/cs2193-evaluating-image-segmentation-models-for-background-removal-for-images.md) — Cloudflare · 2025
 - [How we built AI face cropping for Images](cv/cs2194-how-we-built-ai-face-cropping-for-images.md) — Cloudflare · 2025
+- [Cruise's Continuous Learning Machine Predicts the Unpredictable on San Francisco Roads](cv/cs1835-cruises-continuous-learning-machine-predicts-the-unpredictable-on-san.md) — Cruise · 2020
 - [Using LLM to transcribe restaurant menu photos](cv/cs0839-using-llm-to-transcribe-restaurant-menu-photos.md) — Doordash · 2025
+- [Chaining iOS Machine Learning, Computer Vision, and Augmented Reality to Make the Magical Real](cv/cs1843-chaining-ios-machine-learning-computer-vision-and-augmented-reality.md) — Etsy · 2020
 - [See the Similarity: Personalizing Visual Search with Multimodal Embeddings](cv/cs2377-see-the-similarity-personalizing-visual-search-with-multimodal-embeddings.md) — Google · 2024
+- [Updating Google Maps with Deep Learning and Street View](cv/cs2412-updating-google-maps-with-deep-learning-and-street-view.md) — Google · 2021
 - [Introducing PIXEL: Instacart's Unified Image Generation Platform](cv/cs0835-introducing-pixel-instacarts-unified-image-generation-platform.md) — Instacart · 2025
 - [Connecting Stores From Edge to Cloud: Reinventing Retail with Physical AI](cv/cs2104-connecting-stores-from-edge-to-cloud-reinventing-retail-with.md) — Instacart · 2026
+- [Building a Financial Document Understanding Platform](cv/cs1836-building-a-financial-document-understanding-platform.md) — Intuit · 2019
+- [Learning Information Extraction from Images of Structured Documents Using Synthetic Data and Conditional Random Fields](cv/cs1838-learning-information-extraction-from-images-of-structured-documents-using.md) — Intuit · 2019
+- [How to Choose the Best Image Embeddings for Your E-commerce Business](cv/cs1831-how-to-choose-the-best-image-embeddings-for-your.md) — leboncoin · 2025
 - [New Approaches For Detecting AI-Generated Profile Photos](cv/cs2195-new-approaches-for-detecting-ai-generated-profile-photos.md) — LinkedIn · 2023
+- [Fine-tuned SigLIP Image Embeddings for Similar Looks Recommendation in a Japanese C2C Marketplace](cv/cs1825-fine-tuned-siglip-image-embeddings-for-similar-looks-recommendation.md) — Mercari · 2024
+- [Image Representation Technique for Visual Search on a C2C Marketplace](cv/cs1826-image-representation-technique-for-visual-search-on-a-c2c.md) — Mercari · 2019
 - [Video Invisible Watermarking at Scale](cv/cs2199-video-invisible-watermarking-at-scale.md) — Meta · 2025
+- [State of the ARt in Relocalization with Machine Learning (ACE)](cv/cs1840-state-of-the-art-in-relocalization-with-machine-learning.md) — Niantic · 2023
 - [Building a Large Geospatial Model to Achieve Spatial Intelligence](cv/cs2192-building-a-large-geospatial-model-to-achieve-spatial-intelligence.md) — Niantic · 2024
 - [Generative Engine Optimization: A VLM and Agent Framework for Pinterest Acquisition Growth](cv/cs2196-generative-engine-optimization-a-vlm-and-agent-framework-for.md) — Pinterest · 2026
 - [Introducing the Future of Visual Discovery on Pinterest](cv/cs2327-introducing-the-future-of-visual-discovery-on-pinterest.md) — Pinterest · 2022
 - [Engineering Visual Search Inside Pinterest Browser Extensions](cv/cs2328-engineering-visual-search-inside-pinterest-browser-extensions.md) — Pinterest · 2021
 - [Introducing a New Way to Visually Search on Pinterest](cv/cs2329-introducing-a-new-way-to-visually-search-on-pinterest.md) — Pinterest · 2020
+- [Hardware Accelerated Inference on Edge Devices at Samsara](cv/cs1837-hardware-accelerated-inference-on-edge-devices-at-samsara.md) — Samsara · 2021
 - [AR-Enabled Catalogs: Bringing Augmented Reality to Advertiser Product Catalogs](cv/cs2325-ar-enabled-catalogs-bringing-augmented-reality-to-advertiser-product.md) — Snap · 2022
 - [Bringing Locations to Life with AR: Snapchat Landmarkers](cv/cs2326-bringing-locations-to-life-with-ar-snapchat-landmarkers.md) — Snap · 2020
 - [Enhancing Brand Visibility and Trust with On device ML models: A Journey at Swiggy](cv/cs0798-enhancing-brand-visibility-and-trust-with-on-device-ml.md) — Swiggy · 2025
 - [HunyuanOCR Technical Report](cv/cs2200-hunyuanocr-technical-report.md) — Tencent · 2025
+- [Making the Best First Impression: Using Machine Learning to Optimize Photo Selection](cv/cs1829-making-the-best-first-impression-using-machine-learning-to.md) — Tripadvisor · 2025
+- [Using On-Device Machine Learning to Suggest Presets for Images in VSCO](cv/cs1842-using-on-device-machine-learning-to-suggest-presets-for.md) — VSCO · 2019
+- [Spatial: An Evolution in Computing (Decorify for Apple Vision Pro)](cv/cs1839-spatial-an-evolution-in-computing-decorify-for-apple-vision.md) — Wayfair · 2024
 - [Real-Time Package Damage Detection at Scale: Integrating YOLO in Warehouse Operations](cv/cs2105-real-time-package-damage-detection-at-scale-integrating-yolo.md) — Wayfair · 2026
 - [From Pixels to Purchase: Building and Evaluating a Taxonomy-Decoupled Visual Search Engine for Home Goods E-commerce](cv/cs2322-from-pixels-to-purchase-building-and-evaluating-a-taxonomy.md) — Wayfair · 2026
 - [Demonstrably Safe AI For Autonomous Driving](cv/cs2197-demonstrably-safe-ai-for-autonomous-driving.md) — Waymo · 2025
 - [The Waymo World Model: A New Frontier For Autonomous Driving Simulation](cv/cs2198-the-waymo-world-model-a-new-frontier-for-autonomous.md) — Waymo · 2026
 - [New Insights for Scaling Laws in Autonomous Driving](cv/cs2378-new-insights-for-scaling-laws-in-autonomous-driving.md) — Waymo · 2025
+- [Zomato Digitizes Menus Using Amazon Textract and Amazon SageMaker](cv/cs1833-zomato-digitizes-menus-using-amazon-textract-and-amazon-sagemaker.md) — Zomato · 2020
+- [How the Zoox Robotaxi Predicts Everything, Everywhere, All at Once](cv/cs1832-how-the-zoox-robotaxi-predicts-everything-everywhere-all-at.md) — Zoox · 2022
 
-## Search & Retrieval (26)
+## Data & Feature Engineering (45)
 
-- [Recommending Search Filters To Improve Conversions At Airbnb](search/cs2304-recommending-search-filters-to-improve-conversions-at-airbnb.md) — Airbnb · 2026
-- [Learning to Rank for Maps at Airbnb](search/cs2305-learning-to-rank-for-maps-at-airbnb.md) — Airbnb · 2024
-- [Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments](search/cs2160-scaling-search-relevance-augmenting-app-store-ranking-with-llm.md) — Apple · 2026
-- [RankExpert: A Mixture of Textual-and-Behavioral Experts for Multi-Objective Learning-to-Rank in Web Search](search/cs2363-rankexpert-a-mixture-of-textual-and-behavioral-experts-for.md) — Baidu · 2025
-- [How Instacart Built a Modern Search Infrastructure on Postgres](search/cs2312-how-instacart-built-a-modern-search-infrastructure-on-postgres.md) — Instacart · 2025
-- [ADORE: Autonomous Domain-Oriented Relevance Engine for E-commerce](search/cs2163-adore-autonomous-domain-oriented-relevance-engine-for-e-commerce.md) — JD.com · 2025
-- [UniERF: A Uniform Embedding-based Retrieval Framework for E-commerce Search](search/cs2307-unierf-a-uniform-embedding-based-retrieval-framework-for-e.md) — JD.com · 2025
-- [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](search/cs2308-onesearch-a-preliminary-exploration-of-the-unified-end-to.md) — JD.com · 2025
-- [GREAT: Guiding Query Generation with a Trie for Recommending Related Search about Video at Kuaishou](search/cs2313-great-guiding-query-generation-with-a-trie-for-recommending.md) — Kuaishou · 2025
-- [Large Scale Retrieval for the LinkedIn Feed using Causal Language Models](search/cs2309-large-scale-retrieval-for-the-linkedin-feed-using-causal.md) — LinkedIn · 2025
-- [Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems](search/cs2360-powering-job-search-at-scale-llm-enhanced-query-understanding.md) — LinkedIn · 2025
-- [PIANO: Personalized Reranking via Information Aggregation Node for Music Search Optimization](search/cs2164-piano-personalized-reranking-via-information-aggregation-node-for-music.md) — NetEase Cloud Music · 2026
-- [LLM-based Relevance Assessment for Web-Scale Search Evaluation at Pinterest](search/cs2311-llm-based-relevance-assessment-for-web-scale-search-evaluation.md) — Pinterest · 2025
-- [OneRank: Unified Transformer-Native Ranking Architecture for Multi-Task Recommendation](search/cs2165-onerank-unified-transformer-native-ranking-architecture-for-multi-task.md) — Shopee · 2026
-- [Optimizing Query Expansions via LLM Preference Alignment](search/cs2162-optimizing-query-expansions-via-llm-preference-alignment.md) — Spotify · 2025
-- [Real-time ML Ranking for Autocomplete: Deploying Learning-to-Rank inside OpenSearch (Part 1)](search/cs2161-real-time-ml-ranking-for-autocomplete-deploying-learning-to.md) — Swiggy · 2026
-- [LEAPS: An LLM-Empowered Adaptive Plugin in Taobao AI Search](search/cs2310-leaps-an-llm-empowered-adaptive-plugin-in-taobao-ai.md) — Taobao · 2026
-- [BEQUE: Large Language Model based Long-tail Query Rewriting in Taobao Search](search/cs2361-beque-large-language-model-based-long-tail-query-rewriting.md) — Taobao · 2024
-- [Complicated Semantic Alignment for Long-Tail Query Rewriting in Taobao Search Based on Large Language Model](search/cs2365-complicated-semantic-alignment-for-long-tail-query-rewriting-in.md) — Taobao · 2025
-- [Unified Learning-to-Rank for Multi-Channel Retrieval in Large-Scale E-Commerce Search](search/cs2359-unified-learning-to-rank-for-multi-channel-retrieval-in.md) — Target · 2026
-- [RARE: Real-time Ad Retrieval via LLM-generative Commercial Intention for Sponsored Search Advertising](search/cs2362-rare-real-time-ad-retrieval-via-llm-generative-commercial.md) — Tencent · 2025
-- [Applying Large Language Model For Relevance Search In Tencent](search/cs2364-applying-large-language-model-for-relevance-search-in-tencent.md) — Tencent · 2025
-- [Closing the Auto-Research Loop: An AI Co-Scientist for Production Search Ranking](search/cs2306-closing-the-auto-research-loop-an-ai-co-scientist.md) — Trip.com · 2026
-- [The Evolution of Uber's Search Platform](search/cs2315-the-evolution-of-ubers-search-platform.md) — Uber · 2025
-- [Accelerating Search and Ingestion with High-Performance gRPC in OpenSearch](search/cs2316-accelerating-search-and-ingestion-with-high-performance-grpc-in.md) — Uber · 2025
-- [Unified Multi-Task Relevance Modeling for E-Commerce: Comparing Task Routing Architectures Across LLMs and Cross-Encoders](search/cs2314-unified-multi-task-relevance-modeling-for-e-commerce-comparing.md) — Walmart · 2026
+- [Airbnb — How Airbnb Achieved Metric Consistency at Scale](data/cs1853-airbnb-how-airbnb-achieved-metric-consistency-at-scale.md) — Airbnb · 2021
+- [Airbnb — Data Quality at Airbnb, Part 1: Rebuilding at Scale](data/cs1854-airbnb-data-quality-at-airbnb-part-1-rebuilding-at.md) — Airbnb · 2020
+- [Airbnb — Data Quality at Airbnb, Part 2: A New Gold Standard](data/cs1855-airbnb-data-quality-at-airbnb-part-2-a-new.md) — Airbnb · 2020
+- [Airbnb — How Airbnb Standardized Metric Computation at Scale](data/cs1856-airbnb-how-airbnb-standardized-metric-computation-at-scale.md) — Airbnb · 2021
+- [Criteo — Scheduling Data Pipelines at Criteo, Part 2](data/cs1859-criteo-scheduling-data-pipelines-at-criteo-part-2.md) — Criteo · 2022
+- [Leveraging the Feature Store for Fast-Tracking ML Model Development](data/cs2204-leveraging-the-feature-store-for-fast-tracking-ml-model.md) — Delivery Hero · 2025
+- [Building A Declarative Real-Time Feature Engineering Framework at DoorDash](data/cs2206-building-a-declarative-real-time-feature-engineering-framework-at.md) — DoorDash · 2025
+- [Inside the feature store powering real-time AI in Dropbox Dash](data/cs1917-inside-the-feature-store-powering-real-time-ai-in.md) — Dropbox · 2025
+- [Grab — Metasense V2: Productionising LLM-Powered Data Governance](data/cs1861-grab-metasense-v2-productionising-llm-powered-data-governance.md) — Grab · 2024
+- [Data Mesh at Grab Part I: Building Trust Through Certification](data/cs2207-data-mesh-at-grab-part-i-building-trust-through.md) — Grab · 2025
+- [LinkedIn — Towards Data Quality Management at LinkedIn](data/cs1849-linkedin-towards-data-quality-management-at-linkedin.md) — LinkedIn · 2022
+- [Meta — How Meta Understands Data at Scale](data/cs1850-meta-how-meta-understands-data-at-scale.md) — Meta · 2025
+- [Meta — How Meta Enforces Purpose Limitation via Privacy Aware Infrastructure at Scale](data/cs1851-meta-how-meta-enforces-purpose-limitation-via-privacy-aware.md) — Meta · 2024
+- [Meta — Scaling Privacy Infrastructure for GenAI Product Innovation](data/cs1852-meta-scaling-privacy-infrastructure-for-genai-product-innovation.md) — Meta · 2025
+- [How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines](data/cs2413-how-meta-used-ai-to-map-tribal-knowledge-in.md) — Meta · 2026
+- [Netflix — Building and Scaling Data Lineage at Netflix](data/cs1845-netflix-building-and-scaling-data-lineage-at-netflix.md) — Netflix · 2019
+- [Netflix — The Data Canary: How Netflix Validates Catalog Metadata](data/cs1846-netflix-the-data-canary-how-netflix-validates-catalog-metadata.md) — Netflix · 2026
+- [From Facts & Metrics to Media Machine Learning: Evolving the Data Engineering Function at Netflix](data/cs2107-from-facts-metrics-to-media-machine-learning-evolving-the.md) — Netflix · 2025
+- [Introducing Configurable Metaflow](data/cs2108-introducing-configurable-metaflow.md) — Netflix · 2024
+- [UDA: Unified Data Architecture at Netflix](data/cs2203-uda-unified-data-architecture-at-netflix.md) — Netflix · 2025
+- [Maestro: Netflix's Workflow Orchestrator](data/cs2330-maestro-netflixs-workflow-orchestrator.md) — Netflix · 2024
+- [Nubank — Feature Stores for Real-Time ML: Why and When to Centralize Feature Logic](data/cs1865-nubank-feature-stores-for-real-time-ml-why-and.md) — Nubank · 2026
+- [Nubank — Avalanche Stack and Real-Time Streaming Applications at Nu](data/cs1866-nubank-avalanche-stack-and-real-time-streaming-applications-at.md) — Nubank · 2025
+- [Feature stores for real-time ML: Part 2 - Lessons learned from production](data/cs1963-feature-stores-for-real-time-ml-part-2-lessons.md) — Nubank · 2026
+- [PayPal — Declarative Feature Engineering at PayPal](data/cs1857-paypal-declarative-feature-engineering-at-paypal.md) — PayPal · 2023
+- [Pinterest — Next Generation DB Ingestion at Pinterest](data/cs1848-pinterest-next-generation-db-ingestion-at-pinterest.md) — Pinterest · 2026
+- [Enhancing Efficiency: Robinhood's Batch Processing Platform](data/cs2380-enhancing-efficiency-robinhoods-batch-processing-platform.md) — Robinhood · 2023
+- [Scaling and Governing Robinhood's Data Lakehouse](data/cs2382-scaling-and-governing-robinhoods-data-lakehouse.md) — Robinhood · 2023
+- [Tangle: An open-source ML experimentation platform built for scale](data/cs2106-tangle-an-open-source-ml-experimentation-platform-built-for.md) — Shopify · 2025
+- [Introducing Bento, Snap's ML Platform](data/cs2112-introducing-bento-snaps-ml-platform.md) — Snap · 2025
+- [Building a Spark-Powered Platform for ML Data Needs at Snap](data/cs2113-building-a-spark-powered-platform-for-ml-data-needs.md) — Snap · 2024
+- [Spotify — Data Platform Explained Part II](data/cs1860-spotify-data-platform-explained-part-ii.md) — Spotify · 2024
+- [Feature Stores & Faster Feature Engineering at Thumbtack](data/cs2379-feature-stores-faster-feature-engineering-at-thumbtack.md) — Thumbtack · 2022
+- [Twitch Machine Learning Feature Store (MLFS) and Real-Time Feature Engineering](data/cs2381-twitch-machine-learning-feature-store-mlfs-and-real-time.md) — Twitch · 2023
+- [Uber — How Uber Achieves Operational Excellence in the Data Quality Experience](data/cs1847-uber-how-uber-achieves-operational-excellence-in-the-data.md) — Uber · 2021
+- [Uber — Sparkle: Standardizing Modular ETL at Uber](data/cs1862-uber-sparkle-standardizing-modular-etl-at-uber.md) — Uber · 2024
+- [Uber — Apache Hudi at Uber: Engineering for Trillion-Record-Scale Data Lake Operations](data/cs1863-uber-apache-hudi-at-uber-engineering-for-trillion-record.md) — Uber · 2026
+- [Uber — Uber's Strategy to Upgrading 2M+ Spark Jobs](data/cs1864-uber-ubers-strategy-to-upgrading-2m-spark-jobs.md) — Uber · 2025
+- [From Batch to Streaming: Accelerating Data Freshness in Uber's Data Lake](data/cs2109-from-batch-to-streaming-accelerating-data-freshness-in-ubers.md) — Uber · 2025
+- [Modernizing Uber's Batch Data Infrastructure with Google Cloud Platform](data/cs2110-modernizing-ubers-batch-data-infrastructure-with-google-cloud-platform.md) — Uber · 2024
+- [DataMesh: How Uber laid the foundations for the data lake cloud migration](data/cs2111-datamesh-how-uber-laid-the-foundations-for-the-data.md) — Uber · 2024
+- [Model Excellence Scores: A Framework for Enhancing the Quality of Machine Learning Systems at Scale](data/cs2202-model-excellence-scores-a-framework-for-enhancing-the-quality.md) — Uber · 2024
+- [How Wayfair Improves Its Feature Engineering with Vertex AI](data/cs2201-how-wayfair-improves-its-feature-engineering-with-vertex-ai.md) — Wayfair · 2024
+- [Zalando — Space Efficient Machine Learning Feature Stores Using Probabilistic Data Structures](data/cs1858-zalando-space-efficient-machine-learning-feature-stores-using-probabilistic.md) — Zalando · 2021
+- [How Zalando Built a Unified Data Foundation for AI and Analytics on Databricks](data/cs2205-how-zalando-built-a-unified-data-foundation-for-ai.md) — Zalando · 2026
 
-## ML Platform & Ops (25)
+## Forecasting & Time-Series (32)
+
+- [When History Fails You, Borrow from Geography: Corridor-Level Demand Forecasting at Airbnb](forecast/cs2114-when-history-fails-you-borrow-from-geography-corridor-level.md) — Airbnb · 2026
+- [Chronos: Adapting language model architectures for time series forecasting](forecast/cs1877-chronos-adapting-language-model-architectures-for-time-series-forecasting.md) — Amazon · 2024
+- [ConSTGAT: Contextual Spatial-Temporal Graph Attention Network for Travel Time Estimation at Baidu Maps](forecast/cs1882-constgat-contextual-spatial-temporal-graph-attention-network-for-travel.md) — Baidu · 2020
+- [Coop reduces food waste by forecasting with Google's AI and Data Cloud](forecast/cs2383-coop-reduces-food-waste-by-forecasting-with-googles-ai.md) — Coop · 2023
+- [Uncertainty-Aware Probabilistic Travel Time Prediction for On-Demand Ride-Hailing at DiDi](forecast/cs1883-uncertainty-aware-probabilistic-travel-time-prediction-for-on-demand.md) — DiDi · 2023
+- [ECMWF's AI forecasts become operational (AIFS)](forecast/cs1874-ecmwfs-ai-forecasts-become-operational-aifs.md) — ECMWF · 2025
+- [Sculpturing: Optimising Budget through Machine Learning](forecast/cs0855-sculpturing-optimising-budget-through-machine-learning.md) — Foodpanda · 2024
+- [The Making: Optimising Budget through Machine Learning](forecast/cs0864-the-making-optimising-budget-through-machine-learning.md) — Foodpanda · 2024
+- [Forecasting Capacity Outages Using Machine Learning to Bolster Application Resiliency](forecast/cs2210-forecasting-capacity-outages-using-machine-learning-to-bolster-application.md) — Goldman Sachs · 2024
+- [Using AI to expand global access to reliable flood forecasts](forecast/cs1872-using-ai-to-expand-global-access-to-reliable-flood.md) — Google · 2024
+- [MetNet-3: A state-of-the-art neural weather model available in Google products](forecast/cs1873-metnet-3-a-state-of-the-art-neural-weather.md) — Google · 2023
+- [A decoder-only foundation model for time-series forecasting (TimesFM)](forecast/cs1878-a-decoder-only-foundation-model-for-time-series-forecasting.md) — Google · 2024
+- [GraphCast: AI model for faster and more accurate global weather forecasting](forecast/cs1867-graphcast-ai-model-for-faster-and-more-accurate-global.md) — Google DeepMind · 2023
+- [GenCast predicts weather and the risks of extreme conditions with state-of-the-art accuracy](forecast/cs1868-gencast-predicts-weather-and-the-risks-of-extreme-conditions.md) — Google DeepMind · 2024
+- [Nowcasting the next hour of rain](forecast/cs1869-nowcasting-the-next-hour-of-rain.md) — Google DeepMind · 2021
+- [Machine learning can boost the value of wind energy](forecast/cs1870-machine-learning-can-boost-the-value-of-wind-energy.md) — Google DeepMind · 2019
+- [Machine-Learning Predictive Autoscaling for Flink](forecast/cs2211-machine-learning-predictive-autoscaling-for-flink.md) — Grab · 2025
+- [How Hapag-Lloyd Improved Schedule Reliability with ML-Powered Vessel Schedule Predictions Using Amazon SageMaker](forecast/cs2212-how-hapag-lloyd-improved-schedule-reliability-with-ml-powered.md) — Hapag-Lloyd · 2025
+- [Print Demand Forecasting with Machine Learning at HP Inc.](forecast/cs2116-print-demand-forecasting-with-machine-learning-at-hp-inc.md) — HP Inc. · 2024
+- [Pangu-Weather: AI model outperforms NWP for medium-range forecasting](forecast/cs1875-pangu-weather-ai-model-outperforms-nwp-for-medium-range.md) — Huawei Cloud · 2023
+- [Building for Balance: Instacart's Supply Allocation & Generation Engine (SAGE)](forecast/cs2214-building-for-balance-instacarts-supply-allocation-generation-engine-sage.md) — Instacart · 2024
+- [Lufthansa increases on-time flights by wind forecasting with Google Cloud ML](forecast/cs2384-lufthansa-increases-on-time-flights-by-wind-forecasting-with.md) — Lufthansa · 2022
+- [Real-Time Spatial Temporal Forecasting @ Lyft](forecast/cs0782-real-time-spatial-temporal-forecasting-lyft.md) — Lyft · 2025
+- [Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads](forecast/cs1114-meta-adaptive-ranking-model-bending-the-inference-scaling-curve.md) — Meta · 2026
+- [Introducing Aurora: The first large-scale foundation model of the atmosphere](forecast/cs1871-introducing-aurora-the-first-large-scale-foundation-model-of.md) — Microsoft · 2024
+- [How generative AI is empowering climate tech with NVIDIA Earth-2](forecast/cs1876-how-generative-ai-is-empowering-climate-tech-with-nvidia.md) — NVIDIA · 2024
+- [Fine-Tuning Time-Series Foundation Models on Business Data](forecast/cs2209-fine-tuning-time-series-foundation-models-on-business-data.md) — Salesforce · 2026
+- [Machine Learning at Shopify: Tabular Transformer for Merchant GMV Forecasting](forecast/cs2117-machine-learning-at-shopify-tabular-transformer-for-merchant-gmv.md) — Shopify · 2025
+- [Doubling Our ETA Accuracy with Machine Learning in Production](forecast/cs2115-doubling-our-eta-accuracy-with-machine-learning-in-production.md) — Transporeon · 2024
+- [Enhancing Uber's Guidance Heatmap with Deep Probabilistic Models](forecast/cs2208-enhancing-ubers-guidance-heatmap-with-deep-probabilistic-models.md) — Uber · 2025
+- [Decking the Aisles with Data: How Walmart's AI-Powered Inventory System Brightens the Holidays](forecast/cs2213-decking-the-aisles-with-data-how-walmarts-ai-powered.md) — Walmart · 2023
+- [How Data Science and Applied Science Work Together at Wolt](forecast/cs2385-how-data-science-and-applied-science-work-together-at.md) — Wolt · 2025
+
+## Anomaly Detection (31)
+
+- [How Agoda Enhanced the Uptime and Consistency of Financial Metrics](anomaly/cs1801-how-agoda-enhanced-the-uptime-and-consistency-of-financial.md) — Agoda · 2025
+- [Anomaly Detection for Airbnb's Payment Platform](anomaly/cs1788-anomaly-detection-for-airbnbs-payment-platform.md) — Airbnb · 2015
+- [It Wasn't a Culture Problem: Upleveling Alert Development at Airbnb](anomaly/cs2180-it-wasnt-a-culture-problem-upleveling-alert-development-at.md) — Airbnb · 2026
+- [Towards LLM-Based Failure Localization in Production-Scale Networks](anomaly/cs2094-towards-llm-based-failure-localization-in-production-scale-networks.md) — Alibaba Cloud · 2025
+- [The Role of Anomaly Detection in IAM](anomaly/cs2370-the-role-of-anomaly-detection-in-iam.md) — Capital One · 2023
+- [Measuring ISP Health: City-scale Outage and Timing Anomaly Detection](anomaly/cs1796-measuring-isp-health-city-scale-outage-and-timing-anomaly.md) — Cisco ThousandEyes · 2025
+- [New Anomaly Detection Algorithm for Alerting](anomaly/cs1797-new-anomaly-detection-algorithm-for-alerting.md) — Cisco ThousandEyes · 2024
+- [Pinpointing Anomalies Along the Path for Network Events](anomaly/cs1798-pinpointing-anomalies-along-the-path-for-network-events.md) — Cisco ThousandEyes · 2025
+- [Lessons Learned from Scaling Up Cloudflare's Anomaly Detection Platform](anomaly/cs2176-lessons-learned-from-scaling-up-cloudflares-anomaly-detection-platform.md) — Cloudflare · 2025
+- [Building Unique, Per-Customer Defenses Against Advanced Bot Threats in the AI Era](anomaly/cs2177-building-unique-per-customer-defenses-against-advanced-bot-threats.md) — Cloudflare · 2025
+- [Get Notified About the Most Relevant Events with Advanced HTTP Alerts](anomaly/cs2182-get-notified-about-the-most-relevant-events-with-advanced.md) — Cloudflare · 2025
+- [Detect anomalies beyond spikes and new values with Content Anomaly Detection in Cloud SIEM](anomaly/cs2410-detect-anomalies-beyond-spikes-and-new-values-with-content.md) — Datadog · 2025
+- [Moving Metric Detection and Alerting System at eBay](anomaly/cs1792-moving-metric-detection-and-alerting-system-at-ebay.md) — eBay · 2020
+- [Ensuring Data Reliability and Observability in Risk Systems](anomaly/cs1794-ensuring-data-reliability-and-observability-in-risk-systems.md) — Grab · 2024
+- [LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience](anomaly/cs2092-llm-assisted-anomaly-detection-service-for-site-reliability-engineers.md) — IBM · 2025
+- [Anomaly Detection in Large-Scale Cloud Systems: An Industry Case and Dataset](anomaly/cs2093-anomaly-detection-in-large-scale-cloud-systems-an-industry.md) — IBM · 2024
+- [Finding Anomalies in User Behavior with Python](anomaly/cs1802-finding-anomalies-in-user-behavior-with-python.md) — Indeed · 2016
+- [DrP: Meta's Root Cause Analysis Platform at Scale](anomaly/cs1799-drp-metas-root-cause-analysis-platform-at-scale.md) — Meta · 2025
+- [Time-Series Anomaly Detection Service at Microsoft](anomaly/cs1793-time-series-anomaly-detection-service-at-microsoft.md) — Microsoft · 2019
+- [Advancing Memory Leak Detection with AIOps—Introducing RESIN](anomaly/cs2179-advancing-memory-leak-detection-with-aiopsintroducing-resin.md) — Microsoft · 2024
+- [Improved Alerting with Atlas Streaming Eval](anomaly/cs1800-improved-alerting-with-atlas-streaming-eval.md) — Netflix · 2023
+- [Fixing Performance Regressions Before they Happen](anomaly/cs2367-fixing-performance-regressions-before-they-happen.md) — Netflix · 2022
+- [Anomaly Detection in Zipkin Trace Data](anomaly/cs1790-anomaly-detection-in-zipkin-trace-data.md) — Salesforce · 2025
+- [PyRCA: Making Root Cause Analysis Easy in AIOps](anomaly/cs2369-pyrca-making-root-cause-analysis-easy-in-aiops.md) — Salesforce · 2023
+- [Slack Audit Logs and Anomalies](anomaly/cs2181-slack-audit-logs-and-anomalies.md) — Slack · 2024
+- [Automated Incident Response Infrastructure in GCP](anomaly/cs2368-automated-incident-response-infrastructure-in-gcp.md) — Spotify · 2019
+- [The ML Flywheel: How We Continually Improve Our Models to Reduce Card Testing](anomaly/cs2178-the-ml-flywheel-how-we-continually-improve-our-models.md) — Stripe · 2024
+- [Real-world Insights: Anomaly Detection in Internet Traffic](anomaly/cs1795-real-world-insights-anomaly-detection-in-internet-traffic.md) — trivago · 2024
+- [Leveling Up Customer Experience Monitoring at Twitch: The QoUX Journey](anomaly/cs1789-leveling-up-customer-experience-monitoring-at-twitch-the-qoux.md) — Twitch · 2025
+- [Identifying Outages with Argos, Uber's Real-Time Monitoring and Root-Cause Exploration Tool](anomaly/cs1803-identifying-outages-with-argos-ubers-real-time-monitoring-and.md) — Uber · 2015
+- [How We Detect Anomalies in Our Product Recommendations Metrics](anomaly/cs1791-how-we-detect-anomalies-in-our-product-recommendations-metrics.md) — Wayfair · 2019
+
+## ML Platform & Ops (28)
 
 - [Building a User Signals Platform at Airbnb](mlops/cs2259-building-a-user-signals-platform-at-airbnb.md) — Airbnb · 2026
 - [Architecting Scalable ML Platforms: The Integrated Infrastructure and Acceleration Behind Rovo](mlops/cs2263-architecting-scalable-ml-platforms-the-integrated-infrastructure-and-acceleration.md) — Atlassian · 2025
@@ -222,9 +363,12 @@
 - [How we built a CI/CD Pipeline for machine learning with online training in Kubeflow](mlops/cs2398-how-we-built-a-cicd-pipeline-for-machine-learning.md) — Itaú Unibanco · 2019
 - [Model health assurance at LinkedIn](mlops/cs2399-model-health-assurance-at-linkedin.md) — LinkedIn · 2021
 - [Introducing FBLearner Flow: Facebook's AI backbone](mlops/cs2401-introducing-fblearner-flow-facebooks-ai-backbone.md) — Meta · 2016
+- [Meta's AI Storage Blueprint at Scale](mlops/cs2427-metas-ai-storage-blueprint-at-scale.md) — Meta · 2026
+- [Modernizing the Meta Ads Service With an Open-Source Kernel Scheduler](mlops/cs2428-modernizing-the-meta-ads-service-with-an-open-source.md) — Meta · 2026
 - [State of Routing in Model Serving](mlops/cs2257-state-of-routing-in-model-serving.md) — Netflix · 2026
 - [Supercharging the ML and AI Development Experience at Netflix](mlops/cs2258-supercharging-the-ml-and-ai-development-experience-at-netflix.md) — Netflix · 2025
 - [Meson: Workflow Orchestration for Netflix Recommendations](mlops/cs2400-meson-workflow-orchestration-for-netflix-recommendations.md) — Netflix · 2021
+- [In-House LLM Serving at Netflix](mlops/cs2426-in-house-llm-serving-at-netflix.md) — Netflix · 2026
 - [500X Scalability of Experiment Metric Computing with Unified Dynamic Framework](mlops/cs2260-500x-scalability-of-experiment-metric-computing-with-unified-dynamic.md) — Pinterest · 2025
 - [PinCompute: A Kubernetes Backed General Purpose Compute Platform for Pinterest](mlops/cs2343-pincompute-a-kubernetes-backed-general-purpose-compute-platform-for.md) — Pinterest · 2024
 - [Accelerating AI Inference for 3D Creation on Roblox](mlops/cs2262-accelerating-ai-inference-for-3d-creation-on-roblox.md) — Roblox · 2025
@@ -234,32 +378,36 @@
 - [Raising the Bar on ML Model Deployment Safety](mlops/cs2136-raising-the-bar-on-ml-model-deployment-safety.md) — Uber · 2025
 - [Machine learning at Wolt: our journey towards MLOps](mlops/cs2135-machine-learning-at-wolt-our-journey-towards-mlops.md) — Wolt · 2025
 
-## Anomaly Detection (24)
+## Search & Retrieval (28)
 
-- [How Agoda Enhanced the Uptime and Consistency of Financial Metrics](anomaly/cs1801-how-agoda-enhanced-the-uptime-and-consistency-of-financial.md) — Agoda · 2025
-- [Anomaly Detection for Airbnb's Payment Platform](anomaly/cs1788-anomaly-detection-for-airbnbs-payment-platform.md) — Airbnb · 2015
-- [It Wasn't a Culture Problem: Upleveling Alert Development at Airbnb](anomaly/cs2180-it-wasnt-a-culture-problem-upleveling-alert-development-at.md) — Airbnb · 2026
-- [Towards LLM-Based Failure Localization in Production-Scale Networks](anomaly/cs2094-towards-llm-based-failure-localization-in-production-scale-networks.md) — Alibaba Cloud · 2025
-- [The Role of Anomaly Detection in IAM](anomaly/cs2370-the-role-of-anomaly-detection-in-iam.md) — Capital One · 2023
-- [Measuring ISP Health: City-scale Outage and Timing Anomaly Detection](anomaly/cs1796-measuring-isp-health-city-scale-outage-and-timing-anomaly.md) — Cisco ThousandEyes · 2025
-- [New Anomaly Detection Algorithm for Alerting](anomaly/cs1797-new-anomaly-detection-algorithm-for-alerting.md) — Cisco ThousandEyes · 2024
-- [Pinpointing Anomalies Along the Path for Network Events](anomaly/cs1798-pinpointing-anomalies-along-the-path-for-network-events.md) — Cisco ThousandEyes · 2025
-- [Lessons Learned from Scaling Up Cloudflare's Anomaly Detection Platform](anomaly/cs2176-lessons-learned-from-scaling-up-cloudflares-anomaly-detection-platform.md) — Cloudflare · 2025
-- [Building Unique, Per-Customer Defenses Against Advanced Bot Threats in the AI Era](anomaly/cs2177-building-unique-per-customer-defenses-against-advanced-bot-threats.md) — Cloudflare · 2025
-- [Get Notified About the Most Relevant Events with Advanced HTTP Alerts](anomaly/cs2182-get-notified-about-the-most-relevant-events-with-advanced.md) — Cloudflare · 2025
-- [Moving Metric Detection and Alerting System at eBay](anomaly/cs1792-moving-metric-detection-and-alerting-system-at-ebay.md) — eBay · 2020
-- [Ensuring Data Reliability and Observability in Risk Systems](anomaly/cs1794-ensuring-data-reliability-and-observability-in-risk-systems.md) — Grab · 2024
-- [LLM Assisted Anomaly Detection Service for Site Reliability Engineers: Enhancing Cloud Infrastructure Resilience](anomaly/cs2092-llm-assisted-anomaly-detection-service-for-site-reliability-engineers.md) — IBM · 2025
-- [Anomaly Detection in Large-Scale Cloud Systems: An Industry Case and Dataset](anomaly/cs2093-anomaly-detection-in-large-scale-cloud-systems-an-industry.md) — IBM · 2024
-- [Finding Anomalies in User Behavior with Python](anomaly/cs1802-finding-anomalies-in-user-behavior-with-python.md) — Indeed · 2016
-- [DrP: Meta's Root Cause Analysis Platform at Scale](anomaly/cs1799-drp-metas-root-cause-analysis-platform-at-scale.md) — Meta · 2025
-- [Time-Series Anomaly Detection Service at Microsoft](anomaly/cs1793-time-series-anomaly-detection-service-at-microsoft.md) — Microsoft · 2019
-- [Advancing Memory Leak Detection with AIOps—Introducing RESIN](anomaly/cs2179-advancing-memory-leak-detection-with-aiopsintroducing-resin.md) — Microsoft · 2024
-- [Fixing Performance Regressions Before they Happen](anomaly/cs2367-fixing-performance-regressions-before-they-happen.md) — Netflix · 2022
-- [PyRCA: Making Root Cause Analysis Easy in AIOps](anomaly/cs2369-pyrca-making-root-cause-analysis-easy-in-aiops.md) — Salesforce · 2023
-- [Slack Audit Logs and Anomalies](anomaly/cs2181-slack-audit-logs-and-anomalies.md) — Slack · 2024
-- [Automated Incident Response Infrastructure in GCP](anomaly/cs2368-automated-incident-response-infrastructure-in-gcp.md) — Spotify · 2019
-- [The ML Flywheel: How We Continually Improve Our Models to Reduce Card Testing](anomaly/cs2178-the-ml-flywheel-how-we-continually-improve-our-models.md) — Stripe · 2024
+- [Recommending Search Filters To Improve Conversions At Airbnb](search/cs2304-recommending-search-filters-to-improve-conversions-at-airbnb.md) — Airbnb · 2026
+- [Learning to Rank for Maps at Airbnb](search/cs2305-learning-to-rank-for-maps-at-airbnb.md) — Airbnb · 2024
+- [How We Scaled Ranking with Learn-to-Rank](search/cs2430-how-we-scaled-ranking-with-learn-to-rank.md) — Algolia · 2026
+- [Scaling Search Relevance: Augmenting App Store Ranking with LLM-Generated Judgments](search/cs2160-scaling-search-relevance-augmenting-app-store-ranking-with-llm.md) — Apple · 2026
+- [RankExpert: A Mixture of Textual-and-Behavioral Experts for Multi-Objective Learning-to-Rank in Web Search](search/cs2363-rankexpert-a-mixture-of-textual-and-behavioral-experts-for.md) — Baidu · 2025
+- [How Instacart Built a Modern Search Infrastructure on Postgres](search/cs2312-how-instacart-built-a-modern-search-infrastructure-on-postgres.md) — Instacart · 2025
+- [ADORE: Autonomous Domain-Oriented Relevance Engine for E-commerce](search/cs2163-adore-autonomous-domain-oriented-relevance-engine-for-e-commerce.md) — JD.com · 2025
+- [UniERF: A Uniform Embedding-based Retrieval Framework for E-commerce Search](search/cs2307-unierf-a-uniform-embedding-based-retrieval-framework-for-e.md) — JD.com · 2025
+- [OneSearch: A Preliminary Exploration of the Unified End-to-End Generative Framework for E-commerce Search](search/cs2308-onesearch-a-preliminary-exploration-of-the-unified-end-to.md) — JD.com · 2025
+- [GREAT: Guiding Query Generation with a Trie for Recommending Related Search about Video at Kuaishou](search/cs2313-great-guiding-query-generation-with-a-trie-for-recommending.md) — Kuaishou · 2025
+- [Large Scale Retrieval for the LinkedIn Feed using Causal Language Models](search/cs2309-large-scale-retrieval-for-the-linkedin-feed-using-causal.md) — LinkedIn · 2025
+- [Powering Job Search at Scale: LLM-Enhanced Query Understanding in Job Matching Systems](search/cs2360-powering-job-search-at-scale-llm-enhanced-query-understanding.md) — LinkedIn · 2025
+- [Modernizing the Facebook Groups Search to Unlock the Power of Community Knowledge](search/cs2429-modernizing-the-facebook-groups-search-to-unlock-the-power.md) — Meta · 2026
+- [PIANO: Personalized Reranking via Information Aggregation Node for Music Search Optimization](search/cs2164-piano-personalized-reranking-via-information-aggregation-node-for-music.md) — NetEase Cloud Music · 2026
+- [LLM-based Relevance Assessment for Web-Scale Search Evaluation at Pinterest](search/cs2311-llm-based-relevance-assessment-for-web-scale-search-evaluation.md) — Pinterest · 2025
+- [OneRank: Unified Transformer-Native Ranking Architecture for Multi-Task Recommendation](search/cs2165-onerank-unified-transformer-native-ranking-architecture-for-multi-task.md) — Shopee · 2026
+- [Optimizing Query Expansions via LLM Preference Alignment](search/cs2162-optimizing-query-expansions-via-llm-preference-alignment.md) — Spotify · 2025
+- [Real-time ML Ranking for Autocomplete: Deploying Learning-to-Rank inside OpenSearch (Part 1)](search/cs2161-real-time-ml-ranking-for-autocomplete-deploying-learning-to.md) — Swiggy · 2026
+- [LEAPS: An LLM-Empowered Adaptive Plugin in Taobao AI Search](search/cs2310-leaps-an-llm-empowered-adaptive-plugin-in-taobao-ai.md) — Taobao · 2026
+- [BEQUE: Large Language Model based Long-tail Query Rewriting in Taobao Search](search/cs2361-beque-large-language-model-based-long-tail-query-rewriting.md) — Taobao · 2024
+- [Complicated Semantic Alignment for Long-Tail Query Rewriting in Taobao Search Based on Large Language Model](search/cs2365-complicated-semantic-alignment-for-long-tail-query-rewriting-in.md) — Taobao · 2025
+- [Unified Learning-to-Rank for Multi-Channel Retrieval in Large-Scale E-Commerce Search](search/cs2359-unified-learning-to-rank-for-multi-channel-retrieval-in.md) — Target · 2026
+- [RARE: Real-time Ad Retrieval via LLM-generative Commercial Intention for Sponsored Search Advertising](search/cs2362-rare-real-time-ad-retrieval-via-llm-generative-commercial.md) — Tencent · 2025
+- [Applying Large Language Model For Relevance Search In Tencent](search/cs2364-applying-large-language-model-for-relevance-search-in-tencent.md) — Tencent · 2025
+- [Closing the Auto-Research Loop: An AI Co-Scientist for Production Search Ranking](search/cs2306-closing-the-auto-research-loop-an-ai-co-scientist.md) — Trip.com · 2026
+- [The Evolution of Uber's Search Platform](search/cs2315-the-evolution-of-ubers-search-platform.md) — Uber · 2025
+- [Accelerating Search and Ingestion with High-Performance gRPC in OpenSearch](search/cs2316-accelerating-search-and-ingestion-with-high-performance-grpc-in.md) — Uber · 2025
+- [Unified Multi-Task Relevance Modeling for E-Commerce: Comparing Task Routing Architectures Across LLMs and Cross-Encoders](search/cs2314-unified-multi-task-relevance-modeling-for-e-commerce-comparing.md) — Walmart · 2026
 
 ## RL, Bandits & Uplift (21)
 
@@ -285,29 +433,6 @@
 - [A Production-Ready RL Framework for Personalized Utility Tuning with Pareto Sweeping in Pinterest Recommender Systems](rl/cs2157-a-production-ready-rl-framework-for-personalized-utility-tuning.md) — Pinterest · 2026
 - [Multi-Objective Recommendation via Multivariate Policy Learning](rl/cs2155-multi-objective-recommendation-via-multivariate-policy-learning.md) — ShareChat · 2024
 
-## Data & Feature Engineering (20)
-
-- [Leveraging the Feature Store for Fast-Tracking ML Model Development](data/cs2204-leveraging-the-feature-store-for-fast-tracking-ml-model.md) — Delivery Hero · 2025
-- [Building A Declarative Real-Time Feature Engineering Framework at DoorDash](data/cs2206-building-a-declarative-real-time-feature-engineering-framework-at.md) — DoorDash · 2025
-- [Data Mesh at Grab Part I: Building Trust Through Certification](data/cs2207-data-mesh-at-grab-part-i-building-trust-through.md) — Grab · 2025
-- [From Facts & Metrics to Media Machine Learning: Evolving the Data Engineering Function at Netflix](data/cs2107-from-facts-metrics-to-media-machine-learning-evolving-the.md) — Netflix · 2025
-- [Introducing Configurable Metaflow](data/cs2108-introducing-configurable-metaflow.md) — Netflix · 2024
-- [UDA: Unified Data Architecture at Netflix](data/cs2203-uda-unified-data-architecture-at-netflix.md) — Netflix · 2025
-- [Maestro: Netflix's Workflow Orchestrator](data/cs2330-maestro-netflixs-workflow-orchestrator.md) — Netflix · 2024
-- [Enhancing Efficiency: Robinhood's Batch Processing Platform](data/cs2380-enhancing-efficiency-robinhoods-batch-processing-platform.md) — Robinhood · 2023
-- [Scaling and Governing Robinhood's Data Lakehouse](data/cs2382-scaling-and-governing-robinhoods-data-lakehouse.md) — Robinhood · 2023
-- [Tangle: An open-source ML experimentation platform built for scale](data/cs2106-tangle-an-open-source-ml-experimentation-platform-built-for.md) — Shopify · 2025
-- [Introducing Bento, Snap's ML Platform](data/cs2112-introducing-bento-snaps-ml-platform.md) — Snap · 2025
-- [Building a Spark-Powered Platform for ML Data Needs at Snap](data/cs2113-building-a-spark-powered-platform-for-ml-data-needs.md) — Snap · 2024
-- [Feature Stores & Faster Feature Engineering at Thumbtack](data/cs2379-feature-stores-faster-feature-engineering-at-thumbtack.md) — Thumbtack · 2022
-- [Twitch Machine Learning Feature Store (MLFS) and Real-Time Feature Engineering](data/cs2381-twitch-machine-learning-feature-store-mlfs-and-real-time.md) — Twitch · 2023
-- [From Batch to Streaming: Accelerating Data Freshness in Uber's Data Lake](data/cs2109-from-batch-to-streaming-accelerating-data-freshness-in-ubers.md) — Uber · 2025
-- [Modernizing Uber's Batch Data Infrastructure with Google Cloud Platform](data/cs2110-modernizing-ubers-batch-data-infrastructure-with-google-cloud-platform.md) — Uber · 2024
-- [DataMesh: How Uber laid the foundations for the data lake cloud migration](data/cs2111-datamesh-how-uber-laid-the-foundations-for-the-data.md) — Uber · 2024
-- [Model Excellence Scores: A Framework for Enhancing the Quality of Machine Learning Systems at Scale](data/cs2202-model-excellence-scores-a-framework-for-enhancing-the-quality.md) — Uber · 2024
-- [How Wayfair Improves Its Feature Engineering with Vertex AI](data/cs2201-how-wayfair-improves-its-feature-engineering-with-vertex-ai.md) — Wayfair · 2024
-- [How Zalando Built a Unified Data Foundation for AI and Analytics on Databricks](data/cs2205-how-zalando-built-a-unified-data-foundation-for-ai.md) — Zalando · 2026
-
 ## Recommenders & Personalization (19)
 
 - [Recommending travel destinations to help users explore](rec/cs2349-recommending-travel-destinations-to-help-users-explore.md) — Airbnb · 2026
@@ -330,26 +455,23 @@
 - [TwERC: High Performance Ensembled Candidate Generation for Ads Recommendation at Twitter](rec/cs2351-twerc-high-performance-ensembled-candidate-generation-for-ads-recommendation.md) — Twitter · 2023
 - [X Algorithm: Open-Source Grok-Powered For You Feed Recommendation](rec/cs2294-x-algorithm-open-source-grok-powered-for-you-feed.md) — X · 2026
 
-## Forecasting & Time-Series (18)
+## Graph ML (15)
 
-- [When History Fails You, Borrow from Geography: Corridor-Level Demand Forecasting at Airbnb](forecast/cs2114-when-history-fails-you-borrow-from-geography-corridor-level.md) — Airbnb · 2026
-- [Coop reduces food waste by forecasting with Google's AI and Data Cloud](forecast/cs2383-coop-reduces-food-waste-by-forecasting-with-googles-ai.md) — Coop · 2023
-- [Sculpturing: Optimising Budget through Machine Learning](forecast/cs0855-sculpturing-optimising-budget-through-machine-learning.md) — Foodpanda · 2024
-- [The Making: Optimising Budget through Machine Learning](forecast/cs0864-the-making-optimising-budget-through-machine-learning.md) — Foodpanda · 2024
-- [Forecasting Capacity Outages Using Machine Learning to Bolster Application Resiliency](forecast/cs2210-forecasting-capacity-outages-using-machine-learning-to-bolster-application.md) — Goldman Sachs · 2024
-- [Machine-Learning Predictive Autoscaling for Flink](forecast/cs2211-machine-learning-predictive-autoscaling-for-flink.md) — Grab · 2025
-- [How Hapag-Lloyd Improved Schedule Reliability with ML-Powered Vessel Schedule Predictions Using Amazon SageMaker](forecast/cs2212-how-hapag-lloyd-improved-schedule-reliability-with-ml-powered.md) — Hapag-Lloyd · 2025
-- [Print Demand Forecasting with Machine Learning at HP Inc.](forecast/cs2116-print-demand-forecasting-with-machine-learning-at-hp-inc.md) — HP Inc. · 2024
-- [Building for Balance: Instacart's Supply Allocation & Generation Engine (SAGE)](forecast/cs2214-building-for-balance-instacarts-supply-allocation-generation-engine-sage.md) — Instacart · 2024
-- [Lufthansa increases on-time flights by wind forecasting with Google Cloud ML](forecast/cs2384-lufthansa-increases-on-time-flights-by-wind-forecasting-with.md) — Lufthansa · 2022
-- [Real-Time Spatial Temporal Forecasting @ Lyft](forecast/cs0782-real-time-spatial-temporal-forecasting-lyft.md) — Lyft · 2025
-- [Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads](forecast/cs1114-meta-adaptive-ranking-model-bending-the-inference-scaling-curve.md) — Meta · 2026
-- [Fine-Tuning Time-Series Foundation Models on Business Data](forecast/cs2209-fine-tuning-time-series-foundation-models-on-business-data.md) — Salesforce · 2026
-- [Machine Learning at Shopify: Tabular Transformer for Merchant GMV Forecasting](forecast/cs2117-machine-learning-at-shopify-tabular-transformer-for-merchant-gmv.md) — Shopify · 2025
-- [Doubling Our ETA Accuracy with Machine Learning in Production](forecast/cs2115-doubling-our-eta-accuracy-with-machine-learning-in-production.md) — Transporeon · 2024
-- [Enhancing Uber's Guidance Heatmap with Deep Probabilistic Models](forecast/cs2208-enhancing-ubers-guidance-heatmap-with-deep-probabilistic-models.md) — Uber · 2025
-- [Decking the Aisles with Data: How Walmart's AI-Powered Inventory System Brightens the Holidays](forecast/cs2213-decking-the-aisles-with-data-how-walmarts-ai-powered.md) — Walmart · 2023
-- [How Data Science and Applied Science Work Together at Wolt](forecast/cs2385-how-data-science-and-applied-science-work-together-at.md) — Wolt · 2025
+- [Augmenting Knowledge Graph Hierarchies Using Neural Transformers](graph/cs2253-augmenting-knowledge-graph-hierarchies-using-neural-transformers.md) — Adobe · 2024
+- [GraphStorm: All-in-one Graph Machine Learning Framework for Industry Applications](graph/cs2338-graphstorm-all-in-one-graph-machine-learning-framework-for.md) — Amazon · 2024
+- [Mitigating risk: AWS backbone network traffic prediction using GraphStorm](graph/cs2425-mitigating-risk-aws-backbone-network-traffic-prediction-using-graphstorm.md) — Amazon · 2023
+- [Distributed Graph Neural Network Inference With Just-In-Time Compilation For Industry-Scale Graphs](graph/cs2132-distributed-graph-neural-network-inference-with-just-in-time.md) — Ant Group · 2025
+- [TTGL: Large-scale Multi-scenario Universal Graph Learning at TikTok](graph/cs2249-ttgl-large-scale-multi-scenario-universal-graph-learning-at.md) — ByteDance · 2025
+- [GoSage: Heterogeneous Graph Neural Network Using Hierarchical Attention for Collusion Fraud Detection](graph/cs2131-gosage-heterogeneous-graph-neural-network-using-hierarchical-attention-for.md) — Gojek · 2023
+- [TF-GNN: Graph Neural Networks in TensorFlow](graph/cs2337-tf-gnn-graph-neural-networks-in-tensorflow.md) — Google · 2022
+- [Graph Service Platform](graph/cs2250-graph-service-platform.md) — Grab · 2023
+- [Spade: A Real-Time Fraud Detection Framework on Evolving Graphs](graph/cs2251-spade-a-real-time-fraud-detection-framework-on-evolving.md) — Grab · 2022
+- [Spade+: A Generic Real-Time Fraud Detection Framework on Dynamic Graphs](graph/cs2252-spade-a-generic-real-time-fraud-detection-framework-on.md) — Grab · 2024
+- [Hierarchical Structure Sharing Empowers Multi-task Heterogeneous GNNs for Customer Expansion](graph/cs2255-hierarchical-structure-sharing-empowers-multi-task-heterogeneous-gnns-for.md) — JD Logistics · 2025
+- [JPEC: A Novel Graph Neural Network for Competitor Retrieval in Financial Knowledge Graphs](graph/cs2254-jpec-a-novel-graph-neural-network-for-competitor-retrieval.md) — JPMorgan Chase · 2024
+- [RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation](graph/cs2129-rankgraph-2-lifecycle-co-design-for-billion-node-graph.md) — Meta · 2026
+- [Synergistic Signals: Exploiting Co-Engagement and Semantic Links via Graph Neural Networks](graph/cs2130-synergistic-signals-exploiting-co-engagement-and-semantic-links-via.md) — Netflix · 2023
+- [CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs](graph/cs2256-cfrecs-counterfactual-recommendations-on-real-estate-user-listing-interaction.md) — Zillow · 2026
 
 ## Fraud, Abuse & Risk (14)
 
@@ -367,23 +489,6 @@
 - [Built with BigQuery: How Sift Delivers Fraud Detection Workflow Backtesting at Scale](fraud/cs2386-built-with-bigquery-how-sift-delivers-fraud-detection-workflow.md) — Sift · 2023
 - [Using AI to Create Dynamic, Risk-Based Radar Rules](fraud/cs2216-using-ai-to-create-dynamic-risk-based-radar-rules.md) — Stripe · 2025
 - [Sun Finance Automates ID Extraction and Fraud Detection with Generative AI on AWS](fraud/cs2331-sun-finance-automates-id-extraction-and-fraud-detection-with.md) — Sun Finance · 2026
-
-## Graph ML (14)
-
-- [Augmenting Knowledge Graph Hierarchies Using Neural Transformers](graph/cs2253-augmenting-knowledge-graph-hierarchies-using-neural-transformers.md) — Adobe · 2024
-- [GraphStorm: All-in-one Graph Machine Learning Framework for Industry Applications](graph/cs2338-graphstorm-all-in-one-graph-machine-learning-framework-for.md) — Amazon · 2024
-- [Distributed Graph Neural Network Inference With Just-In-Time Compilation For Industry-Scale Graphs](graph/cs2132-distributed-graph-neural-network-inference-with-just-in-time.md) — Ant Group · 2025
-- [TTGL: Large-scale Multi-scenario Universal Graph Learning at TikTok](graph/cs2249-ttgl-large-scale-multi-scenario-universal-graph-learning-at.md) — ByteDance · 2025
-- [GoSage: Heterogeneous Graph Neural Network Using Hierarchical Attention for Collusion Fraud Detection](graph/cs2131-gosage-heterogeneous-graph-neural-network-using-hierarchical-attention-for.md) — Gojek · 2023
-- [TF-GNN: Graph Neural Networks in TensorFlow](graph/cs2337-tf-gnn-graph-neural-networks-in-tensorflow.md) — Google · 2022
-- [Graph Service Platform](graph/cs2250-graph-service-platform.md) — Grab · 2023
-- [Spade: A Real-Time Fraud Detection Framework on Evolving Graphs](graph/cs2251-spade-a-real-time-fraud-detection-framework-on-evolving.md) — Grab · 2022
-- [Spade+: A Generic Real-Time Fraud Detection Framework on Dynamic Graphs](graph/cs2252-spade-a-generic-real-time-fraud-detection-framework-on.md) — Grab · 2024
-- [Hierarchical Structure Sharing Empowers Multi-task Heterogeneous GNNs for Customer Expansion](graph/cs2255-hierarchical-structure-sharing-empowers-multi-task-heterogeneous-gnns-for.md) — JD Logistics · 2025
-- [JPEC: A Novel Graph Neural Network for Competitor Retrieval in Financial Knowledge Graphs](graph/cs2254-jpec-a-novel-graph-neural-network-for-competitor-retrieval.md) — JPMorgan Chase · 2024
-- [RankGraph-2: Lifecycle Co-Design for Billion-Node Graph Learning in Recommendation](graph/cs2129-rankgraph-2-lifecycle-co-design-for-billion-node-graph.md) — Meta · 2026
-- [Synergistic Signals: Exploiting Co-Engagement and Semantic Links via Graph Neural Networks](graph/cs2130-synergistic-signals-exploiting-co-engagement-and-semantic-links-via.md) — Netflix · 2023
-- [CFRecs: Counterfactual Recommendations on Real Estate User Listing Interaction Graphs](graph/cs2256-cfrecs-counterfactual-recommendations-on-real-estate-user-listing-interaction.md) — Zillow · 2026
 
 ## Content Moderation (14)
 
